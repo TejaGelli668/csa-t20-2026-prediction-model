@@ -49,7 +49,7 @@ teams.
 * Models: Elo, Logistic Regression, Random Forest, Gradient Boosting, blended
   by back-test skill.
 * Back-test: train on earlier seasons and predict each season from 2015-16 to
-  2026 (267 matches). The ensemble scores log loss 0.679 vs 0.693 for a coin
+  2026 (330 matches). The ensemble scores log loss 0.679 vs 0.693 for a coin
   flip, with 58.5% accuracy and AUC 0.60.
 * Washout model: logistic regression of abandonment on venue rainfall, applied
   to the forecast (up to 16 days ahead) or to venue climatology.

@@ -108,7 +108,7 @@ function Overview({ go }) {
               {unavailable.length > 0 && (
                 <> The main risk is availability: {unavailable.map((p) => p.player).join(", ")}{" "}
                   {unavailable.length === 1 ? "is" : "are"} likely to miss the Super Eights (
-                  {unavailable.map((p) => `${p.player.split(" ").at(-1)}: ${(p.note_super8 || p.status).toLowerCase()}`).join("; ")}).</>
+                  {unavailable.map((p) => `${p.player.split(" ").at(-1)}: ${p.note_super8 || p.status}`).join("; ")}).</>
               )}
             </p>
           </div>
