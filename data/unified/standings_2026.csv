@@ -1,0 +1,17 @@
+pool,team,team_name,played,won,lost,no_result,points_from_results,nrr_computed,cricbuzz_played,cricbuzz_points,cricbuzz_nrr,espn_points,espn_nrr,points,nrr,form
+Pool B,TIT,Titans,2,2,0,0,9.0,3.525,2,7,3.525,9.0,3.525,9.0,3.525,WW
+Pool B,BOL,Boland,1,1,0,0,4.0,0.05,1,4,0.05,4.0,0.05,4.0,0.05,W
+Pool B,WPR,Western Province,2,1,1,0,4.0,-1.328,2,2,-1.328,4.0,-1.328,4.0,-1.328,LW
+Pool B,ESTORM,Eastern Storm,1,0,0,1,2.0,0.0,1,2,0.0,2.0,0.0,2.0,0.0,
+Pool B,KZNIN,KwaZulu-Natal Inland Tuskers,1,0,0,1,2.0,0.0,1,2,0.0,2.0,0.0,2.0,0.0,
+Pool B,SAEP,South Africa Emerging Players,1,0,0,1,2.0,0.0,1,2,0.0,2.0,0.0,2.0,0.0,
+Pool B,MPR,Mpumalanga Rhinos,2,0,1,1,2.0,-3.3,2,2,-3.3,2.0,-3.3,2.0,-3.3,L
+Pool B,KNG,Knights,2,0,2,0,0.0,-0.119,2,0,-0.119,0.0,-0.119,0.0,-0.119,LL
+Pool A,BOR,Border,2,1,0,1,6.0,0.65,2,6,0.65,6.0,0.65,6.0,0.65,W
+Pool A,NWEST,North West - Eastvaal Renault Dragons,2,1,1,0,5.0,0.602,2,5,0.602,5.0,0.602,5.0,0.602,WL
+Pool A,LIONS,Lions,1,1,0,0,4.0,0.4,1,4,0.4,4.0,0.4,4.0,0.4,W
+Pool A,WAR,Warriors,2,1,1,0,4.0,-0.059,2,4,-0.059,4.0,-0.059,4.0,-0.059,LW
+Pool A,NCAPE,Northern Cape,2,0,1,1,2.0,-5.2,1,2,0.0,2.0,-5.2,2.0,-5.2,
+Pool A,SWD,South Western Districts,0,0,0,0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,
+Pool A,DOL,Dolphins,2,1,1,0,5.0,2.4,1,0,-0.4,5.0,2.4,5.0,2.4,L
+Pool A,LIMPO,Limpopo,1,0,1,0,0.0,-1.75,1,0,-1.75,0.0,-1.75,0.0,-1.75,L

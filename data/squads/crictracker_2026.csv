@@ -1,0 +1,258 @@
+team,team_name,player,role
+BOL,Boland,Blayde Capell,Wicketkeeper
+BOL,Boland,Gavin Kaplan,Batter
+BOL,Boland,Jhedli van Briesies,Batter
+BOL,Boland,Ferisco Adams,All-rounder
+BOL,Boland,Nathan Jacobs,Bowler
+BOL,Boland,Jevano Baron,All-rounder
+BOL,Boland,Lehan Botha,Bowler
+BOL,Boland,Siyabonga Mahima,Bowler
+BOL,Boland,Imran Manack,Bowler
+BOL,Boland,Akhona Mnyaka,Bowler
+BOL,Boland,Glenton Stuurman,Bowler
+BOL,Boland,Ethan Cunningham,Batter
+BOL,Boland,Ruan Terblanche,Batter
+BOL,Boland,Neil Brand,All-rounder
+BOL,Boland,Yves Kamanzi,Bowler
+BOL,Boland,Lizaad Williams,Bowler
+BOL,Boland,Jason Muirhead,Batter
+BOL,Boland,Gysbert Wege,Batter
+BOR,Border,Nathan Roux,Batter
+BOR,Border,Mncedisi Malika,Wicketkeeper
+BOR,Border,Jerome Bossr,Wicketkeeper
+BOR,Border,Christopher Gleaves,Batter
+BOR,Border,Marco Marais,Batter
+BOR,Border,Jason Niemand,All-rounder
+BOR,Border,Tladi Bokako,Bowler
+BOR,Border,Mathew Fourie,Batter
+BOR,Border,Ayabonga Tongo,All-rounder
+BOR,Border,Jade de Klerk,All-rounder
+BOR,Border,Sinovuyo Ntuntwana,Batter
+BOR,Border,Nico van Zyl,Batter
+BOR,Border,Michael Copeland,Batter
+BOR,Border,Lihle Sizani,Batter
+BOR,Border,Hardus Coetzer,All-rounder
+BOR,Border,Christiaan du Toit,
+BOR,Border,Sithembile Langa,Bowler
+BOR,Border,Ayabulela Gqamane,All-rounder
+BOR,Border,Alindile Mhletywa,All-rounder
+BOR,Border,Kgaudisa Molefe,Bowler
+BOR,Border,Thando Ntini,Bowler
+DOL,Dolphins,Hanu Viljoen,Batter
+DOL,Dolphins,Jason Smith,Batter
+DOL,Dolphins,Marques Ackerman,Batter
+DOL,Dolphins,Khaya Zondo,Batter
+DOL,Dolphins,Bryce Parsons,Batter
+DOL,Dolphins,Romashan Pillay,Batter
+DOL,Dolphins,Andile Simelane,Bowler
+DOL,Dolphins,Semal Pillay,Batter
+DOL,Dolphins,Okuhle Cele,Bowler
+DOL,Dolphins,Prenelan Subrayen,All-rounder
+DOL,Dolphins,Nqobani Mokoena,Bowler
+DOL,Dolphins,Grant Roelofsen,Wicketkeeper
+DOL,Dolphins,Joshua Richards,Batter
+DOL,Dolphins,David Miller,Batter
+DOL,Dolphins,Keith Dudgeon,All-rounder
+DOL,Dolphins,Buyanda Majola,Batter
+DOL,Dolphins,Sean Gilson,Batter
+DOL,Dolphins,Gomolemo Phiri,Batter
+DOL,Dolphins,Tristan Luus,BOWLER
+ESTORM,Eastern Storm,Amaan Khan,Batter
+ESTORM,Eastern Storm,Dewan Marais,Batter
+ESTORM,Eastern Storm,Christopher Britz,Batter
+ESTORM,Eastern Storm,Kabelo Sekhukhune,Batter
+ESTORM,Eastern Storm,Jurie Snyman,Batter
+ESTORM,Eastern Storm,Brayden Hicks,Batter
+ESTORM,Eastern Storm,Juan Lubbe,Batter
+ESTORM,Eastern Storm,Aryan Gopalan,All-rounder
+ESTORM,Eastern Storm,Chad Classen,Bowler
+ESTORM,Eastern Storm,Sabelo Mabanga,Bowler
+ESTORM,Eastern Storm,Martin Khumalo,Bowler
+ESTORM,Eastern Storm,Thabiso Lekhoana,All-rounder
+KNG,Knights,Gihahn Cloete,Batter
+KNG,Knights,Isaac Dikgale,Wicketkeeper
+KNG,Knights,Lesego Senokwane,Batter
+KNG,Knights,Jacques Snyman,All-rounder
+KNG,Knights,Tiaan van Vuuren,ALL-ROUNDER
+KNG,Knights,Ruan Haasbroek,Wicketkeeper
+KNG,Knights,Dane Piedt,Bowler
+KNG,Knights,Ruben Maree,
+KNG,Knights,Mbongiseni Mhlanga,Bowler
+KNG,Knights,Malusi Siboto,Bowler
+KNG,Knights,Wian Ruthven,
+KNG,Knights,Cole Abrahams,
+KNG,Knights,Seth Fledermaus,All-rounder
+KNG,Knights,Emmanuel Motswiri,All-rounder
+KNG,Knights,Junaid Dawood,Bowler
+KNG,Knights,Jonathan Bird,Batter
+KNG,Knights,Ntando soni,All-rounder
+KNG,Knights,George Van Heerden,Batter
+KZNIN,KwaZulu-Natal Inland,Cameron Dean Shekleton,Wicketkeeper
+KZNIN,KwaZulu-Natal Inland,Kagiso Rapulana,Batter
+KZNIN,KwaZulu-Natal Inland,Jack Lees,Batter
+KZNIN,KwaZulu-Natal Inland,Chad Laycock,Batter
+KZNIN,KwaZulu-Natal Inland,Muhammed Bulbulia,Batter
+KZNIN,KwaZulu-Natal Inland,Michael Erlank,Batter
+KZNIN,KwaZulu-Natal Inland,Malcolm Nofal,All-rounder
+KZNIN,KwaZulu-Natal Inland,Ziyaad Abrahams,Bowler
+KZNIN,KwaZulu-Natal Inland,Bamanye Xenxe,Bowler
+KZNIN,KwaZulu-Natal Inland,Thabiso Ndlela,
+KZNIN,KwaZulu-Natal Inland,Ludwig Kaestner,Wicketkeeper
+KZNIN,KwaZulu-Natal Inland,Joshua van Biljon,Batter
+KZNIN,KwaZulu-Natal Inland,Matthew Urquhart,
+KZNIN,KwaZulu-Natal Inland,Parth Patel-I,Batter
+KZNIN,KwaZulu-Natal Inland,Daelen Fynn,Batter
+KZNIN,KwaZulu-Natal Inland,Liyema Waqu,Batter
+KZNIN,KwaZulu-Natal Inland,Jesse Albanie,Batter
+LIMPO,Limpopo,Liam Peters,Batter
+LIMPO,Limpopo,Don Radebe,Bowler
+LIMPO,Limpopo,Patoona Maphekgola,Batter
+LIMPO,Limpopo,Atwell Mokgoloboto,All-rounder
+LIMPO,Limpopo,Shelton Ngobeni,Wicketkeeper
+LIMPO,Limpopo,Tylor Trenoweth,Batter
+LIMPO,Limpopo,Abdullah Bayoumy,Bowler
+LIMPO,Limpopo,Kyle Landsberg,Batter
+LIMPO,Limpopo,Marcello Piedt,Bowler
+LIMPO,Limpopo,Ernest Kemm,All-rounder
+LIMPO,Limpopo,Lesego Kokohlabana,Bowler
+LIMPO,Limpopo,Irwin Modimokaoane,Batter
+LIMPO,Limpopo,Christoffel Klijnhans,All-rounder
+LIMPO,Limpopo,Tom Mayes,Batter
+LIMPO,Limpopo,Keenan Vieira,Batter
+LIONS,Lions,Connor Esterhuizen,WICKETKEEPER
+LIONS,Lions,Wandile Makwetu,Wicketkeeper
+LIONS,Lions,Dominic Hendricks,Wicketkeeper
+LIONS,Lions,Mitchell Van Buuren,Batter
+LIONS,Lions,Zubayr Hamza,Batter
+LIONS,Lions,Richard Seletswane,Batter
+LIONS,Lions,Rassie van der Dussen,Batter
+LIONS,Lions,Reeza Hendricks,Batter
+LIONS,Lions,Delano Potgieter,All-rounder
+LIONS,Lions,Codi Yusuf,Bowler
+LIONS,Lions,Siya Plaatjie,Batter
+LIONS,Lions,Bjorn Fortuin,Bowler
+LIONS,Lions,Lutho Sipamla,Bowler
+LIONS,Lions,Nqabayomzi Peter,Bowler
+LIONS,Lions,Quinton de Kock,Wicketkeeper
+LIONS,Lions,Wiaan Mulder,ALL-ROUNDER
+MPR,Mpumalanga Rhinos,Benjamin van Niekerk,Batter
+MPR,Mpumalanga Rhinos,Muhammed Mayet,Batter
+MPR,Mpumalanga Rhinos,Yassar Cook,Batter
+MPR,Mpumalanga Rhinos,Karabo Mogotsi,Batter
+MPR,Mpumalanga Rhinos,Zakir Kathrada,Batter
+MPR,Mpumalanga Rhinos,Jon Hinrichsen,All-rounder
+MPR,Mpumalanga Rhinos,Tetelo Maphaka,Batter
+MPR,Mpumalanga Rhinos,B Brokensha,
+MPR,Mpumalanga Rhinos,Garnett Tarr,Batter
+MPR,Mpumalanga Rhinos,Thabile Hlatuka,Bowler
+MPR,Mpumalanga Rhinos,Ricus Kramm,
+MPR,Mpumalanga Rhinos,Aubrey Swanepoel,All-rounder
+MPR,Mpumalanga Rhinos,Ruben du Toit,
+MPR,Mpumalanga Rhinos,Nhlanhla Dlamini,Batter
+NWEST,North West Dragons,Rubin Hermann,Wicketkeeper
+NWEST,North West Dragons,Ruan de Swardt,All-rounder
+NWEST,North West Dragons,Meeka-eel Prince,Batter
+NWEST,North West Dragons,Raynard van Tonder,Batter
+NWEST,North West Dragons,Lesiba Ngoepe,Batter
+NWEST,North West Dragons,Diego Rosier,Batter
+NWEST,North West Dragons,Ludwich Schuld,Batter
+NWEST,North West Dragons,Wihan Lubbe,All-rounder
+NWEST,North West Dragons,Dian Forrester,All-rounder
+NWEST,North West Dragons,Onke Nyaku,All-rounder
+NWEST,North West Dragons,Alfred Mothoa,Bowler
+NWEST,North West Dragons,Caleb Seleka,Bowler
+NWEST,North West Dragons,Nealan van Heerden,Bowler
+NWEST,North West Dragons,Lutendo Tsanwani,Bowler
+NWEST,North West Dragons,Juan James,All-rounder
+NWEST,North West Dragons,Paul James,All-rounder
+NWEST,North West Dragons,Daryn Dupavillon,Bowler
+NWEST,North West Dragons,Mthiwekhaya Nabe,Bowler
+NCAPE,Northern Cape,Nonelela Yikha,Batter
+NCAPE,Northern Cape,Romano Terblanche,Bowler
+NCAPE,Northern Cape,Johan Van-Dyk,Bowler
+NCAPE,Northern Cape,Tshepo Ntuli,Bowler
+NCAPE,Northern Cape,Odirile Modimokoane,Bowler
+NCAPE,Northern Cape,Gerhardus Maree,Wicketkeeper
+NCAPE,Northern Cape,Tahir Isaacs,Wicketkeeper
+NCAPE,Northern Cape,Steve Stolk,All-rounder
+NCAPE,Northern Cape,Kyle Jacobs,Bowler
+NCAPE,Northern Cape,Blake Simpson,All-rounder
+NCAPE,Northern Cape,Charl Prinsloo,
+NCAPE,Northern Cape,Ronan Hermann,Wicketkeeper
+NCAPE,Northern Cape,J van Dyk,Bowler
+NCAPE,Northern Cape,Liam Doherty,Batter
+NCAPE,Northern Cape,Ruan van Rooyen,
+NCAPE,Northern Cape,Orapeleng Motlhoaring,All-rounder
+NCAPE,Northern Cape,Abel Mokwena,
+NCAPE,Northern Cape,Tristan van Rensburg,
+SWD,South Western Districts,Luke Beaufort,Wicketkeeper
+SWD,South Western Districts,Yaseen Valli,Batter
+SWD,South Western Districts,Nathan Engelbrecht,Wicketkeeper
+SWD,South Western Districts,Heath Richards,Batter
+SWD,South Western Districts,Ruan Terblanche,Batter
+SWD,South Western Districts,Pheko Moletsane,Bowler
+SWD,South Western Districts,Kelly Smuts,All-rounder
+SWD,South Western Districts,Keenan Vieira,Batter
+SWD,South Western Districts,Tyrese Karelse,Batter
+SWD,South Western Districts,Thomas Kaber,All-rounder
+SWD,South Western Districts,Jarred Jardine,Bowler
+SWD,South Western Districts,Liabona Malife,All-rounder
+SWD,South Western Districts,Sintu Majiza,Bowler
+SWD,South Western Districts,Khwezi Gumede,Bowler
+SWD,South Western Districts,Lifa Ntanzi,Bowler
+SWD,South Western Districts,Irwin Modimokaoane,Batter
+TIT,Titans,Rivaldo Moonsamy,Wicketkeeper
+TIT,Titans,Lhuan-dre Pretorius,Wicketkeeper
+TIT,Titans,Kegan Lion Cachet,Wicketkeeper
+TIT,Titans,Donovan Ferreira,All-rounder
+TIT,Titans,Tshepang Dithole,Wicketkeeper
+TIT,Titans,Keegan Petersen,Batter
+TIT,Titans,Sinethemba Qeshile,Wicketkeeper
+TIT,Titans,Leus du Plooy,Batter
+TIT,Titans,Andile Phehlukwayo,All-rounder
+TIT,Titans,Dayyaan Galiem,All-rounder
+TIT,Titans,Eathan Bosch,All-rounder
+TIT,Titans,Beyers Swanepoel,Bowler
+TIT,Titans,Evan Jones,Batter
+TIT,Titans,Tsepo Ndwandwa,Bowler
+TIT,Titans,Duan Jansen,Bowler
+TIT,Titans,Junior Dala,Bowler
+TIT,Titans,Aphiwe Mnyanda,Bowler
+TIT,Titans,Dewald Brevis,Batter
+TIT,Titans,Lethabo Phahlamohlaka,Wicketkeeper
+TIT,Titans,Tabraiz Shamsi,Bowler
+TIT,Titans,Janco Smit,
+WAR,Warriors,Jean du Plessis,Wicketkeeper
+WAR,Warriors,Modiri Litheko,Batter
+WAR,Warriors,Jordan Hermann,Batter
+WAR,Warriors,Matthew De Villiers,Batter
+WAR,Warriors,Muhammad Manack,Batter
+WAR,Warriors,Patrick Kruger,Batter
+WAR,Warriors,Jp King,Bowler
+WAR,Warriors,Thomas Kaber,All-rounder
+WAR,Warriors,Matthew Boast,All-rounder
+WAR,Warriors,Duanne Olivier,Bowler
+WAR,Warriors,Kerwin Mungroo,Bowler
+WAR,Warriors,Wesley Bedja,Bowler
+WAR,Warriors,Gideon Peters,Bowler
+WAR,Warriors,Sibonelo Makhanya,Batter
+WAR,Warriors,Andile Mokgakane,Batter
+WAR,Warriors,Beuran Hendricks,Bowler
+WPR,Western Province,Daniel Smith,
+WPR,Western Province,Edward Moore,Batter
+WPR,Western Province,Valentine Kitime,Batter
+WPR,Western Province,Jiveshan Pillay,Batter
+WPR,Western Province,Joshua van Heerden,Batter
+WPR,Western Province,Oliver Whitehead,Batter
+WPR,Western Province,George Linde,All-rounder
+WPR,Western Province,Mihlali Mpongwana,Bowler
+WPR,Western Province,Josh Breed,Batter
+WPR,Western Province,Kyle Simmonds,All-rounder
+WPR,Western Province,Dane Paterson,Bowler
+WPR,Western Province,Tshepo Moreki,Bowler
+WPR,Western Province,Nandre Burger,Bowler
+WPR,Western Province,Raeeq Daniels,Bowler
+WPR,Western Province,Bongi Mfunelwa,
+WPR,Western Province,Kashief Joseph,Bowler
+WPR,Western Province,Jody Lawrence,Batter
+WPR,Western Province,Mbulelo Dube,

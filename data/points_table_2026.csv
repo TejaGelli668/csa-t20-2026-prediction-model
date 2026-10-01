@@ -1,0 +1,17 @@
+pool,team,team_name,played,won,lost,tied,no_result,nrr,points,form
+Pool B,TIT,Titans,2,2,0,0,0,3.525,7,WW
+Pool B,BOL,Boland,1,1,0,0,0,0.05,4,W
+Pool B,WPR,Western Province,2,1,1,0,0,-1.328,2,LW
+Pool B,ESTORM,Eastern Storm,1,0,0,0,1,0.0,2,
+Pool B,KZNIN,KwaZulu-Natal Inland Tuskers,1,0,0,0,1,0.0,2,
+Pool B,SAEP,South Africa Emerging Players,1,0,0,0,1,0.0,2,
+Pool B,MPR,Mpumalanga Rhinos,2,0,1,0,1,-3.3,2,L
+Pool B,KNG,Knights,2,0,2,0,0,-0.119,0,LL
+Pool A,BOR,Border,2,1,0,0,1,0.65,6,W
+Pool A,NWEST,North West - Eastvaal Renault Dragons,2,1,1,0,0,0.602,5,WL
+Pool A,LIONS,Lions,1,1,0,0,0,0.4,4,W
+Pool A,WAR,Warriors,2,1,1,0,0,-0.059,4,LW
+Pool A,NCAPE,Northern Cape,1,0,0,0,1,0.0,2,
+Pool A,SWD,South Western Districts,0,0,0,0,0,0.0,0,
+Pool A,DOL,Dolphins,1,0,1,0,0,-0.4,0,L
+Pool A,LIMPO,Limpopo,1,0,1,0,0,-1.75,0,L

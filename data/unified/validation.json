@@ -1,0 +1,77 @@
+{
+ "cricbuzz_vs_cricsheet": {
+  "winner_agree": 123,
+  "score_agree": 117,
+  "score_disagree": 2
+ },
+ "cricbuzz_vs_espn": {
+  "winner_agree": 34
+ },
+ "gaps_filled": {
+  "result_from_espn": 1,
+  "match_only_in_cricsheet": 187
+ },
+ "player_crosswalk": {
+  "exact": 237,
+  "unmatched": 110,
+  "initial+surname": 17,
+  "cricbuzz_players": 364
+ },
+ "squads": {
+  "matched": 223,
+  "no history": 34,
+  "players": 257,
+  "teams": 15
+ },
+ "standings": {
+  "teams": 16,
+  "agree_with_espn_points": 16,
+  "agree_with_espn_nrr": 16,
+  "agree_with_cricbuzz_points": 13,
+  "cricbuzz_behind": [
+   "NCAPE",
+   "DOL"
+  ],
+  "cricbuzz_points_differ": {
+   "TIT": {
+    "results": 9.0,
+    "cricbuzz": 7,
+    "espn": 9.0
+   },
+   "WPR": {
+    "results": 4.0,
+    "cricbuzz": 2,
+    "espn": 4.0
+   }
+  }
+ },
+ "disagreements": [],
+ "source_counts": {
+  "cricbuzz_matches": 355,
+  "cricsheet_matches": 314,
+  "espn_matches": 103,
+  "unified_matches": 542,
+  "unified_batting_rows": 9796,
+  "unified_bowling_rows": 5411,
+  "players": 554,
+  "athlete_profiles": 453,
+  "squad_players": 257,
+  "seasons": [
+   "2011-12",
+   "2012-13",
+   "2013-14",
+   "2014-15",
+   "2015-16",
+   "2016-17",
+   "2017-18",
+   "2018-19",
+   "2020-21",
+   "2021-22",
+   "2022-23",
+   "2023-24",
+   "2024-25",
+   "2025-26",
+   "2026"
+  ]
+ }
+}

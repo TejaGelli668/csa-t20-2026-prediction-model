@@ -1,0 +1,258 @@
+team,team_name,player,role,player_key
+BOL,Boland,Blayde Capell,Wicketkeeper,ci:1062364
+BOL,Boland,Gavin Kaplan,Batter,ci:594995
+BOL,Boland,Jhedli van Briesies,Batter,cb:20297
+BOL,Boland,Ferisco Adams,All-rounder,ci:549288
+BOL,Boland,Nathan Jacobs,Bowler,
+BOL,Boland,Jevano Baron,All-rounder,cb:55748
+BOL,Boland,Lehan Botha,Bowler,ci:1255246
+BOL,Boland,Siyabonga Mahima,Bowler,ci:596537
+BOL,Boland,Imran Manack,Bowler,ci:437506
+BOL,Boland,Akhona Mnyaka,Bowler,ci:595882
+BOL,Boland,Glenton Stuurman,Bowler,ci:481803
+BOL,Boland,Ethan Cunningham,Batter,
+BOL,Boland,Ruan Terblanche,Batter,
+BOL,Boland,Neil Brand,All-rounder,ci:742489
+BOL,Boland,Yves Kamanzi,Bowler,
+BOL,Boland,Lizaad Williams,Bowler,
+BOL,Boland,Jason Muirhead,Batter,ci:1548623
+BOL,Boland,Gysbert Wege,Batter,ci:1509540
+BOR,Border,Nathan Roux,Batter,ci:698115
+BOR,Border,Mncedisi Malika,Wicketkeeper,ci:696161
+BOR,Border,Jerome Bossr,Wicketkeeper,ci:595043
+BOR,Border,Christopher Gleaves,Batter,cb:1431099
+BOR,Border,Marco Marais,Batter,ci:485216
+BOR,Border,Jason Niemand,All-rounder,ci:698117
+BOR,Border,Tladi Bokako,Bowler,ci:488620
+BOR,Border,Mathew Fourie,Batter,cb:34116
+BOR,Border,Ayabonga Tongo,All-rounder,cb:1431507
+BOR,Border,Jade de Klerk,All-rounder,ci:595907
+BOR,Border,Sinovuyo Ntuntwana,Batter,
+BOR,Border,Nico van Zyl,Batter,cb:31923
+BOR,Border,Michael Copeland,Batter,ci:946367
+BOR,Border,Lihle Sizani,Batter,cb:51644
+BOR,Border,Hardus Coetzer,All-rounder,ci:1341104
+BOR,Border,Christiaan du Toit,,ci:1508864
+BOR,Border,Sithembile Langa,Bowler,ci:596392
+BOR,Border,Ayabulela Gqamane,All-rounder,cb:9489
+BOR,Border,Alindile Mhletywa,All-rounder,ci:1203962
+BOR,Border,Kgaudisa Molefe,Bowler,ci:948513
+BOR,Border,Thando Ntini,Bowler,ci:695245
+DOL,Dolphins,Hanu Viljoen,Batter,ci:1071045
+DOL,Dolphins,Jason Smith,Batter,ci:498582
+DOL,Dolphins,Marques Ackerman,Batter,ci:596436
+DOL,Dolphins,Khaya Zondo,Batter,ci:318842
+DOL,Dolphins,Bryce Parsons,Batter,ci:1071000
+DOL,Dolphins,Romashan Pillay,Batter,ci:1385638
+DOL,Dolphins,Andile Simelane,Bowler,ci:1070754
+DOL,Dolphins,Semal Pillay,Batter,ci:1469372
+DOL,Dolphins,Okuhle Cele,Bowler,ci:595618
+DOL,Dolphins,Prenelan Subrayen,All-rounder,ci:437438
+DOL,Dolphins,Nqobani Mokoena,Bowler,ci:1414819
+DOL,Dolphins,Grant Roelofsen,Wicketkeeper,ci:699723
+DOL,Dolphins,Joshua Richards,Batter,ci:982593
+DOL,Dolphins,David Miller,Batter,ci:321777
+DOL,Dolphins,Keith Dudgeon,All-rounder,ci:596800
+DOL,Dolphins,Buyanda Majola,Batter,ci:1451597
+DOL,Dolphins,Sean Gilson,Batter,ci:596063
+DOL,Dolphins,Gomolemo Phiri,Batter,ci:1509591
+DOL,Dolphins,Tristan Luus,BOWLER,ci:1385637
+ESTORM,Eastern Storm,Amaan Khan,Batter,ci:1070696
+ESTORM,Eastern Storm,Dewan Marais,Batter,ci:1337356
+ESTORM,Eastern Storm,Christopher Britz,Batter,ci:807033
+ESTORM,Eastern Storm,Kabelo Sekhukhune,Batter,ci:595056
+ESTORM,Eastern Storm,Jurie Snyman,Batter,ci:543324
+ESTORM,Eastern Storm,Brayden Hicks,Batter,cb:41652
+ESTORM,Eastern Storm,Juan Lubbe,Batter,ci:1070976
+ESTORM,Eastern Storm,Aryan Gopalan,All-rounder,ci:1507202
+ESTORM,Eastern Storm,Chad Classen,Bowler,ci:595408
+ESTORM,Eastern Storm,Sabelo Mabanga,Bowler,
+ESTORM,Eastern Storm,Martin Khumalo,Bowler,ci:1399519
+ESTORM,Eastern Storm,Thabiso Lekhoana,All-rounder,
+KNG,Knights,Gihahn Cloete,Batter,ci:381030
+KNG,Knights,Isaac Dikgale,Wicketkeeper,ci:594274
+KNG,Knights,Lesego Senokwane,Batter,ci:596073
+KNG,Knights,Jacques Snyman,All-rounder,ci:594329
+KNG,Knights,Tiaan van Vuuren,ALL-ROUNDER,ci:696439
+KNG,Knights,Ruan Haasbroek,Wicketkeeper,ci:596084
+KNG,Knights,Dane Piedt,Bowler,ci:379926
+KNG,Knights,Ruben Maree,,cb:1463694
+KNG,Knights,Mbongiseni Mhlanga,Bowler,ci:1070783
+KNG,Knights,Malusi Siboto,Bowler,cb:9708
+KNG,Knights,Wian Ruthven,,cb:1464298
+KNG,Knights,Cole Abrahams,,ci:1255963
+KNG,Knights,Seth Fledermaus,All-rounder,ci:1402469
+KNG,Knights,Emmanuel Motswiri,All-rounder,ci:1071995
+KNG,Knights,Junaid Dawood,Bowler,cb:13629
+KNG,Knights,Jonathan Bird,Batter,ci:696587
+KNG,Knights,Ntando soni,All-rounder,
+KNG,Knights,George Van Heerden,Batter,ci:946177
+KZNIN,KwaZulu-Natal Inland,Cameron Dean Shekleton,Wicketkeeper,ci:696351
+KZNIN,KwaZulu-Natal Inland,Kagiso Rapulana,Batter,ci:379139
+KZNIN,KwaZulu-Natal Inland,Jack Lees,Batter,ci:1210507
+KZNIN,KwaZulu-Natal Inland,Chad Laycock,Batter,ci:1452090
+KZNIN,KwaZulu-Natal Inland,Muhammed Bulbulia,Batter,
+KZNIN,KwaZulu-Natal Inland,Michael Erlank,Batter,
+KZNIN,KwaZulu-Natal Inland,Malcolm Nofal,All-rounder,
+KZNIN,KwaZulu-Natal Inland,Ziyaad Abrahams,Bowler,ci:696297
+KZNIN,KwaZulu-Natal Inland,Bamanye Xenxe,Bowler,ci:595036
+KZNIN,KwaZulu-Natal Inland,Thabiso Ndlela,,ci:1452091
+KZNIN,KwaZulu-Natal Inland,Ludwig Kaestner,Wicketkeeper,cb:20458
+KZNIN,KwaZulu-Natal Inland,Joshua van Biljon,Batter,
+KZNIN,KwaZulu-Natal Inland,Matthew Urquhart,,
+KZNIN,KwaZulu-Natal Inland,Parth Patel-I,Batter,
+KZNIN,KwaZulu-Natal Inland,Daelen Fynn,Batter,cb:55739
+KZNIN,KwaZulu-Natal Inland,Liyema Waqu,Batter,ci:1290969
+KZNIN,KwaZulu-Natal Inland,Jesse Albanie,Batter,cb:22086
+LIMPO,Limpopo,Liam Peters,Batter,cb:20412
+LIMPO,Limpopo,Don Radebe,Bowler,ci:595832
+LIMPO,Limpopo,Patoona Maphekgola,Batter,
+LIMPO,Limpopo,Atwell Mokgoloboto,All-rounder,ci:696479
+LIMPO,Limpopo,Shelton Ngobeni,Wicketkeeper,ci:1308589
+LIMPO,Limpopo,Tylor Trenoweth,Batter,ci:595668
+LIMPO,Limpopo,Abdullah Bayoumy,Bowler,ci:1337353
+LIMPO,Limpopo,Kyle Landsberg,Batter,cb:55638
+LIMPO,Limpopo,Marcello Piedt,Bowler,ci:427964
+LIMPO,Limpopo,Ernest Kemm,All-rounder,ci:297484
+LIMPO,Limpopo,Lesego Kokohlabana,Bowler,
+LIMPO,Limpopo,Irwin Modimokaoane,Batter,
+LIMPO,Limpopo,Christoffel Klijnhans,All-rounder,
+LIMPO,Limpopo,Tom Mayes,Batter,ci:1253296
+LIMPO,Limpopo,Keenan Vieira,Batter,ci:806985
+LIONS,Lions,Connor Esterhuizen,WICKETKEEPER,ci:1070997
+LIONS,Lions,Wandile Makwetu,Wicketkeeper,ci:595910
+LIONS,Lions,Dominic Hendricks,Wicketkeeper,ci:379147
+LIONS,Lions,Mitchell Van Buuren,Batter,cb:19057
+LIONS,Lions,Zubayr Hamza,Batter,ci:550187
+LIONS,Lions,Richard Seletswane,Batter,cb:31958
+LIONS,Lions,Rassie van der Dussen,Batter,cb:9554
+LIONS,Lions,Reeza Hendricks,Batter,ci:269280
+LIONS,Lions,Delano Potgieter,All-rounder,ci:596442
+LIONS,Lions,Codi Yusuf,Bowler,ci:949461
+LIONS,Lions,Siya Plaatjie,Batter,ci:1176017
+LIONS,Lions,Bjorn Fortuin,Bowler,ci:553249
+LIONS,Lions,Lutho Sipamla,Bowler,cb:11208
+LIONS,Lions,Nqabayomzi Peter,Bowler,ci:946483
+LIONS,Lions,Quinton de Kock,Wicketkeeper,ci:379143
+LIONS,Lions,Wiaan Mulder,ALL-ROUNDER,cb:11200
+MPR,Mpumalanga Rhinos,Benjamin van Niekerk,Batter,ci:596535
+MPR,Mpumalanga Rhinos,Muhammed Mayet,Batter,ci:949459
+MPR,Mpumalanga Rhinos,Yassar Cook,Batter,cb:11009
+MPR,Mpumalanga Rhinos,Karabo Mogotsi,Batter,ci:594264
+MPR,Mpumalanga Rhinos,Zakir Kathrada,Batter,ci:429012
+MPR,Mpumalanga Rhinos,Jon Hinrichsen,All-rounder,ci:1070624
+MPR,Mpumalanga Rhinos,Tetelo Maphaka,Batter,ci:696337
+MPR,Mpumalanga Rhinos,B Brokensha,,ci:1507531
+MPR,Mpumalanga Rhinos,Garnett Tarr,Batter,ci:696309
+MPR,Mpumalanga Rhinos,Thabile Hlatuka,Bowler,ci:1349906
+MPR,Mpumalanga Rhinos,Ricus Kramm,,cb:1463229
+MPR,Mpumalanga Rhinos,Aubrey Swanepoel,All-rounder,
+MPR,Mpumalanga Rhinos,Ruben du Toit,,ci:1509595
+MPR,Mpumalanga Rhinos,Nhlanhla Dlamini,Batter,ci:1189295
+NWEST,North West Dragons,Rubin Hermann,Wicketkeeper,ci:596097
+NWEST,North West Dragons,Ruan de Swardt,All-rounder,ci:698321
+NWEST,North West Dragons,Meeka-eel Prince,Batter,ci:1337357
+NWEST,North West Dragons,Raynard van Tonder,Batter,ci:595380
+NWEST,North West Dragons,Lesiba Ngoepe,Batter,ci:429903
+NWEST,North West Dragons,Diego Rosier,Batter,ci:464702
+NWEST,North West Dragons,Ludwich Schuld,Batter,ci:1455040
+NWEST,North West Dragons,Wihan Lubbe,All-rounder,ci:429886
+NWEST,North West Dragons,Dian Forrester,All-rounder,ci:696471
+NWEST,North West Dragons,Onke Nyaku,All-rounder,cb:14429
+NWEST,North West Dragons,Alfred Mothoa,Bowler,
+NWEST,North West Dragons,Caleb Seleka,Bowler,ci:946365
+NWEST,North West Dragons,Nealan van Heerden,Bowler,
+NWEST,North West Dragons,Lutendo Tsanwani,Bowler,
+NWEST,North West Dragons,Juan James,All-rounder,ci:1337355
+NWEST,North West Dragons,Paul James,All-rounder,
+NWEST,North West Dragons,Daryn Dupavillon,Bowler,cb:10079
+NWEST,North West Dragons,Mthiwekhaya Nabe,Bowler,cb:13151
+NCAPE,Northern Cape,Nonelela Yikha,Batter,ci:1088122
+NCAPE,Northern Cape,Romano Terblanche,Bowler,
+NCAPE,Northern Cape,Johan Van-Dyk,Bowler,ci:543187
+NCAPE,Northern Cape,Tshepo Ntuli,Bowler,ci:550226
+NCAPE,Northern Cape,Odirile Modimokoane,Bowler,ci:948523
+NCAPE,Northern Cape,Gerhardus Maree,Wicketkeeper,ci:1070722
+NCAPE,Northern Cape,Tahir Isaacs,Wicketkeeper,ci:946375
+NCAPE,Northern Cape,Steve Stolk,All-rounder,ci:1406542
+NCAPE,Northern Cape,Kyle Jacobs,Bowler,ci:952211
+NCAPE,Northern Cape,Blake Simpson,All-rounder,
+NCAPE,Northern Cape,Charl Prinsloo,,
+NCAPE,Northern Cape,Ronan Hermann,Wicketkeeper,ci:596097
+NCAPE,Northern Cape,J van Dyk,Bowler,ci:543187
+NCAPE,Northern Cape,Liam Doherty,Batter,cb:1463927
+NCAPE,Northern Cape,Ruan van Rooyen,,ci:1508580
+NCAPE,Northern Cape,Orapeleng Motlhoaring,All-rounder,ci:948545
+NCAPE,Northern Cape,Abel Mokwena,,cb:1451053
+NCAPE,Northern Cape,Tristan van Rensburg,,
+SWD,South Western Districts,Luke Beaufort,Wicketkeeper,cb:14581
+SWD,South Western Districts,Yaseen Valli,Batter,cb:9575
+SWD,South Western Districts,Nathan Engelbrecht,Wicketkeeper,cb:55620
+SWD,South Western Districts,Heath Richards,Batter,cb:20293
+SWD,South Western Districts,Ruan Terblanche,Batter,
+SWD,South Western Districts,Pheko Moletsane,Bowler,cb:15922
+SWD,South Western Districts,Kelly Smuts,All-rounder,ci:327829
+SWD,South Western Districts,Keenan Vieira,Batter,ci:806985
+SWD,South Western Districts,Tyrese Karelse,Batter,cb:15918
+SWD,South Western Districts,Thomas Kaber,All-rounder,ci:381006
+SWD,South Western Districts,Jarred Jardine,Bowler,cb:14611
+SWD,South Western Districts,Liabona Malife,All-rounder,cb:50808
+SWD,South Western Districts,Sintu Majiza,Bowler,
+SWD,South Western Districts,Khwezi Gumede,Bowler,ci:949545
+SWD,South Western Districts,Lifa Ntanzi,Bowler,cb:14585
+SWD,South Western Districts,Irwin Modimokaoane,Batter,
+TIT,Titans,Rivaldo Moonsamy,Wicketkeeper,ci:596489
+TIT,Titans,Lhuan-dre Pretorius,Wicketkeeper,ci:1385640
+TIT,Titans,Kegan Lion Cachet,Wicketkeeper,ci:1425202
+TIT,Titans,Donovan Ferreira,All-rounder,ci:698315
+TIT,Titans,Tshepang Dithole,Wicketkeeper,
+TIT,Titans,Keegan Petersen,Batter,ci:485676
+TIT,Titans,Sinethemba Qeshile,Wicketkeeper,cb:13667
+TIT,Titans,Leus du Plooy,Batter,ci:595739
+TIT,Titans,Andile Phehlukwayo,All-rounder,
+TIT,Titans,Dayyaan Galiem,All-rounder,ci:550189
+TIT,Titans,Eathan Bosch,All-rounder,ci:698343
+TIT,Titans,Beyers Swanepoel,Bowler,ci:698319
+TIT,Titans,Evan Jones,Batter,ci:605681
+TIT,Titans,Tsepo Ndwandwa,Bowler,ci:973815
+TIT,Titans,Duan Jansen,Bowler,ci:595954
+TIT,Titans,Junior Dala,Bowler,ci:545467
+TIT,Titans,Aphiwe Mnyanda,Bowler,ci:1282002
+TIT,Titans,Dewald Brevis,Batter,ci:1070665
+TIT,Titans,Lethabo Phahlamohlaka,Wicketkeeper,ci:1451599
+TIT,Titans,Tabraiz Shamsi,Bowler,cb:10173
+TIT,Titans,Janco Smit,,ci:1479495
+WAR,Warriors,Jean du Plessis,Wicketkeeper,ci:595786
+WAR,Warriors,Modiri Litheko,Batter,ci:696517
+WAR,Warriors,Jordan Hermann,Batter,ci:1255248
+WAR,Warriors,Matthew De Villiers,Batter,ci:1088085
+WAR,Warriors,Muhammad Manack,Batter,ci:946255
+WAR,Warriors,Patrick Kruger,Batter,ci:499560
+WAR,Warriors,Jp King,Bowler,ci:1361874
+WAR,Warriors,Thomas Kaber,All-rounder,ci:381006
+WAR,Warriors,Matthew Boast,All-rounder,ci:1070739
+WAR,Warriors,Duanne Olivier,Bowler,cb:9823
+WAR,Warriors,Kerwin Mungroo,Bowler,ci:594335
+WAR,Warriors,Wesley Bedja,Bowler,ci:1412823
+WAR,Warriors,Gideon Peters,Bowler,ci:1072026
+WAR,Warriors,Sibonelo Makhanya,Batter,cb:9801
+WAR,Warriors,Andile Mokgakane,Batter,ci:1072594
+WAR,Warriors,Beuran Hendricks,Bowler,ci:379927
+WPR,Western Province,Daniel Smith,,ci:946453
+WPR,Western Province,Edward Moore,Batter,cb:9763
+WPR,Western Province,Valentine Kitime,Batter,ci:946351
+WPR,Western Province,Jiveshan Pillay,Batter,ci:698333
+WPR,Western Province,Joshua van Heerden,Batter,ci:698311
+WPR,Western Province,Oliver Whitehead,Batter,ci:1385642
+WPR,Western Province,George Linde,All-rounder,ci:481875
+WPR,Western Province,Mihlali Mpongwana,Bowler,cb:17026
+WPR,Western Province,Josh Breed,Batter,ci:1088083
+WPR,Western Province,Kyle Simmonds,All-rounder,ci:550251
+WPR,Western Province,Dane Paterson,Bowler,ci:327947
+WPR,Western Province,Tshepo Moreki,Bowler,ci:594235
+WPR,Western Province,Nandre Burger,Bowler,ci:971349
+WPR,Western Province,Raeeq Daniels,Bowler,ci:1418278
+WPR,Western Province,Bongi Mfunelwa,,
+WPR,Western Province,Kashief Joseph,Bowler,cb:1464111
+WPR,Western Province,Jody Lawrence,Batter,ci:825405
+WPR,Western Province,Mbulelo Dube,,ci:1509713

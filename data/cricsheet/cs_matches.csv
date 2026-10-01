@@ -1,0 +1,315 @@
+cs_id,date,season,event,stage,venue,city,team1,team2,team1_name,team2_name,toss_winner,toss_decision,winner,result,no_result,tied,win_by_runs,win_by_wickets,method,player_of_match,inn1_team,inn1_runs,inn1_wkts,inn1_balls,inn2_team,inn2_runs,inn2_wkts,inn2_balls
+530321,2012-02-15,2011-12,MiWAY T20 Challenge,Match 1,"St George's Park, Port Elizabeth",Port Elizabeth,WPR,WAR,Cape Cobras,Warriors,WAR,field,WPR,,0,0,10,,,M Ntini; S van Zyl,WPR,155,5,120,WAR,145,7,120
+530323,2012-02-17,2011-12,MiWAY T20 Challenge,Match 3,"De Beers Diamond Oval, Kimberley",Kimberley,WPR,KNG,Cape Cobras,Knights,KNG,field,,tie,0,1,,,D/L,R McLaren; S van Zyl,WPR,181,4,120,KNG,119,5,78
+530324,2012-02-17,2011-12,MiWAY T20 Challenge,Match 4,"Senwes Park, Potchefstroom",Potchefstroom,LIONS,IMPI,Lions,Impi,IMPI,field,LIONS,,0,0,61,,,E O'Reilly; CH Morris,LIONS,153,7,120,IMPI,92,10,119
+530325,2012-02-19,2011-12,MiWAY T20 Challenge,Match 5,"City Oval, Pietermaritzburg",Pietermaritzburg,DOL,IMPI,Dolphins,Impi,DOL,bat,DOL,,0,0,3,,,R Frylinck; K Zondo,DOL,151,6,120,IMPI,148,7,120
+530326,2012-02-19,2011-12,MiWAY T20 Challenge,Match 6,"SuperSport Park, Centurion",Centurion,TIT,KNG,Titans,Knights,KNG,field,KNG,,0,0,,5,,MN van Wyk; AC Thomas,TIT,165,7,120,KNG,170,5,116
+530327,2012-02-22,2011-12,MiWAY T20 Challenge,Match 7,"Boland Park, Paarl",Paarl,WPR,IMPI,Cape Cobras,Impi,IMPI,field,WPR,,0,0,40,,,J Louw; K Zondo,WPR,211,4,120,IMPI,171,6,120
+530328,2012-02-22,2011-12,MiWAY T20 Challenge,Match 8,"St George's Park, Port Elizabeth",Port Elizabeth,WAR,LIONS,Warriors,Lions,WAR,bat,LIONS,,0,0,,8,,AM Phangiso; JD Vandiar,WAR,134,9,120,LIONS,136,2,113
+530330,2012-02-24,2011-12,MiWAY T20 Challenge,Match 10,"Kingsmead, Durban",Durban,DOL,TIT,Dolphins,Titans,DOL,bat,TIT,,0,0,,6,,JA Rudolph; AC Thomas,DOL,167,5,120,TIT,168,4,120
+530332,2012-02-24,2011-12,MiWAY T20 Challenge,Match 12,"New Wanderers Stadium, Johannesburg",Johannesburg,WPR,LIONS,Cape Cobras,Lions,LIONS,field,LIONS,,0,0,,3,,Q de Kock; DL Piedt,WPR,178,6,120,LIONS,179,7,116
+530334,2012-02-26,2011-12,MiWAY T20 Challenge,Match 14,"Chevrolet Park, Bloemfontein",Bloemfontein,LIONS,KNG,Lions,Knights,LIONS,bat,KNG,,0,0,,8,,MN van Wyk; WL Coetsee,LIONS,131,5,120,KNG,135,2,93
+530335,2012-02-26,2011-12,MiWAY T20 Challenge,Match 15,"Willowmoore Park, Benoni",Benoni,IMPI,TIT,Impi,Titans,IMPI,bat,TIT,,0,0,,9,,H Davids; RE van der Merwe,IMPI,131,10,118,TIT,137,1,94
+530336,2012-02-29,2011-12,MiWAY T20 Challenge,Match 16,"Willowmoore Park, Benoni",Benoni,WAR,IMPI,Warriors,Impi,WAR,bat,WAR,,0,0,36,,,CA Thyssen; ACR Birch,WAR,182,2,120,IMPI,146,8,120
+530339,2012-03-02,2011-12,MiWAY T20 Challenge,Match 19,"Kingsmead, Durban",Durban,DOL,WAR,Dolphins,Warriors,DOL,bat,WAR,,0,0,,10,,M Ntini; AG Prince,DOL,100,8,120,WAR,102,0,87
+530340,2012-03-02,2011-12,MiWAY T20 Challenge,Match 20,"SuperSport Park, Centurion",Centurion,TIT,LIONS,Titans,Lions,LIONS,field,LIONS,,0,0,,7,,DP Nannes; Q de Kock,TIT,121,10,115,LIONS,124,3,75
+530341,2012-03-04,2011-12,MiWAY T20 Challenge,Match 21,"Newlands, Cape Town",Cape Town,WPR,TIT,Cape Cobras,Titans,TIT,field,TIT,,0,0,,6,,M van Jaarsveld; RE van der Merwe,WPR,142,5,120,TIT,146,4,115
+530345,2012-03-07,2011-12,MiWAY T20 Challenge,Match 25,"Senwes Park, Potchefstroom",Potchefstroom,KNG,LIONS,Knights,Lions,LIONS,field,LIONS,,0,0,,7,D/L,CH Morris; CH Morris,KNG,136,9,108,LIONS,91,3,68
+530346,2012-03-09,2011-12,MiWAY T20 Challenge,Match 26,"Newlands, Cape Town",Cape Town,WPR,LIONS,Cape Cobras,Lions,LIONS,field,WPR,,0,0,1,,,OA Shah; AJA Gray,WPR,180,3,120,LIONS,179,6,120
+530349,2012-03-11,2011-12,MiWAY T20 Challenge,Match 29,"Boland Park, Paarl",Paarl,KNG,WPR,Knights,Cape Cobras,KNG,bat,WPR,,0,0,,6,,AJA Gray; RE Levi,KNG,156,7,120,WPR,157,4,112
+530351,2012-03-11,2011-12,MiWAY T20 Challenge,Match 31,"New Wanderers Stadium, Johannesburg",Johannesburg,LIONS,TIT,Lions,Titans,TIT,field,LIONS,,0,0,16,,,F du Plessis; Q de Kock,LIONS,163,7,120,TIT,147,9,120
+530352,2012-03-14,2011-12,MiWAY T20 Challenge,Match 32,"Kingsmead, Durban",Durban,KNG,DOL,Knights,Dolphins,KNG,bat,KNG,,0,0,8,,D/L,MN van Wyk; P Subrayen,KNG,130,9,120,DOL,77,4,83
+530353,2012-03-14,2011-12,MiWAY T20 Challenge,Match 33,"New Wanderers Stadium, Johannesburg",Johannesburg,LIONS,WAR,Lions,Warriors,WAR,field,LIONS,,0,0,115,,,GH Bodi; J Symes,LIONS,199,6,120,WAR,84,10,86
+530354,2012-03-14,2011-12,MiWAY T20 Challenge,Match 34,"SuperSport Park, Centurion",Centurion,IMPI,TIT,Impi,Titans,IMPI,bat,TIT,,0,0,,6,,M van Jaarsveld; RE van der Merwe,IMPI,126,6,120,TIT,127,4,90
+530355,2012-03-16,2011-12,MiWAY T20 Challenge,Match 35,"Newlands, Cape Town",Cape Town,WAR,WPR,Warriors,Cape Cobras,WPR,field,WAR,,0,0,43,,,J Botha; J Botha,WAR,149,6,120,WPR,106,10,113
+530356,2012-03-16,2011-12,MiWAY T20 Challenge,Match 36,"De Beers Diamond Oval, Kimberley",Kimberley,IMPI,KNG,Impi,Knights,IMPI,bat,KNG,,0,0,,5,D/L,LJ Wright; J Coetzee,IMPI,178,9,120,KNG,157,5,102
+530357,2012-03-16,2011-12,MiWAY T20 Challenge,Match 37,"New Wanderers Stadium, Johannesburg",Johannesburg,LIONS,DOL,Lions,Dolphins,DOL,field,,no result,1,0,,,,,LIONS,24,2,36,,,,
+530358,2012-03-18,2011-12,MiWAY T20 Challenge,Match 38,"De Beers Diamond Oval, Kimberley",Kimberley,WAR,KNG,Warriors,Knights,KNG,field,KNG,,0,0,,7,,J Coetzee; RR Hendricks,WAR,141,6,120,KNG,142,3,115
+530359,2012-03-18,2011-12,MiWAY T20 Challenge,Match 39,"SuperSport Park, Centurion",Centurion,WPR,TIT,Cape Cobras,Titans,WPR,bat,TIT,,0,0,,6,,AC Thomas; F du Plessis,WPR,156,6,120,TIT,157,4,111
+530361,2012-03-21,2011-12,MiWAY T20 Challenge,Match 41,"Willowmoore Park, Benoni",Benoni,IMPI,LIONS,Impi,Lions,IMPI,bat,,no result,1,0,,,,,IMPI,80,4,66,,,,
+530362,2012-03-21,2011-12,MiWAY T20 Challenge,Match 42,"SuperSport Park, Centurion",Centurion,WAR,TIT,Warriors,Titans,WAR,bat,TIT,,0,0,,8,D/L,JA Morkel; F du Plessis,WAR,64,6,79,TIT,61,2,47
+530364,2012-04-01,2011-12,MiWAY T20 Challenge,Final,"New Wanderers Stadium, Johannesburg",Johannesburg,TIT,LIONS,Titans,Lions,LIONS,field,TIT,,0,0,45,,,F du Plessis; F Behardien,TIT,187,6,120,LIONS,142,10,113
+575157,2013-02-17,2012-13,Ram Slam T20 Challenge,,"De Beers Diamond Oval, Kimberley",Kimberley,KNG,WAR,Knights,Warriors,WAR,field,WAR,,0,0,,8,D/L,C Jonker; J Theron,KNG,136,7,120,WAR,128,2,97
+575158,2013-02-17,2012-13,Ram Slam T20 Challenge,,"Senwes Park, Potchefstroom",Potchefstroom,WPR,LIONS,Cape Cobras,Lions,LIONS,field,LIONS,,0,0,,9,,AM Phangiso; Q de Kock,WPR,183,5,120,LIONS,185,1,113
+575159,2013-02-20,2012-13,Ram Slam T20 Challenge,,"New Wanderers Stadium, Johannesburg",Johannesburg,TIT,LIONS,Titans,Lions,LIONS,field,LIONS,,0,0,,7,,,TIT,148,7,120,LIONS,150,3,113
+575160,2013-02-22,2012-13,Ram Slam T20 Challenge,,"Boland Park, Paarl",Paarl,WPR,KNG,Cape Cobras,Knights,KNG,field,WPR,,0,0,25,,,OA Shah; BE Hendricks,WPR,171,4,120,KNG,146,8,120
+575161,2013-02-22,2012-13,Ram Slam T20 Challenge,,"St George's Park, Port Elizabeth",Port Elizabeth,WAR,TIT,Warriors,Titans,TIT,field,TIT,,0,0,,5,,JA Morkel; ER Links,WAR,120,8,120,TIT,121,5,109
+575163,2013-02-24,2012-13,Ram Slam T20 Challenge,,"Newlands, Cape Town",Cape Town,DOL,WPR,Dolphins,Cape Cobras,DOL,bat,WPR,,0,0,,9,,RE Levi; DL Piedt,DOL,134,6,120,WPR,137,1,100
+575164,2013-02-24,2012-13,Ram Slam T20 Challenge,,"Senwes Park, Potchefstroom",Potchefstroom,LIONS,WAR,Lions,Warriors,WAR,field,LIONS,,0,0,47,,,D Pretorius; GC Viljoen,LIONS,162,7,120,WAR,115,10,108
+575165,2013-02-27,2012-13,Ram Slam T20 Challenge,,"Chevrolet Park, Bloemfontein",Bloemfontein,DOL,KNG,Dolphins,Knights,DOL,bat,KNG,,0,0,,9,,N Boje; D Elgar,DOL,131,5,120,KNG,133,1,93
+575166,2013-02-28,2012-13,Ram Slam T20 Challenge,,"Willowmoore Park, Benoni",Benoni,WPR,TIT,Cape Cobras,Titans,TIT,field,TIT,,0,0,,6,,JA Rudolph; NE Mbhalati,WPR,116,4,120,TIT,117,4,112
+575167,2013-03-02,2012-13,Ram Slam T20 Challenge,,"Buffalo Park, East London",East London,DOL,WAR,Dolphins,Warriors,DOL,bat,WAR,,0,0,,9,,AG Prince; WD Parnell,DOL,136,4,120,WAR,138,1,105
+575170,2013-03-06,2012-13,Ram Slam T20 Challenge,,"SuperSport Park, Centurion",Centurion,KNG,TIT,Knights,Titans,TIT,field,KNG,,0,0,8,,,LE Bosman; D Elgar,KNG,196,3,120,TIT,188,8,120
+575171,2013-03-08,2012-13,Ram Slam T20 Challenge,,"Newlands, Cape Town",Cape Town,WPR,LIONS,Cape Cobras,Lions,LIONS,field,LIONS,,0,0,,5,,AN Petersen; BE Hendricks,WPR,117,6,120,LIONS,120,5,110
+575172,2013-03-08,2012-13,Ram Slam T20 Challenge,,"Kingsmead, Durban",Durban,DOL,KNG,Dolphins,Knights,DOL,bat,DOL,,0,0,14,,,YA Abdulla; CS Delport,DOL,179,2,120,KNG,165,6,120
+575174,2013-03-12,2012-13,Ram Slam T20 Challenge,,"Boland Park, Paarl",Paarl,TIT,WPR,Titans,Cape Cobras,WPR,field,TIT,,0,0,7,,,RE van der Merwe; F Behardien,TIT,178,4,120,WPR,171,4,120
+575175,2013-03-12,2012-13,Ram Slam T20 Challenge,,"De Beers Diamond Oval, Kimberley",Kimberley,KNG,LIONS,Knights,Lions,KNG,bat,LIONS,,0,0,,4,,J Symes; CH Morris,KNG,143,8,120,LIONS,145,6,115
+575176,2013-03-14,2012-13,Ram Slam T20 Challenge,,"St George's Park, Port Elizabeth",Port Elizabeth,KNG,WAR,Knights,Warriors,KNG,bat,KNG,,0,0,6,,,,KNG,114,4,120,WAR,108,7,120
+575177,2013-03-14,2012-13,Ram Slam T20 Challenge,,"Kingsmead, Durban",Durban,DOL,WPR,Dolphins,Cape Cobras,WPR,field,DOL,,0,0,22,,,DJ Vilas; CP Savage,DOL,158,7,120,WPR,136,7,120
+575179,2013-03-22,2012-13,Ram Slam T20 Challenge,,"Buffalo Park, East London",East London,WAR,LIONS,Warriors,Lions,WAR,bat,WAR,,0,0,4,,,ND McKenzie; J Theron,WAR,142,7,120,LIONS,138,6,120
+575180,2013-03-22,2012-13,Ram Slam T20 Challenge,,"Chevrolet Park, Bloemfontein",Bloemfontein,WPR,KNG,Cape Cobras,Knights,KNG,field,KNG,,0,0,,7,,VD Philander; D Elgar,WPR,140,7,120,KNG,143,3,118
+575181,2013-03-22,2012-13,Ram Slam T20 Challenge,,"SuperSport Park, Centurion",Centurion,DOL,TIT,Dolphins,Titans,DOL,bat,TIT,,0,0,,4,,D Wiese; KA Maharaj,DOL,143,5,120,TIT,145,6,113
+575183,2013-03-26,2012-13,Ram Slam T20 Challenge,,"Chevrolet Park, Bloemfontein",Bloemfontein,KNG,TIT,Knights,Titans,TIT,field,TIT,,0,0,,8,,SB Styris; M Morkel,KNG,132,7,120,TIT,133,2,116
+575184,2013-03-28,2012-13,Ram Slam T20 Challenge,,"Newlands, Cape Town",Cape Town,WPR,WAR,Cape Cobras,Warriors,WAR,field,WAR,,0,0,,8,,C Jonker; WD Parnell,WPR,128,5,114,WAR,130,2,75
+575185,2013-03-28,2012-13,Ram Slam T20 Challenge,,"New Wanderers Stadium, Johannesburg",Johannesburg,LIONS,DOL,Lions,Dolphins,DOL,field,LIONS,,0,0,54,,,GC Viljoen; Q de Kock,LIONS,195,4,120,DOL,141,9,120
+575186,2013-04-03,2012-13,Ram Slam T20 Challenge,Semi-Final,"Buffalo Park, East London",East London,WAR,TIT,Warriors,Titans,TIT,field,TIT,,0,0,,4,,AC Thomas; F Behardien,WAR,127,9,120,TIT,130,6,119
+575187,2013-04-07,2012-13,Ram Slam T20 Challenge,Final,"New Wanderers Stadium, Johannesburg",Johannesburg,LIONS,TIT,Lions,Titans,LIONS,bat,LIONS,,0,0,30,,,AM Phangiso; Q de Kock,LIONS,155,5,120,TIT,125,10,109
+652265,2014-01-05,2013-14,Ram Slam T20 Challenge,,"Newlands, Cape Town",Cape Town,DOL,TIT,Dolphins,Titans,TIT,field,DOL,,0,0,8,,,VB van Jaarsveld; KJ Abbott,DOL,154,4,120,TIT,146,7,120
+652303,2014-01-05,2013-14,Ram Slam T20 Challenge,,"Newlands, Cape Town",Cape Town,WAR,LIONS,Warriors,Lions,WAR,bat,WAR,,0,0,26,,,RT Bailey; JT Smuts,WAR,140,7,120,LIONS,114,10,119
+652257,2014-01-08,2013-14,Ram Slam T20 Challenge,,"Buffalo Park, East London",East London,KNG,WAR,Knights,Warriors,KNG,bat,WAR,,0,0,,5,,L Mbane; JT Smuts,KNG,116,6,120,WAR,119,5,117
+652261,2014-01-09,2013-14,Ram Slam T20 Challenge,,"SuperSport Park, Centurion",Centurion,WPR,TIT,Cape Cobras,Titans,TIT,field,TIT,,0,0,,6,D/L,RE van der Merwe; F Behardien,WPR,96,4,79,TIT,89,4,57
+652259,2014-01-10,2013-14,Ram Slam T20 Challenge,,"Diamond Oval, Kimberley",Kimberley,KNG,DOL,Knights,Dolphins,DOL,field,DOL,,0,0,,4,,KJ Abbott; DA Miller,KNG,176,4,120,DOL,177,6,113
+652263,2014-01-11,2013-14,Ram Slam T20 Challenge,,"St George's Park, Port Elizabeth",Port Elizabeth,WPR,WAR,Cape Cobras,Warriors,WPR,bat,WPR,,0,0,18,,,DJ Jacobs; BE Hendricks,WPR,160,6,120,WAR,142,9,120
+652267,2014-01-12,2013-14,Ram Slam T20 Challenge,,"Chevrolet Park, Bloemfontein",Bloemfontein,LIONS,KNG,Lions,Knights,KNG,field,KNG,,0,0,,9,,D Elgar; RR Rossouw,LIONS,151,4,120,KNG,153,1,112
+652269,2014-01-15,2013-14,Ram Slam T20 Challenge,,"Boland Park, Paarl",Paarl,WPR,LIONS,Cape Cobras,Lions,LIONS,field,WPR,,0,0,15,,,RJ Peterson; S van Zyl,WPR,187,2,120,LIONS,172,8,120
+652273,2014-01-17,2013-14,Ram Slam T20 Challenge,,"Chevrolet Park, Bloemfontein",Bloemfontein,WPR,KNG,Cape Cobras,Knights,WPR,bat,WPR,,0,0,80,,,RE Levi; SP Narine,WPR,208,3,120,KNG,128,8,120
+652275,2014-01-17,2013-14,Ram Slam T20 Challenge,,"St George's Park, Port Elizabeth",Port Elizabeth,WAR,DOL,Warriors,Dolphins,DOL,field,,tie,0,1,,,,MN van Wyk; L Mbane,WAR,152,7,120,DOL,152,9,120
+652277,2014-01-17,2013-14,Ram Slam T20 Challenge,,"Senwes Park, Potchefstroom",Potchefstroom,TIT,LIONS,Titans,Lions,LIONS,field,TIT,,0,0,10,,,M Morkel; GL van Buuren,TIT,158,9,120,LIONS,148,3,120
+652279,2014-01-19,2013-14,Ram Slam T20 Challenge,,"Buffalo Park, East London",East London,WAR,LIONS,Warriors,Lions,WAR,bat,,tie,0,1,,,,GH Bodi; JT Smuts,WAR,156,5,120,LIONS,156,8,120
+652281,2014-01-19,2013-14,Ram Slam T20 Challenge,,"Kingsmead, Durban",Durban,WPR,DOL,Cape Cobras,Dolphins,WPR,bat,WPR,,0,0,25,,,JP Duminy; BE Hendricks,WPR,157,7,120,DOL,132,8,120
+652283,2014-01-19,2013-14,Ram Slam T20 Challenge,,"SuperSport Park, Centurion",Centurion,TIT,KNG,Titans,Knights,KNG,field,KNG,,0,0,,7,,D Elgar; MP Siboto,TIT,148,10,120,KNG,149,3,113
+652285,2014-01-22,2013-14,Ram Slam T20 Challenge,,"Newlands, Cape Town",Cape Town,WPR,TIT,Cape Cobras,Titans,WPR,bat,WPR,,0,0,13,,,HG Kuhn; BE Hendricks,WPR,129,9,120,TIT,116,6,120
+652289,2014-01-22,2013-14,Ram Slam T20 Challenge,,"Diamond Oval, Kimberley",Kimberley,KNG,WAR,Knights,Warriors,WAR,field,KNG,,0,0,5,,,WL Coetsee; RR Rossouw,KNG,145,6,120,WAR,140,6,120
+652291,2014-01-24,2013-14,Ram Slam T20 Challenge,,"Boland Park, Paarl",Paarl,DOL,WPR,Dolphins,Cape Cobras,DOL,bat,DOL,,0,0,7,,,JM Kemp; CJ Alexander,DOL,145,8,120,WPR,138,8,120
+652293,2014-01-24,2013-14,Ram Slam T20 Challenge,,"Buffalo Park, East London",East London,WAR,TIT,Warriors,Titans,TIT,field,,no result,1,0,,,,,WAR,59,9,70,,,,
+652297,2014-01-26,2013-14,Ram Slam T20 Challenge,,"Kingsmead, Durban",Durban,WAR,DOL,Warriors,Dolphins,WAR,bat,WAR,,0,0,2,,,J Theron; DA Miller,WAR,141,6,120,DOL,139,8,120
+652305,2014-01-29,2013-14,Ram Slam T20 Challenge,,"SuperSport Park, Centurion",Centurion,TIT,DOL,Titans,Dolphins,DOL,field,DOL,,0,0,,8,,M Shezi; C Chetty,TIT,115,7,120,DOL,120,2,101
+652307,2014-01-31,2013-14,Ram Slam T20 Challenge,,"Kingsmead, Durban",Durban,DOL,KNG,Dolphins,Knights,KNG,field,DOL,,0,0,40,,D/L,KJ Abbott; CS Delport,DOL,170,4,120,KNG,86,10,80
+652309,2014-01-31,2013-14,Ram Slam T20 Challenge,,"New Wanderers Stadium, Johannesburg",Johannesburg,LIONS,WPR,Lions,Cape Cobras,WPR,field,WPR,,0,0,,7,,Q de Kock; BE Hendricks,LIONS,102,10,103,WPR,103,3,93
+652311,2014-02-02,2013-14,Ram Slam T20 Challenge,,"Newlands, Cape Town",Cape Town,WAR,WPR,Warriors,Cape Cobras,WAR,bat,WPR,,0,0,,6,,JM Kemp; JP Duminy,WAR,146,8,120,WPR,149,4,112
+652313,2014-02-02,2013-14,Ram Slam T20 Challenge,,"Diamond Oval, Kimberley",Kimberley,KNG,TIT,Knights,Titans,TIT,field,TIT,,0,0,,8,,Saeed Ajmal; TB de Bruyn,KNG,137,7,120,TIT,138,2,105
+652315,2014-02-02,2013-14,Ram Slam T20 Challenge,,"New Wanderers Stadium, Johannesburg",Johannesburg,LIONS,DOL,Lions,Dolphins,DOL,field,LIONS,,0,0,7,,,AM Phangiso; T Bavuma,LIONS,159,3,120,DOL,152,8,120
+716623,2014-02-06,2013-14,Ram Slam T20 Challenge,Semi-Final,"Kingsmead, Durban",Durban,DOL,TIT,Dolphins,Titans,TIT,field,DOL,,0,0,31,,,M Shezi; DA Miller,DOL,200,4,120,TIT,169,10,116
+652319,2014-02-09,2013-14,Ram Slam T20 Challenge,Final,"Newlands, Cape Town",Cape Town,DOL,WPR,Dolphins,Cape Cobras,DOL,bat,DOL,,0,0,2,,,MN van Wyk; M Shezi,DOL,146,8,120,WPR,144,7,120
+736255,2014-11-02,2014-15,Ram Slam T20 Challenge,,"New Wanderers Stadium, Johannesburg",Johannesburg,KNG,WAR,Knights,Warriors,WAR,field,KNG,,0,0,74,,,D du Preez; DS Rosier,KNG,205,5,120,WAR,131,10,113
+736257,2014-11-02,2014-15,Ram Slam T20 Challenge,,"New Wanderers Stadium, Johannesburg",Johannesburg,WPR,TIT,Cape Cobras,Titans,TIT,field,WPR,,0,0,14,,,RE Levi; KA Pollard,WPR,207,5,120,TIT,193,4,120
+736259,2014-11-02,2014-15,Ram Slam T20 Challenge,,"New Wanderers Stadium, Johannesburg",Johannesburg,DOL,LIONS,Dolphins,Lions,DOL,bat,LIONS,,0,0,,6,,CH Gayle; C Chetty,DOL,172,9,120,LIONS,173,4,113
+736261,2014-11-05,2014-15,Ram Slam T20 Challenge,,"Kingsmead, Durban",Durban,DOL,WAR,Dolphins,Warriors,DOL,bat,DOL,,0,0,54,,,VB van Jaarsveld; CJ Alexander,DOL,181,4,120,WAR,127,8,120
+736263,2014-11-07,2014-15,Ram Slam T20 Challenge,,"Newlands, Cape Town",Cape Town,DOL,WPR,Dolphins,Cape Cobras,DOL,bat,WPR,,0,0,,8,,RE Levi; SA Engelbrecht,DOL,127,9,120,WPR,130,2,94
+736265,2014-11-07,2014-15,Ram Slam T20 Challenge,,"Buffalo Park, East London",East London,WAR,LIONS,Warriors,Lions,WAR,bat,LIONS,,0,0,,10,,CH Gayle; E Leie,WAR,144,6,120,LIONS,150,0,86
+736267,2014-11-07,2014-15,Ram Slam T20 Challenge,,"SuperSport Park, Centurion",Centurion,KNG,TIT,Knights,Titans,TIT,field,KNG,,0,0,35,,,DJG Sammy; AD Russell,KNG,179,7,120,TIT,144,5,120
+736269,2014-11-09,2014-15,Ram Slam T20 Challenge,,"Kingsmead, Durban",Durban,DOL,TIT,Dolphins,Titans,DOL,bat,DOL,,0,0,64,,,KA Maharaj; CS Delport,DOL,194,5,120,TIT,130,9,120
+736275,2014-11-14,2014-15,Ram Slam T20 Challenge,,"St George's Park, Port Elizabeth",Port Elizabeth,DOL,WAR,Dolphins,Warriors,DOL,bat,WAR,,0,0,,7,,DJ Bravo; CA Ingram,DOL,142,6,120,WAR,143,3,120
+736277,2014-11-14,2014-15,Ram Slam T20 Challenge,,"Chevrolet Park, Bloemfontein",Bloemfontein,TIT,KNG,Titans,Knights,KNG,field,KNG,,0,0,,8,,Q Friend; RR Hendricks,TIT,135,6,120,KNG,140,2,98
+736279,2014-11-14,2014-15,Ram Slam T20 Challenge,,"New Wanderers Stadium, Johannesburg",Johannesburg,LIONS,WPR,Lions,Cape Cobras,WPR,field,LIONS,,0,0,47,,,HE van der Dussen; CH Morris,LIONS,141,7,120,WPR,94,9,120
+736283,2014-11-16,2014-15,Ram Slam T20 Challenge,,"Kingsmead, Durban",Durban,WAR,LIONS,Warriors,Lions,LIONS,field,LIONS,,0,0,,6,,T Bavuma; CH Morris,WAR,126,7,120,LIONS,130,4,117
+736285,2014-11-16,2014-15,Ram Slam T20 Challenge,,"Kingsmead, Durban",Durban,DOL,KNG,Dolphins,Knights,DOL,bat,,no result,1,0,,,,,DOL,82,10,113,,,,
+736287,2014-11-21,2014-15,Ram Slam T20 Challenge,,"Buffalo Park, East London",East London,KNG,WAR,Knights,Warriors,WAR,field,WAR,,0,0,,8,,JT Smuts; JT Smuts,KNG,146,4,120,WAR,149,2,117
+736289,2014-11-21,2014-15,Ram Slam T20 Challenge,,"Kingsmead, Durban",Durban,DOL,WPR,Dolphins,Cape Cobras,WPR,field,WPR,,0,0,,7,,RE Levi; GF Linde,DOL,84,8,60,WPR,89,3,56
+736291,2014-11-21,2014-15,Ram Slam T20 Challenge,,"Willowmoore Park, Benoni",Benoni,TIT,LIONS,Titans,Lions,LIONS,field,TIT,,0,0,27,,D/L,H Davids; E Leie,TIT,161,6,96,LIONS,140,5,96
+736293,2014-11-23,2014-15,Ram Slam T20 Challenge,,"Newlands, Cape Town",Cape Town,WPR,LIONS,Cape Cobras,Lions,WPR,bat,WPR,,0,0,77,,,DJ Vilas; GF Linde,WPR,154,7,120,LIONS,77,10,93
+736295,2014-11-23,2014-15,Ram Slam T20 Challenge,,"SuperSport Park, Centurion",Centurion,TIT,WAR,Titans,Warriors,WAR,field,,tie,0,1,,,,D Wiese; JT Smuts,TIT,79,5,48,WAR,79,5,48
+736297,2014-11-26,2014-15,Ram Slam T20 Challenge,,"Willowmoore Park, Benoni",Benoni,TIT,DOL,Titans,Dolphins,TIT,bat,TIT,,0,0,19,,,MQ Adams; S von Berg,TIT,176,7,120,DOL,157,8,120
+736299,2014-11-28,2014-15,Ram Slam T20 Challenge,,"St George's Park, Port Elizabeth",Port Elizabeth,WPR,WAR,Cape Cobras,Warriors,WAR,field,WPR,,0,0,72,,,RE Levi; D Paterson,WPR,187,3,120,WAR,115,10,109
+736301,2014-11-28,2014-15,Ram Slam T20 Challenge,,"Diamond Oval, Kimberley",Kimberley,KNG,DOL,Knights,Dolphins,DOL,field,KNG,,0,0,39,,,RR Hendricks; AD Russell,KNG,167,5,120,DOL,128,10,111
+736303,2014-11-28,2014-15,Ram Slam T20 Challenge,,"Senwes Park, Potchefstroom",Potchefstroom,LIONS,TIT,Lions,Titans,LIONS,bat,LIONS,,0,0,1,,,E Leie; HE van der Dussen,LIONS,179,3,120,TIT,178,6,120
+736305,2014-11-30,2014-15,Ram Slam T20 Challenge,,"Chevrolet Park, Bloemfontein",Bloemfontein,LIONS,DOL,Lions,Dolphins,DOL,field,DOL,,0,0,,5,,R Frylinck; DA Miller,LIONS,121,7,120,DOL,122,5,115
+736307,2014-11-30,2014-15,Ram Slam T20 Challenge,,"Chevrolet Park, Bloemfontein",Bloemfontein,WAR,TIT,Warriors,Titans,WAR,bat,WAR,,0,0,20,,,C Jonker; J Theron,WAR,148,7,120,TIT,128,7,120
+736309,2014-11-30,2014-15,Ram Slam T20 Challenge,,"Chevrolet Park, Bloemfontein",Bloemfontein,WPR,KNG,Cape Cobras,Knights,WPR,bat,WPR,,0,0,8,,,RJ Peterson; RE Levi,WPR,145,4,120,KNG,137,4,120
+736311,2014-12-03,2014-15,Ram Slam T20 Challenge,,"Boland Park, Paarl",Paarl,WAR,WPR,Warriors,Cape Cobras,WAR,bat,WPR,,0,0,,9,,HM Amla; DW Steyn,WAR,131,5,120,WPR,135,1,109
+736313,2014-12-03,2014-15,Ram Slam T20 Challenge,,"Diamond Oval, Kimberley",Kimberley,KNG,LIONS,Knights,Lions,LIONS,field,,no result,1,0,,,,,KNG,186,7,120,LIONS,22,0,14
+736315,2014-12-07,2014-15,Ram Slam T20 Challenge,Semi-Final,"New Wanderers Stadium, Johannesburg",Johannesburg,LIONS,KNG,Lions,Knights,LIONS,bat,KNG,,0,0,,8,,MP Siboto; RR Hendricks,LIONS,148,5,120,KNG,150,2,107
+736317,2014-12-12,2014-15,Ram Slam T20 Challenge,Final,"Newlands, Cape Town",Cape Town,WPR,KNG,Cape Cobras,Knights,WPR,bat,WPR,,0,0,33,,,OA Ramela; D Paterson,WPR,158,4,120,KNG,125,9,120
+851933,2015-11-01,2015-16,Ram Slam T20 Challenge,,"SuperSport Park, Centurion",Centurion,DOL,TIT,Dolphins,Titans,TIT,field,DOL,,0,0,6,,,DA Miller; P Subrayen,DOL,179,4,120,TIT,173,8,120
+851937,2015-11-06,2015-16,Ram Slam T20 Challenge,,"Boland Park, Paarl",Paarl,WPR,WAR,Cape Cobras,Warriors,WAR,field,WPR,,0,0,5,,,RE Levi; WD Parnell,WPR,140,6,120,WAR,135,7,120
+851939,2015-11-06,2015-16,Ram Slam T20 Challenge,,"Diamond Oval, Kimberley",Kimberley,KNG,DOL,Knights,Dolphins,DOL,field,DOL,,0,0,,9,,KP Pietersen; KJ Abbott,KNG,167,4,120,DOL,170,1,100
+851943,2015-11-08,2015-16,Ram Slam T20 Challenge,,"Kingsmead, Durban",Durban,DOL,WAR,Dolphins,Warriors,WAR,field,DOL,,0,0,34,,,KP Pietersen; P Subrayen,DOL,179,4,120,WAR,145,10,118
+851945,2015-11-08,2015-16,Ram Slam T20 Challenge,,"SuperSport Park, Centurion",Centurion,TIT,WPR,Titans,Cape Cobras,WPR,field,TIT,,0,0,26,,,F Behardien; D Paterson,TIT,173,5,120,WPR,147,6,120
+851947,2015-11-11,2015-16,Ram Slam T20 Challenge,,"Diamond Oval, Kimberley",Kimberley,KNG,WPR,Knights,Cape Cobras,WPR,field,WPR,,0,0,,4,,RR Hendricks; GF Linde,KNG,174,5,120,WPR,176,6,114
+851949,2015-11-13,2015-16,Ram Slam T20 Challenge,,"St George's Park, Port Elizabeth",Port Elizabeth,WAR,LIONS,Warriors,Lions,LIONS,field,WAR,,0,0,25,,,CN Ackermann; SSB Magala,WAR,155,4,120,LIONS,130,9,120
+851953,2015-11-15,2015-16,Ram Slam T20 Challenge,,"SuperSport Park, Centurion",Centurion,DOL,WPR,Dolphins,Cape Cobras,WPR,field,WPR,,0,0,,5,,RE Levi; WD Parnell,DOL,148,9,120,WPR,152,5,118
+851955,2015-11-15,2015-16,Ram Slam T20 Challenge,,"SuperSport Park, Centurion",Centurion,WAR,TIT,Warriors,Titans,TIT,field,TIT,,0,0,,5,,Q de Kock; T Shamsi,WAR,149,7,120,TIT,150,5,103
+851957,2015-11-15,2015-16,Ram Slam T20 Challenge,,"Mangaung Oval, Bloemfontein",Bloemfontein,LIONS,KNG,Lions,Knights,LIONS,bat,LIONS,,0,0,20,,,E Leie; D Pretorius,LIONS,112,7,120,KNG,92,10,114
+851959,2015-11-18,2015-16,Ram Slam T20 Challenge,,"Kingsmead, Durban",Durban,TIT,DOL,Titans,Dolphins,DOL,field,TIT,,0,0,66,,,Q de Kock; CH Morris,TIT,136,9,120,DOL,70,10,94
+851963,2015-11-20,2015-16,Ram Slam T20 Challenge,,"Buffalo Park, East London",East London,DOL,WAR,Dolphins,Warriors,DOL,bat,,no result,1,0,,,,,DOL,35,0,31,,,,
+851965,2015-11-22,2015-16,Ram Slam T20 Challenge,,"Boland Park, Paarl",Paarl,KNG,WPR,Knights,Cape Cobras,WPR,field,WPR,,0,0,,4,,RE Levi; D Paterson,KNG,140,7,120,WPR,144,6,117
+851969,2015-11-25,2015-16,Ram Slam T20 Challenge,,"Senwes Park, Potchefstroom",Potchefstroom,KNG,LIONS,Knights,Lions,LIONS,field,KNG,,0,0,29,,,MP Siboto; RR Hendricks,KNG,175,5,120,LIONS,146,9,120
+851971,2015-11-28,2015-16,Ram Slam T20 Challenge,,"St George's Park, Port Elizabeth",Port Elizabeth,DOL,KNG,Dolphins,Knights,DOL,bat,KNG,,0,0,,8,,MP Siboto; TB de Bruyn,DOL,82,9,120,KNG,85,2,78
+851973,2015-11-28,2015-16,Ram Slam T20 Challenge,,"St George's Park, Port Elizabeth",Port Elizabeth,TIT,WAR,Titans,Warriors,TIT,bat,TIT,,0,0,40,,,M Mosehle; CH Morris,TIT,167,3,120,WAR,127,10,112
+851975,2015-11-29,2015-16,Ram Slam T20 Challenge,,"New Wanderers Stadium, Johannesburg",Johannesburg,LIONS,WPR,Lions,Cape Cobras,LIONS,bat,WPR,,0,0,,6,,JM Kemp; WD Parnell,LIONS,153,5,120,WPR,154,4,115
+851977,2015-12-02,2015-16,Ram Slam T20 Challenge,,"Buffalo Park, East London",East London,WAR,WPR,Warriors,Cape Cobras,WAR,bat,WAR,,0,0,12,,,M Shezi; JT Smuts,WAR,153,8,120,WPR,141,7,120
+851979,2015-12-04,2015-16,Ram Slam T20 Challenge,,"Kingsmead, Durban",Durban,WPR,DOL,Cape Cobras,Dolphins,WPR,bat,DOL,,0,0,,8,,KA Maharaj; JD Vandiar,WPR,142,7,120,DOL,146,2,112
+851981,2015-12-04,2015-16,Ram Slam T20 Challenge,,"Mangaung Oval, Bloemfontein",Bloemfontein,KNG,WAR,Knights,Warriors,WAR,field,WAR,,0,0,,6,,AD Russell; S Seyibokwe,KNG,170,5,120,WAR,171,4,120
+851983,2015-12-04,2015-16,Ram Slam T20 Challenge,,"Willowmoore Park, Benoni",Benoni,TIT,LIONS,Titans,Lions,LIONS,field,TIT,,0,0,68,,D/L,JA Morkel; Q de Kock,TIT,158,2,90,LIONS,93,8,90
+851985,2015-12-06,2015-16,Ram Slam T20 Challenge,,"Willowmoore Park, Benoni",Benoni,TIT,KNG,Titans,Knights,KNG,field,KNG,,0,0,,4,,AD Russell; AD Russell,TIT,136,9,120,KNG,139,6,95
+851989,2015-12-09,2015-16,Ram Slam T20 Challenge,Semi-Final,"Kingsmead, Durban",Durban,DOL,WPR,Dolphins,Cape Cobras,DOL,bat,DOL,,0,0,5,,,RE Levi; AL Phehlukwayo,DOL,178,3,120,WPR,173,8,120
+851991,2015-12-12,2015-16,Ram Slam T20 Challenge,Final,"SuperSport Park, Centurion",Centurion,DOL,TIT,Dolphins,Titans,TIT,field,TIT,,0,0,,7,,H Davids; M Mosehle,DOL,159,5,120,TIT,161,3,101
+1003843,2016-11-12,2016-17,CSA T20 Challenge,,"New Wanderers Stadium, Johannesburg",Johannesburg,KNG,WPR,Knights,Cape Cobras,WPR,field,KNG,,0,0,38,,,M de Lange; PE Kruger,KNG,184,8,120,WPR,146,10,104
+1003845,2016-11-12,2016-17,CSA T20 Challenge,,"New Wanderers Stadium, Johannesburg",Johannesburg,TIT,LIONS,Titans,Lions,LIONS,field,TIT,,0,0,42,,,JA Morkel; HG Kuhn,TIT,194,4,120,LIONS,152,8,120
+1003847,2016-11-13,2016-17,CSA T20 Challenge,,"Kingsmead, Durban",Durban,DOL,WAR,Dolphins,Warriors,WAR,field,WAR,,0,0,,7,,ACR Birch,DOL,115,9,120,WAR,118,3,95
+1003849,2016-11-16,2016-17,CSA T20 Challenge,,"Boland Park, Paarl",Paarl,WPR,TIT,Cape Cobras,Titans,WPR,bat,TIT,,0,0,,6,,JA Morkel; CJ Dala,WPR,141,6,120,TIT,142,4,113
+1003855,2016-11-18,2016-17,CSA T20 Challenge,,"Willowmoore Park, Benoni",Benoni,KNG,TIT,Knights,Titans,KNG,bat,TIT,,0,0,,3,,JA Morkel; DA Miller,KNG,185,6,120,TIT,186,7,119
+1003857,2016-11-20,2016-17,CSA T20 Challenge,,"Mangaung Oval, Bloemfontein",Bloemfontein,TIT,DOL,Titans,Dolphins,DOL,field,TIT,,0,0,58,,,F Behardien; S von Berg,TIT,185,4,120,DOL,127,8,120
+1003859,2016-11-20,2016-17,CSA T20 Challenge,,"Mangaung Oval, Bloemfontein",Bloemfontein,WAR,KNG,Warriors,Knights,WAR,bat,WAR,,0,0,42,,,C Jonker; BD Walters,WAR,157,5,120,KNG,115,10,110
+1003861,2016-11-20,2016-17,CSA T20 Challenge,,"Senwes Park, Potchefstroom",Potchefstroom,LIONS,WPR,Lions,Cape Cobras,LIONS,bat,LIONS,,0,0,3,,D/L,AM Phangiso; M Mosehle,LIONS,165,5,115,WPR,66,3,36
+1003865,2016-11-25,2016-17,CSA T20 Challenge,,"St George's Park, Port Elizabeth",Port Elizabeth,LIONS,WAR,Lions,Warriors,LIONS,bat,WAR,,0,0,,6,,C Jonker; JT Smuts,LIONS,152,5,120,WAR,153,4,107
+1003867,2016-11-25,2016-17,CSA T20 Challenge,,"Mangaung Oval, Bloemfontein",Bloemfontein,KNG,DOL,Knights,Dolphins,KNG,bat,DOL,,0,0,,8,,,KNG,153,4,120,DOL,154,2,111
+1003869,2016-11-25,2016-17,CSA T20 Challenge,,"SuperSport Park, Centurion",Centurion,WPR,TIT,Cape Cobras,Titans,TIT,field,,no result,1,0,,,,,WPR,115,4,60,TIT,7,0,6
+1003871,2016-11-27,2016-17,CSA T20 Challenge,,"Diamond Oval, Kimberley",Kimberley,TIT,KNG,Titans,Knights,KNG,field,TIT,,0,0,10,,,JA Morkel; PE Kruger,TIT,168,5,120,KNG,158,6,120
+1003873,2016-11-27,2016-17,CSA T20 Challenge,,"New Wanderers Stadium, Johannesburg",Johannesburg,LIONS,DOL,Lions,Dolphins,LIONS,bat,LIONS,,0,0,6,,,R Frylinck; BC Fortuin,LIONS,175,5,120,DOL,169,9,120
+1003875,2016-11-30,2016-17,CSA T20 Challenge,,"St George's Park, Port Elizabeth",Port Elizabeth,KNG,WAR,Knights,Warriors,KNG,bat,WAR,,0,0,,8,,JT Smuts; JT Smuts,KNG,93,10,118,WAR,94,2,68
+1003877,2016-11-30,2016-17,CSA T20 Challenge,,"Kingsmead, Durban",Durban,TIT,DOL,Titans,Dolphins,TIT,bat,DOL,,0,0,,6,,CS Delport; S von Berg,TIT,170,4,120,DOL,171,4,116
+1003879,2016-12-02,2016-17,CSA T20 Challenge,,"Diamond Oval, Kimberley",Kimberley,LIONS,KNG,Lions,Knights,LIONS,bat,LIONS,,0,0,20,,,NJ van den Bergh; BC Fortuin,LIONS,182,5,120,KNG,162,6,120
+1003881,2016-12-02,2016-17,CSA T20 Challenge,,"SuperSport Park, Centurion",Centurion,TIT,WAR,Titans,Warriors,WAR,field,WAR,,0,0,,6,,ACR Birch; CN Ackermann,TIT,147,10,116,WAR,148,4,113
+1003883,2016-12-04,2016-17,CSA T20 Challenge,,"Kingsmead, Durban",Durban,LIONS,WAR,Lions,Warriors,LIONS,bat,LIONS,,0,0,5,,,HE van der Dussen; GC Viljoen,LIONS,157,10,119,WAR,152,10,120
+1003885,2016-12-04,2016-17,CSA T20 Challenge,,"Kingsmead, Durban",Durban,DOL,WPR,Dolphins,Cape Cobras,DOL,bat,WPR,,0,0,,7,,RK Kleinveldt; DJ Vilas,DOL,178,5,120,WPR,181,3,112
+1003887,2016-12-07,2016-17,CSA T20 Challenge,,"Newlands, Cape Town",Cape Town,KNG,WPR,Knights,Cape Cobras,KNG,bat,WPR,,0,0,,8,,RE Levi; WD Parnell,KNG,146,8,120,WPR,152,2,88
+1003889,2016-12-07,2016-17,CSA T20 Challenge,,"Buffalo Park, East London",East London,DOL,WAR,Dolphins,Warriors,DOL,bat,WAR,,0,0,,7,,JT Smuts; JT Smuts,DOL,216,5,120,WAR,217,3,114
+1003891,2016-12-07,2016-17,CSA T20 Challenge,,"SuperSport Park, Centurion",Centurion,TIT,LIONS,Titans,Lions,LIONS,field,TIT,,0,0,46,,,D Wiese; JD Vandiar,TIT,230,5,120,LIONS,184,7,120
+1003895,2016-12-09,2016-17,CSA T20 Challenge,,"Senwes Park, Potchefstroom",Potchefstroom,LIONS,KNG,Lions,Knights,KNG,field,KNG,,0,0,3,,D/L,RS Second; M Budaza,LIONS,125,8,120,KNG,112,2,108
+1003899,2016-12-11,2016-17,CSA T20 Challenge,,"Buffalo Park, East London",East London,TIT,WAR,Titans,Warriors,WAR,field,TIT,,0,0,6,,,F Behardien; D Wiese,TIT,80,2,30,WAR,74,2,30
+1003901,2016-12-11,2016-17,CSA T20 Challenge,,"Kingsmead, Durban",Durban,DOL,KNG,Dolphins,Knights,KNG,field,KNG,,0,0,,9,D/L,D du Preez; PE Kruger,DOL,59,5,48,KNG,68,1,36
+1003903,2016-12-13,2016-17,CSA T20 Challenge,Qualifier,"St George's Park, Port Elizabeth",Port Elizabeth,LIONS,WAR,Lions,Warriors,LIONS,bat,WAR,,0,0,,7,,CA Ingram; JT Smuts,LIONS,136,7,120,WAR,138,3,110
+1003905,2016-12-16,2016-17,CSA T20 Challenge,Final,"SuperSport Park, Centurion",Centurion,TIT,WAR,Titans,Warriors,WAR,field,TIT,,0,0,6,,,D Wiese; L Ngidi,TIT,155,6,120,WAR,149,6,120
+1124658,2017-11-10,2017-18,Ram Slam T20 Challenge,Match 1,"St George's Park, Port Elizabeth",Port Elizabeth,WAR,KNG,Warriors,Knights,KNG,field,KNG,,0,0,,8,,SC van Schalkwyk; TB de Bruyn,WAR,153,9,120,KNG,157,2,108
+1124659,2017-11-12,2017-18,Ram Slam T20 Challenge,Match 2,"SuperSport Park, Centurion",Centurion,DOL,WPR,Dolphins,Cape Cobras,WPR,field,DOL,,0,0,15,,D/L,KA Maharaj; SJ Erwee,DOL,231,2,120,WPR,108,3,60
+1124661,2017-11-15,2017-18,Ram Slam T20 Challenge,Match 4,"Diamond Oval, Kimberley",Kimberley,TIT,KNG,Titans,Knights,KNG,field,TIT,,0,0,38,,,JA Morkel; F Behardien,TIT,199,4,120,KNG,161,7,120
+1124662,2017-11-17,2017-18,Ram Slam T20 Challenge,Match 5,"Buffalo Park, East London",East London,TIT,WAR,Titans,Warriors,WAR,field,TIT,,0,0,61,,,F Behardien; L Ngidi,TIT,172,4,120,WAR,111,10,86
+1124664,2017-11-17,2017-18,Ram Slam T20 Challenge,Match 7,"New Wanderers Stadium, Johannesburg",Johannesburg,WPR,LIONS,Cape Cobras,Lions,WPR,bat,LIONS,,0,0,,7,,K Rabada,WPR,169,6,120,LIONS,175,3,113
+1124665,2017-11-19,2017-18,Ram Slam T20 Challenge,Match 8,"Senwes Park, Potchefstroom",Potchefstroom,DOL,LIONS,Dolphins,Lions,DOL,bat,LIONS,,0,0,,6,,RR Hendricks; AL Phehlukwayo,DOL,168,6,120,LIONS,170,4,120
+1124666,2017-11-19,2017-18,Ram Slam T20 Challenge,Match 9,"SuperSport Park, Centurion",Centurion,WPR,TIT,Cape Cobras,Titans,TIT,field,TIT,,0,0,,7,,DW Steyn; AK Markram,WPR,119,9,120,TIT,120,3,81
+1124668,2017-11-24,2017-18,Ram Slam T20 Challenge,Match 11,"Boland Park, Paarl",Paarl,WPR,LIONS,Cape Cobras,Lions,LIONS,field,WPR,,0,0,6,,,JP Duminy; GF Linde,WPR,145,7,120,LIONS,139,6,120
+1124669,2017-11-24,2017-18,Ram Slam T20 Challenge,Match 12,"Mangaung Oval, Bloemfontein",Bloemfontein,WAR,KNG,Warriors,Knights,KNG,field,KNG,,0,0,,4,,,WAR,155,6,120,KNG,156,6,118
+1124671,2017-11-26,2017-18,Ram Slam T20 Challenge,Match 14,"Newlands, Cape Town",Cape Town,LIONS,WAR,Lions,Warriors,WAR,field,WAR,,0,0,,4,,CA Ingram; K Rabada,LIONS,182,3,120,WAR,183,6,114
+1124672,2017-11-26,2017-18,Ram Slam T20 Challenge,Match 15,"Newlands, Cape Town",Cape Town,KNG,WPR,Knights,Cape Cobras,WPR,field,WPR,,0,0,,3,,JP Duminy; RK Kleinveldt,KNG,159,5,120,WPR,163,7,114
+1124673,2017-11-29,2017-18,Ram Slam T20 Challenge,Match 16,"Boland Park, Paarl",Paarl,WPR,WAR,Cape Cobras,Warriors,WPR,bat,WPR,,0,0,10,,,GF Linde,WPR,159,4,120,WAR,149,8,120
+1124675,2017-12-01,2017-18,Ram Slam T20 Challenge,Match 18,"Kingsmead, Durban",Durban,WPR,DOL,Cape Cobras,Dolphins,DOL,field,,no result,1,0,,,,,WPR,172,4,120,DOL,8,1,13
+1124676,2017-12-01,2017-18,Ram Slam T20 Challenge,Match 19,"Mangaung Oval, Bloemfontein",Bloemfontein,KNG,LIONS,Knights,Lions,LIONS,field,,no result,1,0,,,,,KNG,86,2,78,,,,
+1124677,2017-12-01,2017-18,Ram Slam T20 Challenge,Match 20,"Willowmoore Park, Benoni",Benoni,TIT,WAR,Titans,Warriors,WAR,field,TIT,,0,0,56,,D/L,AB de Villiers; T Shamsi,TIT,172,3,78,WAR,116,9,78
+1124678,2017-12-03,2017-18,Ram Slam T20 Challenge,Match 21,"St George's Park, Port Elizabeth",Port Elizabeth,KNG,TIT,Knights,Titans,KNG,bat,TIT,,0,0,,5,,DW Steyn; F Behardien,KNG,133,7,120,TIT,139,5,119
+1124679,2017-12-03,2017-18,Ram Slam T20 Challenge,Match 22,"St George's Park, Port Elizabeth",Port Elizabeth,WAR,DOL,Warriors,Dolphins,WAR,bat,WAR,,0,0,1,,,R Frylinck; C Jonker,WAR,153,8,120,DOL,152,7,120
+1124681,2017-12-06,2017-18,Ram Slam T20 Challenge,Match 24,"Diamond Oval, Kimberley",Kimberley,WPR,KNG,Cape Cobras,Knights,KNG,field,WPR,,0,0,5,,,DA Miller; D Paterson,WPR,156,9,120,KNG,151,9,120
+1124683,2017-12-08,2017-18,Ram Slam T20 Challenge,Match 26,"Mangaung Oval, Bloemfontein",Bloemfontein,KNG,DOL,Knights,Dolphins,DOL,field,DOL,,0,0,,6,,MN van Wyk; Imran Tahir,KNG,168,4,102,DOL,169,4,99
+1124684,2017-12-08,2017-18,Ram Slam T20 Challenge,Match 27,"Senwes Park, Potchefstroom",Potchefstroom,WAR,LIONS,Warriors,Lions,WAR,bat,WAR,,0,0,4,,D/L,JT Smuts,WAR,133,4,103,LIONS,92,7,60
+1124685,2017-12-10,2017-18,Ram Slam T20 Challenge,Match 28,"Buffalo Park, East London",East London,WAR,WPR,Warriors,Cape Cobras,WPR,field,WAR,,0,0,18,,,CA Ingram; JT Smuts,WAR,168,5,120,WPR,150,6,120
+1124686,2017-12-10,2017-18,Ram Slam T20 Challenge,Match 29,"Kingsmead, Durban",Durban,DOL,TIT,Dolphins,Titans,DOL,bat,DOL,,0,0,89,,,MN van Wyk; P Subrayen,DOL,168,7,120,TIT,79,10,118
+1124687,2017-12-10,2017-18,Ram Slam T20 Challenge,Match 30,"New Wanderers Stadium, Johannesburg",Johannesburg,LIONS,KNG,Lions,Knights,KNG,field,,no result,1,0,,,,,LIONS,3,0,6,,,,
+1124688,2017-12-13,2017-18,Ram Slam T20 Challenge,Semi Final,"SuperSport Park, Centurion",Centurion,WAR,TIT,Warriors,Titans,TIT,field,TIT,,0,0,,8,,T Shamsi; AK Markram,WAR,143,10,109,TIT,145,2,92
+1124690,2017-12-16,2017-18,Ram Slam T20 Challenge,Final,"SuperSport Park, Centurion",Centurion,DOL,TIT,Dolphins,Titans,TIT,field,TIT,,0,0,,7,,Q de Kock; CH Morris,DOL,100,10,111,TIT,101,3,67
+1157224,2019-04-05,2018-19,CSA T20 Challenge,Match 1,"SuperSport Park, Centurion",Centurion,TIT,WAR,Titans,Warriors,WAR,field,WAR,,0,0,4,,D/L,GL Cloete; L Sipamla,TIT,216,5,120,WAR,60,0,36
+1157225,2019-04-06,2018-19,CSA T20 Challenge,Match 2,"Kingsmead, Durban",Durban,KNG,DOL,Knights,Dolphins,DOL,field,DOL,,0,0,,4,,P Subrayen; MJ Ackerman,KNG,133,8,120,DOL,134,6,111
+1157226,2019-04-07,2018-19,CSA T20 Challenge,Match 3,"New Wanderers Stadium, Johannesburg",Johannesburg,WPR,LIONS,Cape Cobras,Lions,LIONS,field,WPR,,0,0,5,,,VD Philander; D Paterson,WPR,169,8,120,LIONS,164,8,120
+1157227,2019-04-10,2018-19,CSA T20 Challenge,Match 5,"Kingsmead, Durban",Durban,LIONS,DOL,Lions,Dolphins,DOL,field,LIONS,,0,0,18,,,BC Fortuin; PWA Mulder,LIONS,159,5,120,DOL,141,9,120
+1157229,2019-04-10,2018-19,CSA T20 Challenge,Match 6,"Willowmoore Park, Benoni",Benoni,WPR,TIT,Cape Cobras,Titans,TIT,field,TIT,,0,0,,7,,H Davids; G Mahlokwana,WPR,150,5,120,TIT,151,3,94
+1157230,2019-04-12,2018-19,CSA T20 Challenge,Match 7,"Boland Park, Paarl",Paarl,WAR,WPR,Warriors,Cape Cobras,WPR,field,WPR,,0,0,,7,,A Mgijima; JN Malan,WAR,151,8,120,WPR,152,3,95
+1157231,2019-04-12,2018-19,CSA T20 Challenge,Match 8,"Senwes Park, Potchefstroom",Potchefstroom,LIONS,KNG,Lions,Knights,KNG,field,LIONS,,0,0,40,,,BC Fortuin; RD Rickelton,LIONS,150,7,120,KNG,110,9,120
+1157233,2019-04-14,2018-19,CSA T20 Challenge,Match 10,"Newlands, Cape Town",Cape Town,WPR,DOL,Cape Cobras,Dolphins,DOL,field,WPR,,0,0,8,,,RK Kleinveldt; K Zondo,WPR,152,6,120,DOL,144,5,120
+1157234,2019-04-14,2018-19,CSA T20 Challenge,Match 11,"Buffalo Park, East London",East London,WAR,LIONS,Warriors,Lions,LIONS,field,,no result,1,0,,,,,WAR,155,5,112,,,,
+1157236,2019-04-16,2018-19,CSA T20 Challenge,Match 13,"Newlands, Cape Town",Cape Town,WPR,KNG,Cape Cobras,Knights,KNG,field,WPR,,0,0,5,,,VD Philander; T Bokako,WPR,150,5,120,KNG,145,7,120
+1157238,2019-04-18,2018-19,CSA T20 Challenge,Match 15,"New Wanderers Stadium, Johannesburg",Johannesburg,LIONS,TIT,Lions,Titans,TIT,field,LIONS,,0,0,19,,,HE van der Dussen; Z Pongolo,LIONS,181,4,120,TIT,162,9,120
+1157240,2019-04-20,2018-19,CSA T20 Challenge,Match 17,"City Oval, Pietermaritzburg",Pietermaritzburg,DOL,TIT,Dolphins,Titans,TIT,field,TIT,,0,0,,8,,P Subrayen; TB de Bruyn,DOL,185,4,120,TIT,191,2,113
+1157245,2019-04-24,2018-19,CSA T20 Challenge,Match 22,"Boland Park, Paarl",Paarl,TIT,WPR,Titans,Cape Cobras,WPR,field,WPR,,0,0,,3,,A Mgijima; CJ Dala,TIT,182,3,120,WPR,183,7,113
+1157247,2019-04-24,2018-19,CSA T20 Challenge,Match 24,"New Wanderers Stadium, Johannesburg",Johannesburg,LIONS,WAR,Lions,Warriors,WAR,field,WAR,,0,0,,9,,JT Smuts; MP Breetzke,LIONS,144,6,120,WAR,145,1,87
+1157248,2019-04-26,2018-19,CSA T20 Challenge,Match 25,"Newlands, Cape Town",Cape Town,WPR,LIONS,Cape Cobras,Lions,LIONS,field,LIONS,,0,0,,6,,HE van der Dussen; Z Pongolo,WPR,133,7,120,LIONS,134,4,95
+1157249,2019-04-26,2018-19,CSA T20 Challenge,Match 26,"St George's Park, Port Elizabeth",Port Elizabeth,WAR,DOL,Warriors,Dolphins,DOL,field,DOL,,0,0,,7,,VB van Jaarsveld; P Subrayen,WAR,153,7,120,DOL,154,3,110
+1157250,2019-04-26,2018-19,CSA T20 Challenge,Match 27,"SuperSport Park, Centurion",Centurion,KNG,TIT,Knights,Titans,TIT,field,TIT,,0,0,,6,,H Davids; G Mahlokwana,KNG,148,8,120,TIT,150,4,116
+1157252,2019-04-28,2018-19,CSA T20 Challenge,Match 29,"Kingsmead, Durban",Durban,WPR,DOL,Cape Cobras,Dolphins,WPR,bat,DOL,,0,0,,5,,VB van Jaarsveld; KA Maharaj,WPR,121,7,120,DOL,124,5,90
+1157253,2019-04-28,2018-19,CSA T20 Challenge,Match 30,"SuperSport Park, Centurion",Centurion,TIT,LIONS,Titans,Lions,LIONS,field,LIONS,,0,0,,4,,LB Williams; RD Rickelton,TIT,148,7,120,LIONS,149,6,114
+1157254,2019-05-01,2018-19,CSA T20 Challenge,Semi Final,"New Wanderers Stadium, Johannesburg",Johannesburg,DOL,LIONS,Dolphins,Lions,LIONS,field,LIONS,,0,0,,8,,AM Phangiso; HE van der Dussen,DOL,163,8,120,LIONS,164,2,112
+1157255,2019-05-01,2018-19,CSA T20 Challenge,Semi Final,"Buffalo Park, East London",East London,WAR,WPR,Warriors,Cape Cobras,WPR,field,WAR,,0,0,15,,,SSB Magala; DG Bedingham,WAR,172,7,120,WPR,157,8,120
+1157256,2019-05-05,2018-19,CSA T20 Challenge,Final,"New Wanderers Stadium, Johannesburg",Johannesburg,LIONS,WAR,Lions,Warriors,WAR,field,LIONS,,0,0,11,,,T Bavuma; BC Fortuin,LIONS,203,4,120,WAR,192,10,116
+1235379,2021-02-19,2020-21,CSA T20 Challenge,Match 2,"Kingsmead, Durban",Durban,DOL,WPR,Dolphins,Cape Cobras,DOL,bat,DOL,,0,0,14,,,KA Maharaj; K Zondo,DOL,155,8,120,WPR,141,7,120
+1235387,2021-02-19,2020-21,CSA T20 Challenge,Match 1,"Kingsmead, Durban",Durban,KNG,TIT,Knights,Titans,KNG,bat,TIT,,0,0,,6,,T Shamsi; H Klaasen,KNG,116,10,98,TIT,120,4,103
+1235381,2021-02-20,2020-21,CSA T20 Challenge,Match 4,"Kingsmead, Durban",Durban,KNG,DOL,Knights,Dolphins,KNG,bat,DOL,,0,0,,4,,PJ van Biljon; KA Maharaj,KNG,144,5,120,DOL,145,6,109
+1235380,2021-02-21,2020-21,CSA T20 Challenge,Match 5,"Kingsmead, Durban",Durban,TIT,WPR,Titans,Cape Cobras,TIT,bat,TIT,,0,0,16,,,L Ngidi; BS Makhanya,TIT,148,6,120,WPR,132,10,120
+1235385,2021-02-21,2020-21,CSA T20 Challenge,Match 6,"Kingsmead, Durban",Durban,WAR,DOL,Warriors,Dolphins,WAR,bat,DOL,,0,0,3,,D/L,KA Maharaj; SJ Erwee,WAR,143,5,120,DOL,128,2,108
+1235374,2021-02-22,2020-21,CSA T20 Challenge,Match 7,"Kingsmead, Durban",Durban,WPR,KNG,Cape Cobras,Knights,WPR,bat,KNG,,0,0,,3,,S von Berg; M Pretorius,WPR,167,5,120,KNG,169,7,120
+1235384,2021-02-22,2020-21,CSA T20 Challenge,Match 8,"Kingsmead, Durban",Durban,LIONS,TIT,Lions,Titans,LIONS,bat,LIONS,,0,0,18,,D/L,HE van der Dussen; BE Hendricks,LIONS,124,4,98,TIT,112,8,90
+1235376,2021-02-23,2020-21,CSA T20 Challenge,Match 9,"Kingsmead, Durban",Durban,WPR,WAR,Cape Cobras,Warriors,WAR,field,WPR,,0,0,24,,,GF Linde,WPR,181,5,120,WAR,157,10,116
+1235378,2021-02-23,2020-21,CSA T20 Challenge,Match 10,"Kingsmead, Durban",Durban,KNG,LIONS,Knights,Lions,KNG,bat,LIONS,,0,0,,7,,T Bavuma; SSB Magala,KNG,106,10,120,LIONS,110,3,109
+1235373,2021-02-24,2020-21,CSA T20 Challenge,Match 11,"Kingsmead, Durban",Durban,WAR,TIT,Warriors,Titans,WAR,bat,WAR,,0,0,43,,,A Gqamane; M Nabe,WAR,157,9,120,TIT,114,9,120
+1235375,2021-02-24,2020-21,CSA T20 Challenge,Match 12,"Kingsmead, Durban",Durban,DOL,LIONS,Dolphins,Lions,DOL,bat,DOL,,0,0,41,,,DA Miller; P Subrayen,DOL,151,4,120,LIONS,110,10,117
+1235383,2021-02-25,2020-21,CSA T20 Challenge,Match 13,"Kingsmead, Durban",Durban,WAR,KNG,Warriors,Knights,KNG,field,WAR,,0,0,14,,,LC Ngoepe; M Nabe,WAR,157,8,120,KNG,143,10,120
+1235377,2021-02-26,2020-21,CSA T20 Challenge,Match 15,"Kingsmead, Durban",Durban,DOL,TIT,Dolphins,Titans,DOL,bat,DOL,,0,0,7,,,R Frylinck; DA Miller,DOL,151,6,120,TIT,144,6,120
+1235386,2021-02-26,2020-21,CSA T20 Challenge,Match 14,"Kingsmead, Durban",Durban,WPR,LIONS,Cape Cobras,Lions,WPR,bat,LIONS,,0,0,,7,,RR Hendricks; L Sipamla,WPR,144,6,120,LIONS,147,3,117
+1250546,2021-02-27,2020-21,CSA T20 Challenge,Play-off,"Kingsmead, Durban",Durban,WAR,LIONS,Warriors,Lions,WAR,bat,LIONS,,0,0,,7,,AM Phangiso; T Bavuma,WAR,141,6,120,LIONS,142,3,115
+1250547,2021-02-28,2020-21,CSA T20 Challenge,Final,"Kingsmead, Durban",Durban,DOL,LIONS,Dolphins,Lions,DOL,bat,LIONS,,0,0,,4,,K Rabada; PWA Mulder,DOL,107,7,120,LIONS,108,6,114
+1299602,2022-02-07,2021-22,CSA T20 Challenge,Match 1,"St George's Park, Port Elizabeth",Port Elizabeth,BOL,WPR,Boland,Western Province,BOL,bat,WPR,,0,0,,6,,RE Levi; GF Linde,BOL,142,6,120,WPR,143,4,102
+1299603,2022-02-07,2021-22,CSA T20 Challenge,Match 2,"St George's Park, Port Elizabeth",Port Elizabeth,WAR,TIT,Warriors,Titans,TIT,field,WAR,,0,0,8,,,JT Smuts; T Stubbs,WAR,163,8,120,TIT,155,8,120
+1299604,2022-02-08,2021-22,CSA T20 Challenge,Match 3,"St George's Park, Port Elizabeth",Port Elizabeth,NWEST,LIONS,North West,Lions,LIONS,field,NWEST,,0,0,11,,,JN Diseko; M Van Buuren,NWEST,136,6,120,LIONS,125,5,120
+1299605,2022-02-08,2021-22,CSA T20 Challenge,Match 4,"St George's Park, Port Elizabeth",Port Elizabeth,KNG,DOL,Knights,Dolphins,KNG,bat,DOL,,0,0,,8,,P Subrayen; KD Petersen,KNG,128,5,120,DOL,130,2,108
+1299606,2022-02-09,2021-22,CSA T20 Challenge,Match 5,"St George's Park, Port Elizabeth",Port Elizabeth,TIT,BOL,Titans,Boland,BOL,field,TIT,,0,0,3,,,Q de Kock; CJ Dala,TIT,158,2,120,BOL,155,8,120
+1299607,2022-02-09,2021-22,CSA T20 Challenge,Match 6,"St George's Park, Port Elizabeth",Port Elizabeth,WAR,WPR,Warriors,Western Province,WAR,bat,WPR,,0,0,,7,,RE Levi; M Nabe,WAR,163,5,120,WPR,164,3,103
+1299608,2022-02-10,2021-22,CSA T20 Challenge,Match 7,"St George's Park, Port Elizabeth",Port Elizabeth,KNG,NWEST,Knights,North West,NWEST,field,NWEST,,0,0,,8,,JN Diseko; WB Marshall,KNG,94,9,120,NWEST,95,2,61
+1299609,2022-02-10,2021-22,CSA T20 Challenge,Match 8,"St George's Park, Port Elizabeth",Port Elizabeth,LIONS,DOL,Lions,Dolphins,LIONS,bat,LIONS,,0,0,8,,,SSB Magala; SSB Magala,LIONS,156,8,120,DOL,148,8,120
+1299610,2022-02-12,2021-22,CSA T20 Challenge,Match 9,"St George's Park, Port Elizabeth",Port Elizabeth,DOL,WAR,Dolphins,Warriors,WAR,field,DOL,,0,0,20,,,OEG Baartman; T Stubbs,DOL,211,5,120,WAR,191,6,120
+1299611,2022-02-12,2021-22,CSA T20 Challenge,Match 10,"St George's Park, Port Elizabeth",Port Elizabeth,TIT,KNG,Titans,Knights,TIT,bat,TIT,,0,0,27,,,LB Williams; H Klaasen,TIT,151,6,120,KNG,124,10,114
+1299612,2022-02-13,2021-22,CSA T20 Challenge,Match 11,"St George's Park, Port Elizabeth",Port Elizabeth,LIONS,WPR,Lions,Western Province,WPR,field,WPR,,0,0,,5,,BE Hendricks; T de Zorzi,LIONS,140,5,120,WPR,141,5,115
+1299613,2022-02-13,2021-22,CSA T20 Challenge,Match 12,"St George's Park, Port Elizabeth",Port Elizabeth,BOL,NWEST,Boland,North West,BOL,bat,BOL,tie,0,1,,,,D Pretorius; FD Adams,BOL,182,6,120,NWEST,182,3,120
+1299614,2022-02-14,2021-22,CSA T20 Challenge,Match 13,"St George's Park, Port Elizabeth",Port Elizabeth,DOL,TIT,Dolphins,Titans,TIT,field,TIT,,0,0,,7,,AM Phangiso; DA Miller,DOL,134,4,114,TIT,137,3,99
+1299615,2022-02-14,2021-22,CSA T20 Challenge,Match 14,"St George's Park, Port Elizabeth",Port Elizabeth,WAR,KNG,Warriors,Knights,WAR,bat,KNG,,0,0,,9,,GJ Snyman; GJ Snyman,WAR,170,5,120,KNG,173,1,112
+1299616,2022-02-15,2021-22,CSA T20 Challenge,Match 15,"St George's Park, Port Elizabeth",Port Elizabeth,BOL,LIONS,Boland,Lions,LIONS,field,BOL,,0,0,44,,,PJ Malan; S von Berg,BOL,160,4,120,LIONS,116,10,104
+1299617,2022-02-15,2021-22,CSA T20 Challenge,Match 16,"St George's Park, Port Elizabeth",Port Elizabeth,WPR,NWEST,Western Province,North West,WPR,bat,WPR,,0,0,84,,,WD Parnell; BE Hendricks,WPR,164,8,120,NWEST,80,10,106
+1299618,2022-02-17,2021-22,CSA T20 Challenge,Match 17,"St George's Park, Port Elizabeth",Port Elizabeth,LIONS,TIT,Lions,Titans,LIONS,bat,TIT,,0,0,,7,,T Shamsi; TB de Bruyn,LIONS,148,6,120,TIT,152,3,109
+1299619,2022-02-17,2021-22,CSA T20 Challenge,Match 18,"St George's Park, Port Elizabeth",Port Elizabeth,WAR,BOL,Warriors,Boland,WAR,bat,BOL,,0,0,,3,,S von Berg; M Copeland,WAR,156,6,120,BOL,160,7,118
+1299620,2022-02-18,2021-22,CSA T20 Challenge,Match 19,"St George's Park, Port Elizabeth",Port Elizabeth,KNG,WPR,Knights,Western Province,WPR,field,WPR,,0,0,,6,,J Dawood; JA Bird,KNG,126,8,120,WPR,130,4,95
+1299621,2022-02-18,2021-22,CSA T20 Challenge,Match 20,"St George's Park, Port Elizabeth",Port Elizabeth,NWEST,DOL,North West,Dolphins,DOL,field,DOL,,0,0,,7,,KD Petersen; OEG Baartman,NWEST,135,8,120,DOL,136,3,112
+1299622,2022-02-19,2021-22,CSA T20 Challenge,Match 21,"St George's Park, Port Elizabeth",Port Elizabeth,WPR,TIT,Western Province,Titans,TIT,field,TIT,,0,0,,7,,Q de Kock; LB Williams,WPR,140,5,120,TIT,144,3,117
+1299623,2022-02-19,2021-22,CSA T20 Challenge,Match 22,"St George's Park, Port Elizabeth",Port Elizabeth,LIONS,WAR,Lions,Warriors,WAR,field,WAR,,0,0,,5,,WJ Lubbe; Tsepo Ndwandwa,LIONS,142,6,120,WAR,144,5,95
+1299624,2022-02-20,2021-22,CSA T20 Challenge,Match 23,"St George's Park, Port Elizabeth",Port Elizabeth,BOL,DOL,Boland,Dolphins,DOL,field,BOL,,0,0,8,,,PJ Malan; Z Abrahams,BOL,119,9,120,DOL,111,9,120
+1299625,2022-02-20,2021-22,CSA T20 Challenge,Match 24,"St George's Park, Port Elizabeth",Port Elizabeth,KNG,LIONS,Knights,Lions,KNG,bat,LIONS,,0,0,,5,,T Ntuli; M Van Buuren,KNG,127,8,120,LIONS,130,5,115
+1299626,2022-02-22,2021-22,CSA T20 Challenge,Match 25,"St George's Park, Port Elizabeth",Port Elizabeth,TIT,NWEST,Titans,North West,NWEST,field,TIT,,0,0,33,,,AM Phangiso; H Klaasen,TIT,167,4,120,NWEST,134,7,120
+1299627,2022-02-22,2021-22,CSA T20 Challenge,Match 26,"St George's Park, Port Elizabeth",Port Elizabeth,KNG,BOL,Knights,Boland,KNG,bat,KNG,,0,0,3,,,CP Klijnhans; Z Abrahams,KNG,164,6,120,BOL,161,2,120
+1299628,2022-02-23,2021-22,CSA T20 Challenge,Match 27,"St George's Park, Port Elizabeth",Port Elizabeth,DOL,WPR,Dolphins,Western Province,WPR,field,DOL,,0,0,65,,,K Zondo; P Subrayen,DOL,148,5,120,WPR,83,10,94
+1299629,2022-02-23,2021-22,CSA T20 Challenge,Match 28,"St George's Park, Port Elizabeth",Port Elizabeth,NWEST,WAR,North West,Warriors,NWEST,bat,NWEST,,0,0,10,,,HG Kuhn; LM Zuma,NWEST,169,5,120,WAR,159,9,120
+1299630,2022-02-25,2021-22,CSA T20 Challenge,Semi Final,"St George's Park, Port Elizabeth",Port Elizabeth,DOL,TIT,Dolphins,Titans,TIT,field,TIT,,0,0,,6,,T Shamsi; D Brevis,DOL,93,8,120,TIT,94,4,85
+1299631,2022-02-25,2021-22,CSA T20 Challenge,Semi Final,"St George's Park, Port Elizabeth",Port Elizabeth,WPR,BOL,Western Province,Boland,WPR,bat,BOL,,0,0,,7,,PJ Malan; Z Abrahams,WPR,118,10,119,BOL,121,3,109
+1299632,2022-02-27,2021-22,CSA T20 Challenge,Final,"St George's Park, Port Elizabeth",Port Elizabeth,BOL,TIT,Boland,Titans,BOL,bat,BOL,,0,0,15,,,PJ Malan; I Manack,BOL,138,6,120,TIT,123,9,120
+1334891,2022-10-17,2022-23,CSA T20 Challenge,Match 1,"Senwes Park, Potchefstroom",Potchefstroom,TIT,DOL,Titans,Dolphins,DOL,field,TIT,,0,0,34,,,D Brevis,TIT,168,6,120,DOL,134,10,112
+1334892,2022-10-17,2022-23,CSA T20 Challenge,Match 2,"Senwes Park, Potchefstroom",Potchefstroom,LIONS,NWEST,Lions,North West,NWEST,field,NWEST,,0,0,,4,,S Muthusamy,LIONS,174,6,120,NWEST,175,6,115
+1334893,2022-10-18,2022-23,CSA T20 Challenge,Match 3,"Senwes Park, Potchefstroom",Potchefstroom,WAR,KNG,Warriors,Knights,KNG,field,,no result,1,0,,,,,WAR,134,9,120,KNG,21,3,17
+1334894,2022-10-18,2022-23,CSA T20 Challenge,Match 4,"Senwes Park, Potchefstroom",Potchefstroom,WPR,BOL,Western Province,Boland,BOL,field,BOL,,0,0,,5,,JN Malan,WPR,155,7,120,BOL,159,5,97
+1334895,2022-10-19,2022-23,CSA T20 Challenge,Match 5,"Senwes Park, Potchefstroom",Potchefstroom,TIT,LIONS,Titans,Lions,LIONS,field,TIT,,0,0,71,,,,TIT,190,6,120,LIONS,119,10,120
+1334896,2022-10-19,2022-23,CSA T20 Challenge,Match 6,"Senwes Park, Potchefstroom",Potchefstroom,DOL,NWEST,Dolphins,North West,NWEST,field,DOL,,0,0,30,,,,DOL,163,5,120,NWEST,133,9,120
+1334897,2022-10-20,2022-23,CSA T20 Challenge,Match 7,"Senwes Park, Potchefstroom",Potchefstroom,WPR,KNG,Western Province,Knights,WPR,bat,KNG,,0,0,,9,,,WPR,116,10,113,KNG,119,1,83
+1334898,2022-10-20,2022-23,CSA T20 Challenge,Match 8,"Senwes Park, Potchefstroom",Potchefstroom,WAR,BOL,Warriors,Boland,BOL,field,WAR,,0,0,3,,,,WAR,165,4,120,BOL,162,6,120
+1334899,2022-10-21,2022-23,CSA T20 Challenge,Match 9,"Senwes Park, Potchefstroom",Potchefstroom,TIT,WPR,Titans,Western Province,TIT,bat,TIT,,0,0,16,,D/L,,TIT,108,7,78,WPR,95,8,78
+1334900,2022-10-21,2022-23,CSA T20 Challenge,Match 10,"Senwes Park, Potchefstroom",Potchefstroom,WAR,LIONS,Warriors,Lions,LIONS,field,LIONS,,0,0,,7,D/L,,WAR,106,4,102,LIONS,100,3,63
+1334901,2022-10-22,2022-23,CSA T20 Challenge,Match 11,"Senwes Park, Potchefstroom",Potchefstroom,DOL,BOL,Dolphins,Boland,BOL,field,BOL,,0,0,,7,D/L,,DOL,136,7,120,BOL,87,3,68
+1334902,2022-10-22,2022-23,CSA T20 Challenge,Match 12,"Senwes Park, Potchefstroom",Potchefstroom,NWEST,TIT,North West,Titans,NWEST,bat,TIT,,0,0,,5,,,NWEST,134,8,120,TIT,135,5,105
+1334903,2022-10-23,2022-23,CSA T20 Challenge,Match 13,"Senwes Park, Potchefstroom",Potchefstroom,KNG,LIONS,Knights,Lions,LIONS,field,,no result,1,0,,,,,KNG,158,9,120,,,,
+1334906,2022-10-25,2022-23,CSA T20 Challenge,Match 16,"Senwes Park, Potchefstroom",Potchefstroom,BOL,TIT,Boland,Titans,TIT,field,BOL,,0,0,4,,D/L,,BOL,121,8,120,TIT,103,7,102
+1334907,2022-10-26,2022-23,CSA T20 Challenge,Match 17,"Senwes Park, Potchefstroom",Potchefstroom,LIONS,DOL,Lions,Dolphins,LIONS,bat,DOL,,0,0,,9,,,LIONS,163,6,120,DOL,167,1,110
+1334908,2022-10-26,2022-23,CSA T20 Challenge,Match 18,"Senwes Park, Potchefstroom",Potchefstroom,KNG,BOL,Knights,Boland,BOL,field,KNG,,0,0,4,,,,KNG,179,6,120,BOL,175,10,118
+1334909,2022-10-27,2022-23,CSA T20 Challenge,Match 19,"Senwes Park, Potchefstroom",Potchefstroom,WPR,NWEST,Western Province,North West,NWEST,field,WPR,,0,0,27,,,,WPR,164,5,108,NWEST,137,6,108
+1334910,2022-10-28,2022-23,CSA T20 Challenge,Match 20,"Senwes Park, Potchefstroom",Potchefstroom,WAR,TIT,Warriors,Titans,WAR,bat,TIT,,0,0,,2,,,WAR,119,7,120,TIT,120,8,117
+1334911,2022-10-28,2022-23,CSA T20 Challenge,Match 21,"Senwes Park, Potchefstroom",Potchefstroom,KNG,DOL,Knights,Dolphins,DOL,field,,no result,1,0,,,,,KNG,100,9,103,,,,
+1334912,2022-10-29,2022-23,CSA T20 Challenge,Match 22,"Senwes Park, Potchefstroom",Potchefstroom,NWEST,BOL,North West,Boland,BOL,field,BOL,,0,0,,5,D/L,,NWEST,150,5,120,BOL,134,5,91
+1334913,2022-10-29,2022-23,CSA T20 Challenge,Match 23,"Senwes Park, Potchefstroom",Potchefstroom,WPR,DOL,Western Province,Dolphins,WPR,bat,DOL,,0,0,,7,,,WPR,73,10,108,DOL,76,3,58
+1334914,2022-10-30,2022-23,CSA T20 Challenge,Match 24,"Senwes Park, Potchefstroom",Potchefstroom,WAR,NWEST,Warriors,North West,WAR,bat,WAR,,0,0,10,,,,WAR,166,4,120,NWEST,156,7,120
+1334915,2022-10-31,2022-23,CSA T20 Challenge,Match 25,"Senwes Park, Potchefstroom",Potchefstroom,TIT,KNG,Titans,Knights,KNG,field,TIT,,0,0,41,,,,TIT,271,3,120,KNG,230,9,120
+1334916,2022-10-31,2022-23,CSA T20 Challenge,Match 26,"Senwes Park, Potchefstroom",Potchefstroom,LIONS,WPR,Lions,Western Province,WPR,field,LIONS,,0,0,32,,,,LIONS,160,8,120,WPR,128,9,120
+1334917,2022-11-01,2022-23,CSA T20 Challenge,Match 27,"Senwes Park, Potchefstroom",Potchefstroom,NWEST,KNG,North West,Knights,KNG,field,NWEST,,0,0,22,,,,NWEST,154,6,120,KNG,132,10,100
+1334919,2022-11-02,2022-23,CSA T20 Challenge,Semi Final,"Senwes Park, Potchefstroom",Potchefstroom,TIT,KNG,Titans,Knights,TIT,bat,TIT,,0,0,38,,,,TIT,158,6,120,KNG,120,8,120
+1334920,2022-11-02,2022-23,CSA T20 Challenge,Semi Final,"Senwes Park, Potchefstroom",Potchefstroom,DOL,BOL,Dolphins,Boland,BOL,field,DOL,,0,0,20,,,,DOL,146,10,118,BOL,126,8,120
+1334921,2022-11-05,2022-23,CSA T20 Challenge,Final,"Senwes Park, Potchefstroom",Potchefstroom,DOL,TIT,Dolphins,Titans,DOL,bat,TIT,,0,0,,4,,,DOL,162,3,120,TIT,165,6,118
+1394571,2024-03-08,2023-24,CSA T20 Challenge,Match 1,"St George's Park, Gqeberha",Gqeberha,WAR,KZNIN,Warriors,KwaZulu-Natal Inland,KZNIN,field,WAR,,0,0,37,,,M Jansen,WAR,125,10,120,KZNIN,88,10,100
+1394572,2024-03-08,2023-24,CSA T20 Challenge,Match 2,"Kingsmead, Durban",Durban,WPR,DOL,Western Province,Dolphins,WPR,bat,WPR,,0,0,2,,,JA Bird,WPR,148,8,120,DOL,146,7,120
+1394573,2024-03-08,2023-24,CSA T20 Challenge,Match 3,"The Wanderers Stadium, Johannesburg",Johannesburg,LIONS,BOL,Lions,Boland,BOL,field,LIONS,,0,0,44,,,RD Rickelton,LIONS,223,5,120,BOL,179,7,120
+1394574,2024-03-08,2023-24,CSA T20 Challenge,Match 4,"SuperSport Park, Centurion",Centurion,TIT,NWEST,Titans,North West,NWEST,field,TIT,,0,0,13,,,T Shamsi,TIT,169,7,120,NWEST,156,8,120
+1444765,2024-09-27,2024-25,CSA T20 Challenge,Match 1,"The Wanderers Stadium, Johannesburg",Johannesburg,TIT,LIONS,Titans,Lions,LIONS,field,TIT,,0,0,117,,,,TIT,258,6,120,LIONS,141,8,120
+1444766,2024-09-28,2024-25,CSA T20 Challenge,Match 2,"Mangaung Oval, Bloemfontein",Bloemfontein,NWEST,KNG,North West,Knights,NWEST,bat,NWEST,,0,0,3,,D/L,,NWEST,144,4,108,KNG,146,6,108
+1444768,2024-09-29,2024-25,CSA T20 Challenge,Match 4,"St George's Park, Gqeberha",Gqeberha,DOL,WAR,Dolphins,Warriors,WAR,field,WAR,,0,0,,6,,,DOL,162,9,120,WAR,163,4,116
+1444770,2024-10-04,2024-25,CSA T20 Challenge,Match 6,"Kingsmead, Durban",Durban,TIT,DOL,Titans,Dolphins,DOL,field,TIT,,0,0,51,,,,TIT,210,3,120,DOL,159,9,120
+1444772,2024-10-04,2024-25,CSA T20 Challenge,Match 8,"Senwes Park, Potchefstroom",Potchefstroom,WPR,NWEST,Western Province,North West,NWEST,field,NWEST,,0,0,,3,,WJ Lubbe; M Jansen,WPR,142,9,120,NWEST,146,7,118
+1444773,2024-10-06,2024-25,CSA T20 Challenge,Match 9,"St George's Park, Gqeberha",Gqeberha,KNG,WAR,Knights,Warriors,KNG,bat,KNG,,0,0,16,,,MP Siboto; G Tarr,KNG,166,9,120,WAR,150,6,120
+1444774,2024-10-06,2024-25,CSA T20 Challenge,Match 10,"The Wanderers Stadium, Johannesburg",Johannesburg,LIONS,DOL,Lions,Dolphins,LIONS,bat,LIONS,,0,0,9,,,,LIONS,156,5,120,DOL,147,8,120
+1444776,2024-10-06,2024-25,CSA T20 Challenge,Match 12,"Senwes Park, Potchefstroom",Potchefstroom,NWEST,BOL,North West,Boland,BOL,field,NWEST,,0,0,3,,,,NWEST,176,5,120,BOL,173,7,120
+1444777,2024-10-09,2024-25,CSA T20 Challenge,Match 13,"Newlands, Cape Town",Cape Town,WPR,WAR,Western Province,Warriors,WPR,bat,WAR,,0,0,,5,,B Swanepoel,WPR,148,7,120,WAR,150,5,106
+1444778,2024-10-09,2024-25,CSA T20 Challenge,Match 14,"Kingsmead, Durban",Durban,NWEST,DOL,North West,Dolphins,DOL,field,NWEST,,0,0,43,,,B Xenxe,NWEST,136,7,120,DOL,93,10,101
+1444779,2024-10-09,2024-25,CSA T20 Challenge,Match 15,"Mangaung Oval, Bloemfontein",Bloemfontein,LIONS,KNG,Lions,Knights,LIONS,bat,LIONS,,0,0,47,,,,LIONS,142,7,120,KNG,95,10,107
+1444780,2024-10-09,2024-25,CSA T20 Challenge,Match 16,"SuperSport Park, Centurion",Centurion,TIT,BOL,Titans,Boland,BOL,field,TIT,,0,0,94,,,H Klaasen; Dayyaan Galiem,TIT,169,4,90,BOL,75,9,80
+1444781,2024-10-12,2024-25,CSA T20 Challenge,Match 17,"Boland Park, Paarl",Paarl,BOL,LIONS,Boland,Lions,BOL,bat,LIONS,,0,0,,6,,RR Hendricks; J Dawood,BOL,129,7,120,LIONS,132,4,118
+1444783,2024-10-13,2024-25,CSA T20 Challenge,Match 19,"Kingsmead, Durban",Durban,WPR,DOL,Western Province,Dolphins,DOL,field,DOL,,0,0,,4,,O Cele; MJ Ackerman,WPR,167,6,120,DOL,169,6,114
+1444784,2024-10-13,2024-25,CSA T20 Challenge,Match 20,"SuperSport Park, Centurion",Centurion,KNG,TIT,Knights,Titans,TIT,field,KNG,,0,0,32,,,AM Phangiso; RR Rossouw,KNG,223,6,120,TIT,191,6,120
+1444785,2024-10-16,2024-25,CSA T20 Challenge,Match 21,"Boland Park, Paarl",Paarl,BOL,WAR,Boland,Warriors,BOL,bat,BOL,,0,0,11,,,GA Stuurman; PE Kruger,BOL,171,6,120,WAR,160,10,119
+1444786,2024-10-16,2024-25,CSA T20 Challenge,Match 22,"Mangaung Oval, Bloemfontein",Bloemfontein,KNG,DOL,Knights,Dolphins,DOL,field,DOL,,0,0,,6,,JF Smith,KNG,155,9,120,DOL,158,4,111
+1444787,2024-10-16,2024-25,CSA T20 Challenge,Match 23,"The Wanderers Stadium, Johannesburg",Johannesburg,LIONS,WPR,Lions,Western Province,LIONS,bat,WPR,,0,0,,4,,EM Moore; D Potgieter,LIONS,145,7,120,WPR,146,6,117
+1444789,2024-10-18,2024-25,CSA T20 Challenge,Match 25,"Newlands, Cape Town",Cape Town,KNG,WPR,Knights,Western Province,WPR,field,WPR,,0,0,,6,,KI Simmonds; D Smith,KNG,157,7,120,WPR,163,4,113
+1444790,2024-10-19,2024-25,CSA T20 Challenge,Match 26,"St George's Park, Gqeberha",Gqeberha,WAR,TIT,Warriors,Titans,TIT,field,TIT,,0,0,,6,D/L,T Shamsi; J Hermann,WAR,179,6,120,TIT,174,4,98
+1444791,2024-10-19,2024-25,CSA T20 Challenge,Match 27,"Kingsmead, Durban",Durban,BOL,DOL,Boland,Dolphins,DOL,field,BOL,,0,0,4,,D/L,S von Berg; I Manack,BOL,167,4,120,DOL,83,5,60
+1444792,2024-10-19,2024-25,CSA T20 Challenge,Match 28,"Senwes Park, Potchefstroom",Potchefstroom,LIONS,NWEST,Lions,North West,LIONS,bat,LIONS,,0,0,5,,,C Esterhuizen; KT Maphaka,LIONS,170,3,120,NWEST,165,6,120
+1444793,2024-10-22,2024-25,CSA T20 Challenge,Qualifier 1,"The Wanderers Stadium, Johannesburg",Johannesburg,TIT,LIONS,Titans,Lions,LIONS,field,LIONS,,0,0,,7,,RR Hendricks; KT Maphaka,TIT,115,10,116,LIONS,116,3,96
+1444794,2024-10-23,2024-25,CSA T20 Challenge,Eliminator,"The Wanderers Stadium, Johannesburg",Johannesburg,WPR,NWEST,Western Province,North West,NWEST,field,WPR,,0,0,41,,,,WPR,166,5,120,NWEST,125,10,93
+1444795,2024-10-25,2024-25,CSA T20 Challenge,Qualifier 2,"SuperSport Park, Centurion",Centurion,TIT,WPR,Titans,Western Province,WPR,field,TIT,,0,0,19,,,AL Phehlukwayo; G Coetzee,TIT,182,7,120,WPR,163,6,120
+1444796,2024-10-27,2024-25,CSA T20 Challenge,Final,"The Wanderers Stadium, Johannesburg",Johannesburg,TIT,LIONS,Titans,Lions,TIT,bat,LIONS,,0,0,,8,,L Sipamla; C Esterhuizen,TIT,119,10,116,LIONS,124,2,91

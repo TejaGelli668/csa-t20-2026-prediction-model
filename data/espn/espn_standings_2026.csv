@@ -1,0 +1,17 @@
+pool,team,played,won,lost,no_result,points,nrr
+Pool A,BOR,2,1,0,1,6,0.65
+Pool A,DOL,2,1,1,0,5,2.4
+Pool A,NWEST,2,1,1,0,5,0.602
+Pool A,LIONS,1,1,0,0,4,0.4
+Pool A,WAR,2,1,1,0,4,-0.059
+Pool A,NCAPE,2,0,1,1,2,-5.2
+Pool A,LIMPO,1,0,1,0,0,-1.75
+Pool A,SWD,0,0,0,0,0,0
+Pool B,TIT,2,2,0,0,9,3.525
+Pool B,BOL,1,1,0,0,4,0.05
+Pool B,WPR,2,1,1,0,4,-1.328
+Pool B,MPR,2,0,1,1,2,-3.3
+Pool B,ESTORM,1,0,0,1,2,0
+Pool B,KZNIN,1,0,0,1,2,0
+Pool B,SAEP,1,0,0,1,2,0
+Pool B,KNG,2,0,2,0,0,-0.119

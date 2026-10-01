@@ -1,0 +1,815 @@
+espn_id,season,date,team,cricinfo_id,player,captain,starter,styles
+1501236,2025-26,2025-10-29 10:00,KZNIN,1210507,Jack Lees,False,True,Left-hand bat; Right-arm offbreak
+1501236,2025-26,2025-10-29 10:00,KZNIN,379139,Kagiso Rapulana,False,True,Right-hand bat; Right-arm medium
+1501236,2025-26,2025-10-29 10:00,KZNIN,1072594,Andile Mokgakane,False,True,Right-hand bat; Right-arm medium
+1501236,2025-26,2025-10-29 10:00,KZNIN,1452090,Chad Laycock,False,True,
+1501236,2025-26,2025-10-29 10:00,KZNIN,333879,Michael Erlank,True,True,Left-hand bat; Right-arm offbreak
+1501236,2025-26,2025-10-29 10:00,KZNIN,265564,Wayne Parnell,False,True,Left-hand bat; Left-arm medium-fast
+1501236,2025-26,2025-10-29 10:00,KZNIN,1414821,Ntando Zuma,False,True,Right-hand bat
+1501236,2025-26,2025-10-29 10:00,KZNIN,375126,Hardus Viljoen,False,True,Right-hand bat; Right-arm fast
+1501236,2025-26,2025-10-29 10:00,KZNIN,595283,Sean Whitehead,False,True,Right-hand bat; Slow left-arm orthodox
+1501236,2025-26,2025-10-29 10:00,KZNIN,501907,Daryn Dupavillon,False,True,Right-hand bat; Right-arm fast
+1501236,2025-26,2025-10-29 10:00,KZNIN,696297,Ziyaad Abrahams,False,True,Right-hand bat; Right-arm fast
+1501236,2025-26,2025-10-29 10:00,TIT,540316,Andile Phehlukwayo,False,True,Left-hand bat; Right-arm medium-fast
+1501236,2025-26,2025-10-29 10:00,TIT,1406542,Steve Stolk,False,True,Right-hand bat
+1501236,2025-26,2025-10-29 10:00,TIT,1451599,Lethabo Phahlamohlaka,False,True,Right-hand bat
+1501236,2025-26,2025-10-29 10:00,TIT,742489,Neil Brand,False,True,Left-hand bat; Slow left-arm orthodox
+1501236,2025-26,2025-10-29 10:00,TIT,594233,Sibonelo Makhanya,False,True,Right-hand bat; Right-arm medium
+1501236,2025-26,2025-10-29 10:00,TIT,1425202,Keagan Lion-Cachet,False,True,Right-hand bat
+1501236,2025-26,2025-10-29 10:00,TIT,550189,Dayyaan Galiem,False,True,Right-hand bat; Right-arm medium-fast
+1501236,2025-26,2025-10-29 10:00,TIT,595954,Duan Jansen,False,True,Right-hand bat; Left-arm fast
+1501236,2025-26,2025-10-29 10:00,TIT,47850,Roelof van der Merwe,True,True,Right-hand bat; Slow left-arm orthodox
+1501236,2025-26,2025-10-29 10:00,TIT,545467,Junior Dala,False,True,Right-hand bat; Right-arm medium
+1501236,2025-26,2025-10-29 10:00,TIT,379145,Tabraiz Shamsi,False,True,Right-hand bat; Left-arm wrist-spin
+1501238,2025-26,2025-10-31 16:00,BOL,1062364,Blayde Capell,False,True,Left-hand bat
+1501238,2025-26,2025-10-31 16:00,BOL,594995,Gavin Kaplan,False,True,Right-hand bat; Right-arm offbreak
+1501238,2025-26,2025-10-31 16:00,BOL,596137,Clyde Fortuin,True,True,Right-hand bat
+1501238,2025-26,2025-10-31 16:00,BOL,314991,Aviwe Mgijima,False,True,Right-hand bat; Right-arm offbreak
+1501238,2025-26,2025-10-31 16:00,BOL,1509540,Gysbert Wege,False,True,Right-hand bat
+1501238,2025-26,2025-10-31 16:00,BOL,948557,Jhedli van Briesies,False,True,Right-hand bat; Right-arm offbreak
+1501238,2025-26,2025-10-31 16:00,BOL,549288,Ferisco Adams,False,True,Right-hand bat; Right-arm fast-medium
+1501238,2025-26,2025-10-31 16:00,BOL,596800,Keith Dudgeon,False,True,Right-hand bat; Right-arm fast-medium
+1501238,2025-26,2025-10-31 16:00,BOL,437506,Imran Manack,False,True,Right-hand bat; Right-arm offbreak
+1501238,2025-26,2025-10-31 16:00,BOL,481803,Glenton Stuurman,False,True,Right-hand bat; Right-arm fast-medium
+1501238,2025-26,2025-10-31 16:00,BOL,596537,Siyabonga Mahima,False,True,Left-hand bat; Slow left-arm orthodox
+1501238,2025-26,2025-10-31 16:00,NWEST,1337357,Meeka-eel Prince,False,True,Right-hand bat
+1501238,2025-26,2025-10-31 16:00,NWEST,1455040,Ludwich Schuld,False,True,
+1501238,2025-26,2025-10-31 16:00,NWEST,605680,Janneman Malan,False,True,Right-hand bat; Legbreak
+1501238,2025-26,2025-10-31 16:00,NWEST,429886,Wihan Lubbe,True,True,Left-hand bat; Right-arm offbreak
+1501238,2025-26,2025-10-31 16:00,NWEST,429903,Lesiba Ngoepe,False,True,Left-hand bat; Slow left-arm orthodox
+1501238,2025-26,2025-10-31 16:00,NWEST,464702,Diego Rosier,False,True,Right-hand bat; Legbreak
+1501238,2025-26,2025-10-31 16:00,NWEST,696471,Dian Forrester,False,True,Left-hand bat; Right-arm fast
+1501238,2025-26,2025-10-31 16:00,NWEST,698321,Ruan de Swardt,False,True,Left-hand bat; Right-arm medium-fast
+1501238,2025-26,2025-10-31 16:00,NWEST,595907,Jade de Klerk,False,True,Right-hand bat; Slow left-arm orthodox
+1501238,2025-26,2025-10-31 16:00,NWEST,946365,Caleb Seleka,False,True,Right-hand bat; Legbreak
+1501238,2025-26,2025-10-31 16:00,NWEST,688143,Alfred Mothoa,False,True,Right-hand bat; Right-arm fast-medium
+1501240,2025-26,2025-11-01 11:30,TIT,540316,Andile Phehlukwayo,False,True,Left-hand bat; Right-arm medium-fast
+1501240,2025-26,2025-11-01 11:30,TIT,1406542,Steve Stolk,False,True,Right-hand bat
+1501240,2025-26,2025-11-01 11:30,TIT,1509598,Josh Jordaan,False,True,Right-hand bat
+1501240,2025-26,2025-11-01 11:30,TIT,1070722,Gerhardus Maree,False,True,Left-hand bat
+1501240,2025-26,2025-11-01 11:30,TIT,594233,Sibonelo Makhanya,False,True,Right-hand bat; Right-arm medium
+1501240,2025-26,2025-11-01 11:30,TIT,696401,Marco Jansen,False,True,Right-hand bat; Left-arm fast
+1501240,2025-26,2025-11-01 11:30,TIT,1425202,Keagan Lion-Cachet,False,True,Right-hand bat
+1501240,2025-26,2025-11-01 11:30,TIT,550189,Dayyaan Galiem,False,True,Right-hand bat; Right-arm medium-fast
+1501240,2025-26,2025-11-01 11:30,TIT,47850,Roelof van der Merwe,True,True,Right-hand bat; Slow left-arm orthodox
+1501240,2025-26,2025-11-01 11:30,TIT,545467,Junior Dala,False,True,Right-hand bat; Right-arm medium
+1501240,2025-26,2025-11-01 11:30,TIT,379145,Tabraiz Shamsi,False,True,Right-hand bat; Left-arm wrist-spin
+1501240,2025-26,2025-11-01 11:30,WAR,696517,Modiri Litheko,False,True,Right-hand bat; Right-arm medium
+1501240,2025-26,2025-11-01 11:30,WAR,946255,Muhammad Manack,False,True,Right-hand bat; Right-arm offbreak
+1501240,2025-26,2025-11-01 11:30,WAR,1088085,Matthew de Villiers,True,True,Right-hand bat; Right-arm medium
+1501240,2025-26,2025-11-01 11:30,WAR,1361874,JP King,False,True,Right-hand bat; Right-arm offbreak
+1501240,2025-26,2025-11-01 11:30,WAR,499560,Patrick Kruger,False,True,Right-hand bat; Right-arm medium
+1501240,2025-26,2025-11-01 11:30,WAR,595786,Jean du Plessis,False,True,Right-hand bat; Right-arm medium
+1501240,2025-26,2025-11-01 11:30,WAR,381006,Thomas Kaber,False,True,Right-hand bat; Left-arm wrist-spin
+1501240,2025-26,2025-11-01 11:30,WAR,1282002,Aphiwe Mnyanda,False,True,Right-hand bat; Left-arm fast
+1501240,2025-26,2025-11-01 11:30,WAR,1070739,Matthew Boast,False,True,Left-hand bat; Right-arm fast
+1501240,2025-26,2025-11-01 11:30,WAR,1412823,Wesley Bedja,False,True,
+1501240,2025-26,2025-11-01 11:30,WAR,594335,Kerwin Mungroo,False,True,Right-hand bat; Right-arm fast
+1501241,2025-26,2025-11-02 10:00,WPR,481975,Edward Moore,False,True,Left-hand bat; Right-arm offbreak
+1501241,2025-26,2025-11-02 10:00,WPR,946351,Valentine Kitime,False,True,Right-hand bat; Right-arm medium
+1501241,2025-26,2025-11-02 10:00,WPR,595004,Kyle Verreynne,True,True,Right-hand bat; Right-arm offbreak
+1501241,2025-26,2025-11-02 10:00,WPR,946453,Daniel Smith,False,True,Left-hand bat; Left-arm medium
+1501241,2025-26,2025-11-02 10:00,WPR,1385642,Oliver Whitehead,False,True,Right-hand bat; Right-arm medium
+1501241,2025-26,2025-11-02 10:00,WPR,1337355,Juan James,False,True,Right-hand bat; Right-arm offbreak
+1501241,2025-26,2025-11-02 10:00,WPR,1337353,Abdullah Bayoumy,False,True,Right-hand bat; Right-arm fast-medium
+1501241,2025-26,2025-11-02 10:00,WPR,1088083,Josh Breed,False,True,Right-hand bat; Legbreak
+1501241,2025-26,2025-11-02 10:00,WPR,379927,Beuran Hendricks,False,True,Left-hand bat; Left-arm fast-medium
+1501241,2025-26,2025-11-02 10:00,WPR,977991,Mthiwekhaya Nabe,False,True,Right-hand bat; Right-arm medium
+1501241,2025-26,2025-11-02 10:00,WPR,1509713,Mbulelo Dube,False,True,
+1501241,2025-26,2025-11-02 10:00,NWEST,1455040,Ludwich Schuld,False,True,
+1501241,2025-26,2025-11-02 10:00,NWEST,1337357,Meeka-eel Prince,False,True,Right-hand bat
+1501241,2025-26,2025-11-02 10:00,NWEST,605680,Janneman Malan,False,True,Right-hand bat; Legbreak
+1501241,2025-26,2025-11-02 10:00,NWEST,464702,Diego Rosier,False,True,Right-hand bat; Legbreak
+1501241,2025-26,2025-11-02 10:00,NWEST,429886,Wihan Lubbe,True,True,Left-hand bat; Right-arm offbreak
+1501241,2025-26,2025-11-02 10:00,NWEST,696471,Dian Forrester,False,True,Left-hand bat; Right-arm fast
+1501241,2025-26,2025-11-02 10:00,NWEST,429903,Lesiba Ngoepe,False,True,Left-hand bat; Slow left-arm orthodox
+1501241,2025-26,2025-11-02 10:00,NWEST,698321,Ruan de Swardt,False,True,Left-hand bat; Right-arm medium-fast
+1501241,2025-26,2025-11-02 10:00,NWEST,595647,Onke Nyaku,False,True,Right-hand bat; Right-arm medium-fast
+1501241,2025-26,2025-11-02 10:00,NWEST,946365,Caleb Seleka,False,True,Right-hand bat; Legbreak
+1501241,2025-26,2025-11-02 10:00,NWEST,688143,Alfred Mothoa,False,True,Right-hand bat; Right-arm fast-medium
+1501242,2025-26,2025-11-02 11:30,LIONS,595910,Wandile Makwetu,False,True,Right-hand bat
+1501242,2025-26,2025-11-02 11:30,LIONS,1337362,Onkgomoditse Seletswane,False,True,Right-hand bat; Right-arm offbreak
+1501242,2025-26,2025-11-02 11:30,LIONS,337790,Rassie van der Dussen,False,True,Right-hand bat; Legbreak
+1501242,2025-26,2025-11-02 11:30,LIONS,698199,Mitchell Van Buuren,True,True,Right-hand bat; Legbreak googly
+1501242,2025-26,2025-11-02 11:30,LIONS,946329,Khaya Fakude,False,True,Right-hand bat; Right-arm medium
+1501242,2025-26,2025-11-02 11:30,LIONS,596442,Delano Potgieter,False,True,Left-hand bat; Right-arm medium
+1501242,2025-26,2025-11-02 11:30,LIONS,605681,Evan Jones,False,True,Right-hand bat; Right-arm medium-fast
+1501242,2025-26,2025-11-02 11:30,LIONS,698319,Beyers Swanepoel,False,True,Left-hand bat; Right-arm fast
+1501242,2025-26,2025-11-02 11:30,LIONS,1509904,Morteza Manack,False,True,Left-hand bat; Right-arm offbreak
+1501242,2025-26,2025-11-02 11:30,LIONS,1176017,Siya Plaatjie,False,True,Right-hand bat; Right-arm medium
+1501242,2025-26,2025-11-02 11:30,LIONS,1509723,Rafeeq Patel,False,True,Right-hand bat; Right-arm medium
+1501242,2025-26,2025-11-02 11:30,BOL,1062364,Blayde Capell,False,True,Left-hand bat
+1501242,2025-26,2025-11-02 11:30,BOL,594995,Gavin Kaplan,False,True,Right-hand bat; Right-arm offbreak
+1501242,2025-26,2025-11-02 11:30,BOL,596137,Clyde Fortuin,True,True,Right-hand bat
+1501242,2025-26,2025-11-02 11:30,BOL,1255246,Lehan Botha,False,True,Right-hand bat; Right-arm medium
+1501242,2025-26,2025-11-02 11:30,BOL,1509540,Gysbert Wege,False,True,Right-hand bat
+1501242,2025-26,2025-11-02 11:30,BOL,948557,Jhedli van Briesies,False,True,Right-hand bat; Right-arm offbreak
+1501242,2025-26,2025-11-02 11:30,BOL,549288,Ferisco Adams,False,True,Right-hand bat; Right-arm fast-medium
+1501242,2025-26,2025-11-02 11:30,BOL,322818,Ayabulela Gqamane,False,True,Right-hand bat; Right-arm fast-medium
+1501242,2025-26,2025-11-02 11:30,BOL,437506,Imran Manack,False,True,Right-hand bat; Right-arm offbreak
+1501242,2025-26,2025-11-02 11:30,BOL,481803,Glenton Stuurman,False,True,Right-hand bat; Right-arm fast-medium
+1501242,2025-26,2025-11-02 11:30,BOL,595882,Akhona Mnyaka,False,True,Right-hand bat; Left-arm fast
+1501244,2025-26,2025-11-06 16:00,BOL,594995,Gavin Kaplan,False,True,Right-hand bat; Right-arm offbreak
+1501244,2025-26,2025-11-06 16:00,BOL,699723,Grant Roelofsen,False,True,Right-hand bat
+1501244,2025-26,2025-11-06 16:00,BOL,596137,Clyde Fortuin,True,True,Right-hand bat
+1501244,2025-26,2025-11-06 16:00,BOL,1255246,Lehan Botha,False,True,Right-hand bat; Right-arm medium
+1501244,2025-26,2025-11-06 16:00,BOL,314991,Aviwe Mgijima,False,True,Right-hand bat; Right-arm offbreak
+1501244,2025-26,2025-11-06 16:00,BOL,549288,Ferisco Adams,False,True,Right-hand bat; Right-arm fast-medium
+1501244,2025-26,2025-11-06 16:00,BOL,948557,Jhedli van Briesies,False,True,Right-hand bat; Right-arm offbreak
+1501244,2025-26,2025-11-06 16:00,BOL,596800,Keith Dudgeon,False,True,Right-hand bat; Right-arm fast-medium
+1501244,2025-26,2025-11-06 16:00,BOL,437506,Imran Manack,False,True,Right-hand bat; Right-arm offbreak
+1501244,2025-26,2025-11-06 16:00,BOL,481803,Glenton Stuurman,False,True,Right-hand bat; Right-arm fast-medium
+1501244,2025-26,2025-11-06 16:00,BOL,596537,Siyabonga Mahima,False,True,Left-hand bat; Slow left-arm orthodox
+1501244,2025-26,2025-11-06 16:00,TIT,540316,Andile Phehlukwayo,False,True,Left-hand bat; Right-arm medium-fast
+1501244,2025-26,2025-11-06 16:00,TIT,1406542,Steve Stolk,False,True,Right-hand bat
+1501244,2025-26,2025-11-06 16:00,TIT,1509598,Josh Jordaan,False,True,Right-hand bat
+1501244,2025-26,2025-11-06 16:00,TIT,1425202,Keagan Lion-Cachet,False,True,Right-hand bat
+1501244,2025-26,2025-11-06 16:00,TIT,594233,Sibonelo Makhanya,False,True,Right-hand bat; Right-arm medium
+1501244,2025-26,2025-11-06 16:00,TIT,550189,Dayyaan Galiem,False,True,Right-hand bat; Right-arm medium-fast
+1501244,2025-26,2025-11-06 16:00,TIT,1070722,Gerhardus Maree,False,True,Left-hand bat
+1501244,2025-26,2025-11-06 16:00,TIT,47850,Roelof van der Merwe,True,True,Right-hand bat; Slow left-arm orthodox
+1501244,2025-26,2025-11-06 16:00,TIT,545467,Junior Dala,False,True,Right-hand bat; Right-arm medium
+1501244,2025-26,2025-11-06 16:00,TIT,1479495,Janco Smit,False,True,Right-hand bat; Right-arm medium
+1501244,2025-26,2025-11-06 16:00,TIT,379145,Tabraiz Shamsi,False,True,Right-hand bat; Left-arm wrist-spin
+1501245,2025-26,2025-11-07 15:00,WAR,696517,Modiri Litheko,False,True,Right-hand bat; Right-arm medium
+1501245,2025-26,2025-11-07 15:00,WAR,946255,Muhammad Manack,False,True,Right-hand bat; Right-arm offbreak
+1501245,2025-26,2025-11-07 15:00,WAR,1088085,Matthew de Villiers,True,True,Right-hand bat; Right-arm medium
+1501245,2025-26,2025-11-07 15:00,WAR,1361874,JP King,False,True,Right-hand bat; Right-arm offbreak
+1501245,2025-26,2025-11-07 15:00,WAR,499560,Patrick Kruger,False,True,Right-hand bat; Right-arm medium
+1501245,2025-26,2025-11-07 15:00,WAR,595786,Jean du Plessis,False,True,Right-hand bat; Right-arm medium
+1501245,2025-26,2025-11-07 15:00,WAR,381006,Thomas Kaber,False,True,Right-hand bat; Left-arm wrist-spin
+1501245,2025-26,2025-11-07 15:00,WAR,1282002,Aphiwe Mnyanda,False,True,Right-hand bat; Left-arm fast
+1501245,2025-26,2025-11-07 15:00,WAR,1070739,Matthew Boast,False,True,Left-hand bat; Right-arm fast
+1501245,2025-26,2025-11-07 15:00,WAR,1412823,Wesley Bedja,False,True,
+1501245,2025-26,2025-11-07 15:00,WAR,594335,Kerwin Mungroo,False,True,Right-hand bat; Right-arm fast
+1501245,2025-26,2025-11-07 15:00,WPR,481975,Edward Moore,False,True,Left-hand bat; Right-arm offbreak
+1501245,2025-26,2025-11-07 15:00,WPR,946351,Valentine Kitime,False,True,Right-hand bat; Right-arm medium
+1501245,2025-26,2025-11-07 15:00,WPR,698311,Joshua van Heerden,False,True,Right-hand bat
+1501245,2025-26,2025-11-07 15:00,WPR,946453,Daniel Smith,True,True,Left-hand bat; Left-arm medium
+1501245,2025-26,2025-11-07 15:00,WPR,1385642,Oliver Whitehead,False,True,Right-hand bat; Right-arm medium
+1501245,2025-26,2025-11-07 15:00,WPR,1337355,Juan James,False,True,Right-hand bat; Right-arm offbreak
+1501245,2025-26,2025-11-07 15:00,WPR,1088083,Josh Breed,False,True,Right-hand bat; Legbreak
+1501245,2025-26,2025-11-07 15:00,WPR,1418278,Raeeq Daniels,False,True,Right-hand bat; Right-arm fast-medium
+1501245,2025-26,2025-11-07 15:00,WPR,1255250,Asakhe Tsaka,False,True,Left-hand bat; Slow left-arm orthodox
+1501245,2025-26,2025-11-07 15:00,WPR,327947,Dane Paterson,False,True,Right-hand bat; Right-arm fast-medium
+1501245,2025-26,2025-11-07 15:00,WPR,977991,Mthiwekhaya Nabe,False,True,Right-hand bat; Right-arm medium
+1501246,2025-26,2025-11-07 16:00,DOL,488998,Tshepang Dithole,False,True,Left-hand bat; Right-arm offbreak
+1501246,2025-26,2025-11-07 16:00,DOL,318842,Khaya Zondo,False,True,Right-hand bat; Right-arm offbreak
+1501246,2025-26,2025-11-07 16:00,DOL,280490,JJ Smuts,True,True,Right-hand bat; Slow left-arm orthodox
+1501246,2025-26,2025-11-07 16:00,DOL,595739,Leus du Plooy,False,True,Left-hand bat; Slow left-arm orthodox
+1501246,2025-26,2025-11-07 16:00,DOL,698343,Eathan Bosch,False,True,Right-hand bat; Right-arm fast
+1501246,2025-26,2025-11-07 16:00,DOL,1509591,Gomolemo Phiri,False,True,
+1501246,2025-26,2025-11-07 16:00,DOL,1070754,Andile Simelane,False,True,Right-hand bat; Right-arm fast
+1501246,2025-26,2025-11-07 16:00,DOL,1414819,Nqobani Mokoena,False,True,Right-hand bat; Right-arm fast-medium
+1501246,2025-26,2025-11-07 16:00,DOL,1385637,Tristan Luus,False,True,Right-hand bat; Right-arm fast-medium
+1501246,2025-26,2025-11-07 16:00,DOL,1385638,Romashan Pillay,False,True,Right-hand bat; Right-arm medium
+1501246,2025-26,2025-11-07 16:00,DOL,481979,Anrich Nortje,False,True,Right-hand bat; Right-arm fast
+1501246,2025-26,2025-11-07 16:00,NWEST,1455040,Ludwich Schuld,False,True,
+1501246,2025-26,2025-11-07 16:00,NWEST,1337357,Meeka-eel Prince,False,True,Right-hand bat
+1501246,2025-26,2025-11-07 16:00,NWEST,429886,Wihan Lubbe,True,True,Left-hand bat; Right-arm offbreak
+1501246,2025-26,2025-11-07 16:00,NWEST,605680,Janneman Malan,False,True,Right-hand bat; Legbreak
+1501246,2025-26,2025-11-07 16:00,NWEST,464702,Diego Rosier,False,True,Right-hand bat; Legbreak
+1501246,2025-26,2025-11-07 16:00,NWEST,429903,Lesiba Ngoepe,False,True,Left-hand bat; Slow left-arm orthodox
+1501246,2025-26,2025-11-07 16:00,NWEST,696471,Dian Forrester,False,True,Left-hand bat; Right-arm fast
+1501246,2025-26,2025-11-07 16:00,NWEST,595647,Onke Nyaku,False,True,Right-hand bat; Right-arm medium-fast
+1501246,2025-26,2025-11-07 16:00,NWEST,946365,Caleb Seleka,False,True,Right-hand bat; Legbreak
+1501246,2025-26,2025-11-07 16:00,NWEST,1070953,Achille Cloete,False,True,Right-hand bat; Right-arm fast
+1501246,2025-26,2025-11-07 16:00,NWEST,688143,Alfred Mothoa,False,True,Right-hand bat; Right-arm fast-medium
+1501247,2025-26,2025-11-08 11:00,LIONS,595910,Wandile Makwetu,False,True,Right-hand bat
+1501247,2025-26,2025-11-08 11:00,LIONS,269280,Reeza Hendricks,False,True,Right-hand bat; Right-arm offbreak
+1501247,2025-26,2025-11-08 11:00,LIONS,337790,Rassie van der Dussen,False,True,Right-hand bat; Legbreak
+1501247,2025-26,2025-11-08 11:00,LIONS,698199,Mitchell Van Buuren,True,True,Right-hand bat; Legbreak googly
+1501247,2025-26,2025-11-08 11:00,LIONS,596442,Delano Potgieter,False,True,Left-hand bat; Right-arm medium
+1501247,2025-26,2025-11-08 11:00,LIONS,605681,Evan Jones,False,True,Right-hand bat; Right-arm medium-fast
+1501247,2025-26,2025-11-08 11:00,LIONS,1337362,Onkgomoditse Seletswane,False,True,Right-hand bat; Right-arm offbreak
+1501247,2025-26,2025-11-08 11:00,LIONS,698319,Beyers Swanepoel,False,True,Left-hand bat; Right-arm fast
+1501247,2025-26,2025-11-08 11:00,LIONS,1509904,Morteza Manack,False,True,Left-hand bat; Right-arm offbreak
+1501247,2025-26,2025-11-08 11:00,LIONS,1176017,Siya Plaatjie,False,True,Right-hand bat; Right-arm medium
+1501247,2025-26,2025-11-08 11:00,LIONS,1509723,Rafeeq Patel,False,True,Right-hand bat; Right-arm medium
+1501247,2025-26,2025-11-08 11:00,KZNIN,379860,Malcolm Nofal,False,True,Left-hand bat; Slow left-arm orthodox
+1501247,2025-26,2025-11-08 11:00,KZNIN,379139,Kagiso Rapulana,False,True,Right-hand bat; Right-arm medium
+1501247,2025-26,2025-11-08 11:00,KZNIN,1072594,Andile Mokgakane,False,True,Right-hand bat; Right-arm medium
+1501247,2025-26,2025-11-08 11:00,KZNIN,596063,Sean Gilson,False,True,Left-hand bat; Legbreak
+1501247,2025-26,2025-11-08 11:00,KZNIN,696351,Cameron Dean Shekleton,False,True,Right-hand bat
+1501247,2025-26,2025-11-08 11:00,KZNIN,333879,Michael Erlank,True,True,Left-hand bat; Right-arm offbreak
+1501247,2025-26,2025-11-08 11:00,KZNIN,265564,Wayne Parnell,False,True,Left-hand bat; Left-arm medium-fast
+1501247,2025-26,2025-11-08 11:00,KZNIN,1414821,Ntando Zuma,False,True,Right-hand bat
+1501247,2025-26,2025-11-08 11:00,KZNIN,501907,Daryn Dupavillon,False,True,Right-hand bat; Right-arm fast
+1501247,2025-26,2025-11-08 11:00,KZNIN,696297,Ziyaad Abrahams,False,True,Right-hand bat; Right-arm fast
+1501247,2025-26,2025-11-08 11:00,KZNIN,595283,Sean Whitehead,False,True,Right-hand bat; Slow left-arm orthodox
+1501249,2025-26,2025-11-09 10:00,DOL,488998,Tshepang Dithole,False,True,Left-hand bat; Right-arm offbreak
+1501249,2025-26,2025-11-09 10:00,DOL,318842,Khaya Zondo,False,True,Right-hand bat; Right-arm offbreak
+1501249,2025-26,2025-11-09 10:00,DOL,280490,JJ Smuts,True,True,Right-hand bat; Slow left-arm orthodox
+1501249,2025-26,2025-11-09 10:00,DOL,595739,Leus du Plooy,False,True,Left-hand bat; Slow left-arm orthodox
+1501249,2025-26,2025-11-09 10:00,DOL,698343,Eathan Bosch,False,True,Right-hand bat; Right-arm fast
+1501249,2025-26,2025-11-09 10:00,DOL,1509591,Gomolemo Phiri,False,True,
+1501249,2025-26,2025-11-09 10:00,DOL,1070754,Andile Simelane,False,True,Right-hand bat; Right-arm fast
+1501249,2025-26,2025-11-09 10:00,DOL,1385638,Romashan Pillay,False,True,Right-hand bat; Right-arm medium
+1501249,2025-26,2025-11-09 10:00,DOL,1507202,Aryan Gopalan,False,True,
+1501249,2025-26,2025-11-09 10:00,DOL,1385637,Tristan Luus,False,True,Right-hand bat; Right-arm fast-medium
+1501249,2025-26,2025-11-09 10:00,DOL,481979,Anrich Nortje,False,True,Right-hand bat; Right-arm fast
+1501249,2025-26,2025-11-09 10:00,WAR,696517,Modiri Litheko,False,True,Right-hand bat; Right-arm medium
+1501249,2025-26,2025-11-09 10:00,WAR,946255,Muhammad Manack,False,True,Right-hand bat; Right-arm offbreak
+1501249,2025-26,2025-11-09 10:00,WAR,1088085,Matthew de Villiers,True,True,Right-hand bat; Right-arm medium
+1501249,2025-26,2025-11-09 10:00,WAR,1070739,Matthew Boast,False,True,Left-hand bat; Right-arm fast
+1501249,2025-26,2025-11-09 10:00,WAR,595786,Jean du Plessis,False,True,Right-hand bat; Right-arm medium
+1501249,2025-26,2025-11-09 10:00,WAR,1361874,JP King,False,True,Right-hand bat; Right-arm offbreak
+1501249,2025-26,2025-11-09 10:00,WAR,499560,Patrick Kruger,False,True,Right-hand bat; Right-arm medium
+1501249,2025-26,2025-11-09 10:00,WAR,381006,Thomas Kaber,False,True,Right-hand bat; Left-arm wrist-spin
+1501249,2025-26,2025-11-09 10:00,WAR,1282002,Aphiwe Mnyanda,False,True,Right-hand bat; Left-arm fast
+1501249,2025-26,2025-11-09 10:00,WAR,1412823,Wesley Bedja,False,True,
+1501249,2025-26,2025-11-09 10:00,WAR,594335,Kerwin Mungroo,False,True,Right-hand bat; Right-arm fast
+1501248,2025-26,2025-11-09 11:30,WPR,481975,Edward Moore,False,True,Left-hand bat; Right-arm offbreak
+1501248,2025-26,2025-11-09 11:30,WPR,946351,Valentine Kitime,False,True,Right-hand bat; Right-arm medium
+1501248,2025-26,2025-11-09 11:30,WPR,698311,Joshua van Heerden,False,True,Right-hand bat
+1501248,2025-26,2025-11-09 11:30,WPR,1385642,Oliver Whitehead,False,True,Right-hand bat; Right-arm medium
+1501248,2025-26,2025-11-09 11:30,WPR,946453,Daniel Smith,True,True,Left-hand bat; Left-arm medium
+1501248,2025-26,2025-11-09 11:30,WPR,698333,Jiveshan Pillay,False,True,Left-hand bat
+1501248,2025-26,2025-11-09 11:30,WPR,1088083,Josh Breed,False,True,Right-hand bat; Legbreak
+1501248,2025-26,2025-11-09 11:30,WPR,1418278,Raeeq Daniels,False,True,Right-hand bat; Right-arm fast-medium
+1501248,2025-26,2025-11-09 11:30,WPR,327947,Dane Paterson,False,True,Right-hand bat; Right-arm fast-medium
+1501248,2025-26,2025-11-09 11:30,WPR,977991,Mthiwekhaya Nabe,False,True,Right-hand bat; Right-arm medium
+1501248,2025-26,2025-11-09 11:30,WPR,1255250,Asakhe Tsaka,False,True,Left-hand bat; Slow left-arm orthodox
+1501248,2025-26,2025-11-09 11:30,TIT,540316,Andile Phehlukwayo,False,True,Left-hand bat; Right-arm medium-fast
+1501248,2025-26,2025-11-09 11:30,TIT,1406542,Steve Stolk,False,True,Right-hand bat
+1501248,2025-26,2025-11-09 11:30,TIT,550189,Dayyaan Galiem,False,True,Right-hand bat; Right-arm medium-fast
+1501248,2025-26,2025-11-09 11:30,TIT,742489,Neil Brand,False,True,Left-hand bat; Slow left-arm orthodox
+1501248,2025-26,2025-11-09 11:30,TIT,1509598,Josh Jordaan,False,True,Right-hand bat
+1501248,2025-26,2025-11-09 11:30,TIT,1425202,Keagan Lion-Cachet,False,True,Right-hand bat
+1501248,2025-26,2025-11-09 11:30,TIT,1451599,Lethabo Phahlamohlaka,False,True,Right-hand bat
+1501248,2025-26,2025-11-09 11:30,TIT,595954,Duan Jansen,False,True,Right-hand bat; Left-arm fast
+1501248,2025-26,2025-11-09 11:30,TIT,47850,Roelof van der Merwe,True,True,Right-hand bat; Slow left-arm orthodox
+1501248,2025-26,2025-11-09 11:30,TIT,545467,Junior Dala,False,True,Right-hand bat; Right-arm medium
+1501248,2025-26,2025-11-09 11:30,TIT,379145,Tabraiz Shamsi,False,True,Right-hand bat; Left-arm wrist-spin
+1501251,2025-26,2025-11-11 15:00,NWEST,1455040,Ludwich Schuld,False,True,
+1501251,2025-26,2025-11-11 15:00,NWEST,605680,Janneman Malan,False,True,Right-hand bat; Legbreak
+1501251,2025-26,2025-11-11 15:00,NWEST,429886,Wihan Lubbe,True,True,Left-hand bat; Right-arm offbreak
+1501251,2025-26,2025-11-11 15:00,NWEST,429903,Lesiba Ngoepe,False,True,Left-hand bat; Slow left-arm orthodox
+1501251,2025-26,2025-11-11 15:00,NWEST,1337357,Meeka-eel Prince,False,True,Right-hand bat
+1501251,2025-26,2025-11-11 15:00,NWEST,698321,Ruan de Swardt,False,True,Left-hand bat; Right-arm medium-fast
+1501251,2025-26,2025-11-11 15:00,NWEST,464702,Diego Rosier,False,True,Right-hand bat; Legbreak
+1501251,2025-26,2025-11-11 15:00,NWEST,595647,Onke Nyaku,False,True,Right-hand bat; Right-arm medium-fast
+1501251,2025-26,2025-11-11 15:00,NWEST,595907,Jade de Klerk,False,True,Right-hand bat; Slow left-arm orthodox
+1501251,2025-26,2025-11-11 15:00,NWEST,946365,Caleb Seleka,False,True,Right-hand bat; Legbreak
+1501251,2025-26,2025-11-11 15:00,NWEST,688143,Alfred Mothoa,False,True,Right-hand bat; Right-arm fast-medium
+1501251,2025-26,2025-11-11 15:00,KZNIN,379139,Kagiso Rapulana,False,True,Right-hand bat; Right-arm medium
+1501251,2025-26,2025-11-11 15:00,KZNIN,1414821,Ntando Zuma,False,True,Right-hand bat
+1501251,2025-26,2025-11-11 15:00,KZNIN,333879,Michael Erlank,True,True,Left-hand bat; Right-arm offbreak
+1501251,2025-26,2025-11-11 15:00,KZNIN,596063,Sean Gilson,False,True,Left-hand bat; Legbreak
+1501251,2025-26,2025-11-11 15:00,KZNIN,265564,Wayne Parnell,False,True,Left-hand bat; Left-arm medium-fast
+1501251,2025-26,2025-11-11 15:00,KZNIN,696351,Cameron Dean Shekleton,False,True,Right-hand bat
+1501251,2025-26,2025-11-11 15:00,KZNIN,375126,Hardus Viljoen,False,True,Right-hand bat; Right-arm fast
+1501251,2025-26,2025-11-11 15:00,KZNIN,1072594,Andile Mokgakane,False,True,Right-hand bat; Right-arm medium
+1501251,2025-26,2025-11-11 15:00,KZNIN,595283,Sean Whitehead,False,True,Right-hand bat; Slow left-arm orthodox
+1501251,2025-26,2025-11-11 15:00,KZNIN,501907,Daryn Dupavillon,False,True,Right-hand bat; Right-arm fast
+1501251,2025-26,2025-11-11 15:00,KZNIN,696297,Ziyaad Abrahams,False,True,Right-hand bat; Right-arm fast
+1501250,2025-26,2025-11-11 16:00,WAR,946255,Muhammad Manack,False,True,Right-hand bat; Right-arm offbreak
+1501250,2025-26,2025-11-11 16:00,WAR,696517,Modiri Litheko,False,True,Right-hand bat; Right-arm medium
+1501250,2025-26,2025-11-11 16:00,WAR,1088085,Matthew de Villiers,True,True,Right-hand bat; Right-arm medium
+1501250,2025-26,2025-11-11 16:00,WAR,1361874,JP King,False,True,Right-hand bat; Right-arm offbreak
+1501250,2025-26,2025-11-11 16:00,WAR,595786,Jean du Plessis,False,True,Right-hand bat; Right-arm medium
+1501250,2025-26,2025-11-11 16:00,WAR,499560,Patrick Kruger,False,True,Right-hand bat; Right-arm medium
+1501250,2025-26,2025-11-11 16:00,WAR,381006,Thomas Kaber,False,True,Right-hand bat; Left-arm wrist-spin
+1501250,2025-26,2025-11-11 16:00,WAR,1427726,Christopher King,False,True,Right-hand bat; Right-arm medium-fast
+1501250,2025-26,2025-11-11 16:00,WAR,1282002,Aphiwe Mnyanda,False,True,Right-hand bat; Left-arm fast
+1501250,2025-26,2025-11-11 16:00,WAR,1412823,Wesley Bedja,False,True,
+1501250,2025-26,2025-11-11 16:00,WAR,594335,Kerwin Mungroo,False,True,Right-hand bat; Right-arm fast
+1501250,2025-26,2025-11-11 16:00,LIONS,1510750,Neil Timmers,False,True,Left-hand bat
+1501250,2025-26,2025-11-11 16:00,LIONS,595910,Wandile Makwetu,False,True,Right-hand bat
+1501250,2025-26,2025-11-11 16:00,LIONS,269280,Reeza Hendricks,False,True,Right-hand bat; Right-arm offbreak
+1501250,2025-26,2025-11-11 16:00,LIONS,337790,Rassie van der Dussen,False,True,Right-hand bat; Legbreak
+1501250,2025-26,2025-11-11 16:00,LIONS,698199,Mitchell Van Buuren,True,True,Right-hand bat; Legbreak googly
+1501250,2025-26,2025-11-11 16:00,LIONS,1337362,Onkgomoditse Seletswane,False,True,Right-hand bat; Right-arm offbreak
+1501250,2025-26,2025-11-11 16:00,LIONS,698319,Beyers Swanepoel,False,True,Left-hand bat; Right-arm fast
+1501250,2025-26,2025-11-11 16:00,LIONS,1510751,Wilco de Bruin,False,True,Right-hand bat; Right-arm medium
+1501250,2025-26,2025-11-11 16:00,LIONS,1509904,Morteza Manack,False,True,Left-hand bat; Right-arm offbreak
+1501250,2025-26,2025-11-11 16:00,LIONS,1176017,Siya Plaatjie,False,True,Right-hand bat; Right-arm medium
+1501250,2025-26,2025-11-11 16:00,LIONS,1509723,Rafeeq Patel,False,True,Right-hand bat; Right-arm medium
+1501252,2025-26,2025-11-13 11:00,KZNIN,1072594,Andile Mokgakane,False,True,Right-hand bat; Right-arm medium
+1501252,2025-26,2025-11-13 11:00,KZNIN,1414821,Ntando Zuma,False,True,Right-hand bat
+1501252,2025-26,2025-11-13 11:00,KZNIN,333879,Michael Erlank,True,True,Left-hand bat; Right-arm offbreak
+1501252,2025-26,2025-11-13 11:00,KZNIN,596063,Sean Gilson,False,True,Left-hand bat; Legbreak
+1501252,2025-26,2025-11-13 11:00,KZNIN,696351,Cameron Dean Shekleton,False,True,Right-hand bat
+1501252,2025-26,2025-11-13 11:00,KZNIN,265564,Wayne Parnell,False,True,Left-hand bat; Left-arm medium-fast
+1501252,2025-26,2025-11-13 11:00,KZNIN,427964,Marcello Piedt,False,True,Right-hand bat; Right-arm medium-fast
+1501252,2025-26,2025-11-13 11:00,KZNIN,595283,Sean Whitehead,False,True,Right-hand bat; Slow left-arm orthodox
+1501252,2025-26,2025-11-13 11:00,KZNIN,375126,Hardus Viljoen,False,True,Right-hand bat; Right-arm fast
+1501252,2025-26,2025-11-13 11:00,KZNIN,501907,Daryn Dupavillon,False,True,Right-hand bat; Right-arm fast
+1501252,2025-26,2025-11-13 11:00,KZNIN,1452091,Thabiso Ndlela,False,True,
+1501252,2025-26,2025-11-13 11:00,WPR,481975,Edward Moore,False,True,Left-hand bat; Right-arm offbreak
+1501252,2025-26,2025-11-13 11:00,WPR,946351,Valentine Kitime,False,True,Right-hand bat; Right-arm medium
+1501252,2025-26,2025-11-13 11:00,WPR,698311,Joshua van Heerden,False,True,Right-hand bat
+1501252,2025-26,2025-11-13 11:00,WPR,946453,Daniel Smith,True,True,Left-hand bat; Left-arm medium
+1501252,2025-26,2025-11-13 11:00,WPR,481875,George Linde,False,True,Left-hand bat; Slow left-arm orthodox
+1501252,2025-26,2025-11-13 11:00,WPR,1337353,Abdullah Bayoumy,False,True,Right-hand bat; Right-arm fast-medium
+1501252,2025-26,2025-11-13 11:00,WPR,1088083,Josh Breed,False,True,Right-hand bat; Legbreak
+1501252,2025-26,2025-11-13 11:00,WPR,1418278,Raeeq Daniels,False,True,Right-hand bat; Right-arm fast-medium
+1501252,2025-26,2025-11-13 11:00,WPR,1290969,Liyema Waqu,False,True,
+1501252,2025-26,2025-11-13 11:00,WPR,1509713,Mbulelo Dube,False,True,
+1501252,2025-26,2025-11-13 11:00,WPR,977991,Mthiwekhaya Nabe,False,True,Right-hand bat; Right-arm medium
+1501253,2025-26,2025-11-14 15:00,BOL,594995,Gavin Kaplan,False,True,Right-hand bat; Right-arm offbreak
+1501253,2025-26,2025-11-14 15:00,BOL,699723,Grant Roelofsen,False,True,Right-hand bat
+1501253,2025-26,2025-11-14 15:00,BOL,596137,Clyde Fortuin,True,True,Right-hand bat
+1501253,2025-26,2025-11-14 15:00,BOL,1255246,Lehan Botha,False,True,Right-hand bat; Right-arm medium
+1501253,2025-26,2025-11-14 15:00,BOL,314991,Aviwe Mgijima,False,True,Right-hand bat; Right-arm offbreak
+1501253,2025-26,2025-11-14 15:00,BOL,948557,Jhedli van Briesies,False,True,Right-hand bat; Right-arm offbreak
+1501253,2025-26,2025-11-14 15:00,BOL,549288,Ferisco Adams,False,True,Right-hand bat; Right-arm fast-medium
+1501253,2025-26,2025-11-14 15:00,BOL,596800,Keith Dudgeon,False,True,Right-hand bat; Right-arm fast-medium
+1501253,2025-26,2025-11-14 15:00,BOL,437506,Imran Manack,False,True,Right-hand bat; Right-arm offbreak
+1501253,2025-26,2025-11-14 15:00,BOL,481803,Glenton Stuurman,False,True,Right-hand bat; Right-arm fast-medium
+1501253,2025-26,2025-11-14 15:00,BOL,596537,Siyabonga Mahima,False,True,Left-hand bat; Slow left-arm orthodox
+1501253,2025-26,2025-11-14 15:00,DOL,488998,Tshepang Dithole,False,True,Left-hand bat; Right-arm offbreak
+1501253,2025-26,2025-11-14 15:00,DOL,280490,JJ Smuts,True,True,Right-hand bat; Slow left-arm orthodox
+1501253,2025-26,2025-11-14 15:00,DOL,1071000,Bryce Parsons,False,True,Left-hand bat; Slow left-arm orthodox
+1501253,2025-26,2025-11-14 15:00,DOL,595739,Leus du Plooy,False,True,Left-hand bat; Slow left-arm orthodox
+1501253,2025-26,2025-11-14 15:00,DOL,698343,Eathan Bosch,False,True,Right-hand bat; Right-arm fast
+1501253,2025-26,2025-11-14 15:00,DOL,1509591,Gomolemo Phiri,False,True,
+1501253,2025-26,2025-11-14 15:00,DOL,1469372,Semal Pillay,False,True,Left-hand bat
+1501253,2025-26,2025-11-14 15:00,DOL,1070754,Andile Simelane,False,True,Right-hand bat; Right-arm fast
+1501253,2025-26,2025-11-14 15:00,DOL,1414819,Nqobani Mokoena,False,True,Right-hand bat; Right-arm fast-medium
+1501253,2025-26,2025-11-14 15:00,DOL,1507202,Aryan Gopalan,False,True,
+1501253,2025-26,2025-11-14 15:00,DOL,481979,Anrich Nortje,False,True,Right-hand bat; Right-arm fast
+1501254,2025-26,2025-11-14 16:00,NWEST,1455040,Ludwich Schuld,False,True,
+1501254,2025-26,2025-11-14 16:00,NWEST,605680,Janneman Malan,False,True,Right-hand bat; Legbreak
+1501254,2025-26,2025-11-14 16:00,NWEST,1337357,Meeka-eel Prince,False,True,Right-hand bat
+1501254,2025-26,2025-11-14 16:00,NWEST,464702,Diego Rosier,False,True,Right-hand bat; Legbreak
+1501254,2025-26,2025-11-14 16:00,NWEST,429886,Wihan Lubbe,True,True,Left-hand bat; Right-arm offbreak
+1501254,2025-26,2025-11-14 16:00,NWEST,429903,Lesiba Ngoepe,False,True,Left-hand bat; Slow left-arm orthodox
+1501254,2025-26,2025-11-14 16:00,NWEST,698321,Ruan de Swardt,False,True,Left-hand bat; Right-arm medium-fast
+1501254,2025-26,2025-11-14 16:00,NWEST,595647,Onke Nyaku,False,True,Right-hand bat; Right-arm medium-fast
+1501254,2025-26,2025-11-14 16:00,NWEST,595907,Jade de Klerk,False,True,Right-hand bat; Slow left-arm orthodox
+1501254,2025-26,2025-11-14 16:00,NWEST,946365,Caleb Seleka,False,True,Right-hand bat; Legbreak
+1501254,2025-26,2025-11-14 16:00,NWEST,688143,Alfred Mothoa,False,True,Right-hand bat; Right-arm fast-medium
+1501254,2025-26,2025-11-14 16:00,TIT,540316,Andile Phehlukwayo,False,True,Left-hand bat; Right-arm medium-fast
+1501254,2025-26,2025-11-14 16:00,TIT,485676,Keegan Petersen,False,True,Right-hand bat; Legbreak
+1501254,2025-26,2025-11-14 16:00,TIT,550189,Dayyaan Galiem,False,True,Right-hand bat; Right-arm medium-fast
+1501254,2025-26,2025-11-14 16:00,TIT,436757,Heinrich Klaasen,False,True,Right-hand bat; Right-arm offbreak
+1501254,2025-26,2025-11-14 16:00,TIT,698315,Donovan Ferreira,False,True,Right-hand bat; Right-arm offbreak
+1501254,2025-26,2025-11-14 16:00,TIT,594233,Sibonelo Makhanya,False,True,Right-hand bat; Right-arm medium
+1501254,2025-26,2025-11-14 16:00,TIT,1425202,Keagan Lion-Cachet,False,True,Right-hand bat
+1501254,2025-26,2025-11-14 16:00,TIT,595954,Duan Jansen,False,True,Right-hand bat; Left-arm fast
+1501254,2025-26,2025-11-14 16:00,TIT,47850,Roelof van der Merwe,True,True,Right-hand bat; Slow left-arm orthodox
+1501254,2025-26,2025-11-14 16:00,TIT,379887,Lizaad Williams,False,True,Left-hand bat; Right-arm medium-fast
+1501254,2025-26,2025-11-14 16:00,TIT,542023,Lungi Ngidi,False,True,Right-hand bat; Right-arm fast-medium
+1501255,2025-26,2025-11-15 11:00,KZNIN,1452090,Chad Laycock,False,True,
+1501255,2025-26,2025-11-15 11:00,KZNIN,1072594,Andile Mokgakane,False,True,Right-hand bat; Right-arm medium
+1501255,2025-26,2025-11-15 11:00,KZNIN,596063,Sean Gilson,False,True,Left-hand bat; Legbreak
+1501255,2025-26,2025-11-15 11:00,KZNIN,333879,Michael Erlank,True,True,Left-hand bat; Right-arm offbreak
+1501255,2025-26,2025-11-15 11:00,KZNIN,1414821,Ntando Zuma,False,True,Right-hand bat
+1501255,2025-26,2025-11-15 11:00,KZNIN,265564,Wayne Parnell,False,True,Left-hand bat; Left-arm medium-fast
+1501255,2025-26,2025-11-15 11:00,KZNIN,427964,Marcello Piedt,False,True,Right-hand bat; Right-arm medium-fast
+1501255,2025-26,2025-11-15 11:00,KZNIN,595283,Sean Whitehead,False,True,Right-hand bat; Slow left-arm orthodox
+1501255,2025-26,2025-11-15 11:00,KZNIN,595036,Bamanye Xenxe,False,True,Right-hand bat; Right-arm fast
+1501255,2025-26,2025-11-15 11:00,KZNIN,375126,Hardus Viljoen,False,True,Right-hand bat; Right-arm fast
+1501255,2025-26,2025-11-15 11:00,KZNIN,696351,Cameron Dean Shekleton,False,True,Right-hand bat
+1501255,2025-26,2025-11-15 11:00,WAR,946255,Muhammad Manack,False,True,Right-hand bat; Right-arm offbreak
+1501255,2025-26,2025-11-15 11:00,WAR,696517,Modiri Litheko,False,True,Right-hand bat; Right-arm medium
+1501255,2025-26,2025-11-15 11:00,WAR,1088085,Matthew de Villiers,True,True,Right-hand bat; Right-arm medium
+1501255,2025-26,2025-11-15 11:00,WAR,595267,Matthew Breetzke,False,True,Right-hand bat
+1501255,2025-26,2025-11-15 11:00,WAR,1361874,JP King,False,True,Right-hand bat; Right-arm offbreak
+1501255,2025-26,2025-11-15 11:00,WAR,499560,Patrick Kruger,False,True,Right-hand bat; Right-arm medium
+1501255,2025-26,2025-11-15 11:00,WAR,1427726,Christopher King,False,True,Right-hand bat; Right-arm medium-fast
+1501255,2025-26,2025-11-15 11:00,WAR,381006,Thomas Kaber,False,True,Right-hand bat; Left-arm wrist-spin
+1501255,2025-26,2025-11-15 11:00,WAR,1282002,Aphiwe Mnyanda,False,True,Right-hand bat; Left-arm fast
+1501255,2025-26,2025-11-15 11:00,WAR,1412823,Wesley Bedja,False,True,
+1501255,2025-26,2025-11-15 11:00,WAR,594335,Kerwin Mungroo,False,True,Right-hand bat; Right-arm fast
+1501259,2025-26,2025-11-19 11:00,LIONS,337790,Rassie van der Dussen,False,True,Right-hand bat; Legbreak
+1501259,2025-26,2025-11-19 11:00,LIONS,269280,Reeza Hendricks,False,True,Right-hand bat; Right-arm offbreak
+1501259,2025-26,2025-11-19 11:00,LIONS,1337362,Onkgomoditse Seletswane,False,True,Right-hand bat; Right-arm offbreak
+1501259,2025-26,2025-11-19 11:00,LIONS,698319,Beyers Swanepoel,False,True,Left-hand bat; Right-arm fast
+1501259,2025-26,2025-11-19 11:00,LIONS,1070997,Connor Esterhuizen,False,True,Right-hand bat
+1501259,2025-26,2025-11-19 11:00,LIONS,698199,Mitchell Van Buuren,True,True,Right-hand bat; Legbreak googly
+1501259,2025-26,2025-11-19 11:00,LIONS,605681,Evan Jones,False,True,Right-hand bat; Right-arm medium-fast
+1501259,2025-26,2025-11-19 11:00,LIONS,595910,Wandile Makwetu,False,True,Right-hand bat
+1501259,2025-26,2025-11-19 11:00,LIONS,1509904,Morteza Manack,False,True,Left-hand bat; Right-arm offbreak
+1501259,2025-26,2025-11-19 11:00,LIONS,1176017,Siya Plaatjie,False,True,Right-hand bat; Right-arm medium
+1501259,2025-26,2025-11-19 11:00,LIONS,1509723,Rafeeq Patel,False,True,Right-hand bat; Right-arm medium
+1501259,2025-26,2025-11-19 11:00,NWEST,1455040,Ludwich Schuld,False,True,
+1501259,2025-26,2025-11-19 11:00,NWEST,595380,Raynard van Tonder,False,True,Right-hand bat
+1501259,2025-26,2025-11-19 11:00,NWEST,605680,Janneman Malan,False,True,Right-hand bat; Legbreak
+1501259,2025-26,2025-11-19 11:00,NWEST,429886,Wihan Lubbe,True,True,Left-hand bat; Right-arm offbreak
+1501259,2025-26,2025-11-19 11:00,NWEST,464702,Diego Rosier,False,True,Right-hand bat; Legbreak
+1501259,2025-26,2025-11-19 11:00,NWEST,429903,Lesiba Ngoepe,False,True,Left-hand bat; Slow left-arm orthodox
+1501259,2025-26,2025-11-19 11:00,NWEST,698321,Ruan de Swardt,False,True,Left-hand bat; Right-arm medium-fast
+1501259,2025-26,2025-11-19 11:00,NWEST,595647,Onke Nyaku,False,True,Right-hand bat; Right-arm medium-fast
+1501259,2025-26,2025-11-19 11:00,NWEST,595907,Jade de Klerk,False,True,Right-hand bat; Slow left-arm orthodox
+1501259,2025-26,2025-11-19 11:00,NWEST,946365,Caleb Seleka,False,True,Right-hand bat; Legbreak
+1501259,2025-26,2025-11-19 11:00,NWEST,688143,Alfred Mothoa,False,True,Right-hand bat; Right-arm fast-medium
+1501258,2025-26,2025-11-19 16:00,WAR,946255,Muhammad Manack,False,True,Right-hand bat; Right-arm offbreak
+1501258,2025-26,2025-11-19 16:00,WAR,696517,Modiri Litheko,False,True,Right-hand bat; Right-arm medium
+1501258,2025-26,2025-11-19 16:00,WAR,1088085,Matthew de Villiers,True,True,Right-hand bat; Right-arm medium
+1501258,2025-26,2025-11-19 16:00,WAR,595267,Matthew Breetzke,False,True,Right-hand bat
+1501258,2025-26,2025-11-19 16:00,WAR,1361874,JP King,False,True,Right-hand bat; Right-arm offbreak
+1501258,2025-26,2025-11-19 16:00,WAR,499560,Patrick Kruger,False,True,Right-hand bat; Right-arm medium
+1501258,2025-26,2025-11-19 16:00,WAR,1427726,Christopher King,False,True,Right-hand bat; Right-arm medium-fast
+1501258,2025-26,2025-11-19 16:00,WAR,381006,Thomas Kaber,False,True,Right-hand bat; Left-arm wrist-spin
+1501258,2025-26,2025-11-19 16:00,WAR,1282002,Aphiwe Mnyanda,False,True,Right-hand bat; Left-arm fast
+1501258,2025-26,2025-11-19 16:00,WAR,1412823,Wesley Bedja,False,True,
+1501258,2025-26,2025-11-19 16:00,WAR,594335,Kerwin Mungroo,False,True,Right-hand bat; Right-arm fast
+1501258,2025-26,2025-11-19 16:00,BOL,594995,Gavin Kaplan,False,True,Right-hand bat; Right-arm offbreak
+1501258,2025-26,2025-11-19 16:00,BOL,699723,Grant Roelofsen,False,True,Right-hand bat
+1501258,2025-26,2025-11-19 16:00,BOL,596137,Clyde Fortuin,True,True,Right-hand bat
+1501258,2025-26,2025-11-19 16:00,BOL,1255246,Lehan Botha,False,True,Right-hand bat; Right-arm medium
+1501258,2025-26,2025-11-19 16:00,BOL,314991,Aviwe Mgijima,False,True,Right-hand bat; Right-arm offbreak
+1501258,2025-26,2025-11-19 16:00,BOL,948557,Jhedli van Briesies,False,True,Right-hand bat; Right-arm offbreak
+1501258,2025-26,2025-11-19 16:00,BOL,549288,Ferisco Adams,False,True,Right-hand bat; Right-arm fast-medium
+1501258,2025-26,2025-11-19 16:00,BOL,596800,Keith Dudgeon,False,True,Right-hand bat; Right-arm fast-medium
+1501258,2025-26,2025-11-19 16:00,BOL,437506,Imran Manack,False,True,Right-hand bat; Right-arm offbreak
+1501258,2025-26,2025-11-19 16:00,BOL,481803,Glenton Stuurman,False,True,Right-hand bat; Right-arm fast-medium
+1501258,2025-26,2025-11-19 16:00,BOL,595882,Akhona Mnyaka,False,True,Right-hand bat; Left-arm fast
+1501260,2025-26,2025-11-21 10:00,WPR,946351,Valentine Kitime,False,True,Right-hand bat; Right-arm medium
+1501260,2025-26,2025-11-21 10:00,WPR,481975,Edward Moore,False,True,Left-hand bat; Right-arm offbreak
+1501260,2025-26,2025-11-21 10:00,WPR,698311,Joshua van Heerden,False,True,Right-hand bat
+1501260,2025-26,2025-11-21 10:00,WPR,698333,Jiveshan Pillay,False,True,Left-hand bat
+1501260,2025-26,2025-11-21 10:00,WPR,946453,Daniel Smith,True,True,Left-hand bat; Left-arm medium
+1501260,2025-26,2025-11-21 10:00,WPR,481875,George Linde,False,True,Left-hand bat; Slow left-arm orthodox
+1501260,2025-26,2025-11-21 10:00,WPR,1337353,Abdullah Bayoumy,False,True,Right-hand bat; Right-arm fast-medium
+1501260,2025-26,2025-11-21 10:00,WPR,1088083,Josh Breed,False,True,Right-hand bat; Legbreak
+1501260,2025-26,2025-11-21 10:00,WPR,1509713,Mbulelo Dube,False,True,
+1501260,2025-26,2025-11-21 10:00,WPR,977991,Mthiwekhaya Nabe,False,True,Right-hand bat; Right-arm medium
+1501260,2025-26,2025-11-21 10:00,WPR,1418278,Raeeq Daniels,False,True,Right-hand bat; Right-arm fast-medium
+1501260,2025-26,2025-11-21 10:00,LIONS,337790,Rassie van der Dussen,False,True,Right-hand bat; Legbreak
+1501260,2025-26,2025-11-21 10:00,LIONS,269280,Reeza Hendricks,False,True,Right-hand bat; Right-arm offbreak
+1501260,2025-26,2025-11-21 10:00,LIONS,1070997,Connor Esterhuizen,False,True,Right-hand bat
+1501260,2025-26,2025-11-21 10:00,LIONS,605681,Evan Jones,False,True,Right-hand bat; Right-arm medium-fast
+1501260,2025-26,2025-11-21 10:00,LIONS,1337362,Onkgomoditse Seletswane,False,True,Right-hand bat; Right-arm offbreak
+1501260,2025-26,2025-11-21 10:00,LIONS,698199,Mitchell Van Buuren,True,True,Right-hand bat; Legbreak googly
+1501260,2025-26,2025-11-21 10:00,LIONS,595910,Wandile Makwetu,False,True,Right-hand bat
+1501260,2025-26,2025-11-21 10:00,LIONS,698319,Beyers Swanepoel,False,True,Left-hand bat; Right-arm fast
+1501260,2025-26,2025-11-21 10:00,LIONS,1512183,Zakwan Patel,False,True,Right-hand bat; Legbreak googly
+1501260,2025-26,2025-11-21 10:00,LIONS,1176017,Siya Plaatjie,False,True,Right-hand bat; Right-arm medium
+1501260,2025-26,2025-11-21 10:00,LIONS,1509723,Rafeeq Patel,False,True,Right-hand bat; Right-arm medium
+1501261,2025-26,2025-11-21 11:30,TIT,1385640,Lhuan-dre Pretorius,False,True,Left-hand bat
+1501261,2025-26,2025-11-21 11:30,TIT,596489,Rivaldo Moonsamy,False,True,Right-hand bat; Right-arm offbreak
+1501261,2025-26,2025-11-21 11:30,TIT,436757,Heinrich Klaasen,False,True,Right-hand bat; Right-arm offbreak
+1501261,2025-26,2025-11-21 11:30,TIT,698315,Donovan Ferreira,False,True,Right-hand bat; Right-arm offbreak
+1501261,2025-26,2025-11-21 11:30,TIT,550189,Dayyaan Galiem,False,True,Right-hand bat; Right-arm medium-fast
+1501261,2025-26,2025-11-21 11:30,TIT,594233,Sibonelo Makhanya,False,True,Right-hand bat; Right-arm medium
+1501261,2025-26,2025-11-21 11:30,TIT,1451599,Lethabo Phahlamohlaka,False,True,Right-hand bat
+1501261,2025-26,2025-11-21 11:30,TIT,595954,Duan Jansen,False,True,Right-hand bat; Left-arm fast
+1501261,2025-26,2025-11-21 11:30,TIT,47850,Roelof van der Merwe,True,True,Right-hand bat; Slow left-arm orthodox
+1501261,2025-26,2025-11-21 11:30,TIT,545467,Junior Dala,False,True,Right-hand bat; Right-arm medium
+1501261,2025-26,2025-11-21 11:30,TIT,379887,Lizaad Williams,False,True,Left-hand bat; Right-arm medium-fast
+1501261,2025-26,2025-11-21 11:30,DOL,1071000,Bryce Parsons,False,True,Left-hand bat; Slow left-arm orthodox
+1501261,2025-26,2025-11-21 11:30,DOL,318842,Khaya Zondo,False,True,Right-hand bat; Right-arm offbreak
+1501261,2025-26,2025-11-21 11:30,DOL,498582,Jason Smith,False,True,Right-hand bat; Right-arm medium-fast
+1501261,2025-26,2025-11-21 11:30,DOL,280490,JJ Smuts,True,True,Right-hand bat; Slow left-arm orthodox
+1501261,2025-26,2025-11-21 11:30,DOL,698343,Eathan Bosch,False,True,Right-hand bat; Right-arm fast
+1501261,2025-26,2025-11-21 11:30,DOL,488998,Tshepang Dithole,False,True,Left-hand bat; Right-arm offbreak
+1501261,2025-26,2025-11-21 11:30,DOL,1509591,Gomolemo Phiri,False,True,
+1501261,2025-26,2025-11-21 11:30,DOL,1070754,Andile Simelane,False,True,Right-hand bat; Right-arm fast
+1501261,2025-26,2025-11-21 11:30,DOL,1414819,Nqobani Mokoena,False,True,Right-hand bat; Right-arm fast-medium
+1501261,2025-26,2025-11-21 11:30,DOL,1385637,Tristan Luus,False,True,Right-hand bat; Right-arm fast-medium
+1501261,2025-26,2025-11-21 11:30,DOL,481979,Anrich Nortje,False,True,Right-hand bat; Right-arm fast
+1501262,2025-26,2025-11-22 11:00,KZNIN,379860,Malcolm Nofal,False,True,Left-hand bat; Slow left-arm orthodox
+1501262,2025-26,2025-11-22 11:00,KZNIN,1452090,Chad Laycock,False,True,
+1501262,2025-26,2025-11-22 11:00,KZNIN,1070762,Slade van Staden,False,True,Right-hand bat; Legbreak
+1501262,2025-26,2025-11-22 11:00,KZNIN,596063,Sean Gilson,False,True,Left-hand bat; Legbreak
+1501262,2025-26,2025-11-22 11:00,KZNIN,1072594,Andile Mokgakane,False,True,Right-hand bat; Right-arm medium
+1501262,2025-26,2025-11-22 11:00,KZNIN,1414821,Ntando Zuma,False,True,Right-hand bat
+1501262,2025-26,2025-11-22 11:00,KZNIN,265564,Wayne Parnell,True,True,Left-hand bat; Left-arm medium-fast
+1501262,2025-26,2025-11-22 11:00,KZNIN,595036,Bamanye Xenxe,False,True,Right-hand bat; Right-arm fast
+1501262,2025-26,2025-11-22 11:00,KZNIN,501907,Daryn Dupavillon,False,True,Right-hand bat; Right-arm fast
+1501262,2025-26,2025-11-22 11:00,KZNIN,1124737,Renaldo Meyer,False,True,Left-hand bat; Right-arm fast-medium
+1501262,2025-26,2025-11-22 11:00,KZNIN,696297,Ziyaad Abrahams,False,True,Right-hand bat; Right-arm fast
+1501262,2025-26,2025-11-22 11:00,BOL,1062364,Blayde Capell,False,True,Left-hand bat
+1501262,2025-26,2025-11-22 11:00,BOL,699723,Grant Roelofsen,False,True,Right-hand bat
+1501262,2025-26,2025-11-22 11:00,BOL,596137,Clyde Fortuin,True,True,Right-hand bat
+1501262,2025-26,2025-11-22 11:00,BOL,1255246,Lehan Botha,False,True,Right-hand bat; Right-arm medium
+1501262,2025-26,2025-11-22 11:00,BOL,948557,Jhedli van Briesies,False,True,Right-hand bat; Right-arm offbreak
+1501262,2025-26,2025-11-22 11:00,BOL,549288,Ferisco Adams,False,True,Right-hand bat; Right-arm fast-medium
+1501262,2025-26,2025-11-22 11:00,BOL,596800,Keith Dudgeon,False,True,Right-hand bat; Right-arm fast-medium
+1501262,2025-26,2025-11-22 11:00,BOL,322818,Ayabulela Gqamane,False,True,Right-hand bat; Right-arm fast-medium
+1501262,2025-26,2025-11-22 11:00,BOL,437506,Imran Manack,False,True,Right-hand bat; Right-arm offbreak
+1501262,2025-26,2025-11-22 11:00,BOL,596537,Siyabonga Mahima,False,True,Left-hand bat; Slow left-arm orthodox
+1501262,2025-26,2025-11-22 11:00,BOL,481803,Glenton Stuurman,False,True,Right-hand bat; Right-arm fast-medium
+1501263,2025-26,2025-11-23 11:00,DOL,1071000,Bryce Parsons,False,True,Left-hand bat; Slow left-arm orthodox
+1501263,2025-26,2025-11-23 11:00,DOL,318842,Khaya Zondo,False,True,Right-hand bat; Right-arm offbreak
+1501263,2025-26,2025-11-23 11:00,DOL,498582,Jason Smith,False,True,Right-hand bat; Right-arm medium-fast
+1501263,2025-26,2025-11-23 11:00,DOL,596436,Marques Ackerman,False,True,Left-hand bat; Right-arm offbreak; Legbreak googly
+1501263,2025-26,2025-11-23 11:00,DOL,280490,JJ Smuts,True,True,Right-hand bat; Slow left-arm orthodox
+1501263,2025-26,2025-11-23 11:00,DOL,1509591,Gomolemo Phiri,False,True,
+1501263,2025-26,2025-11-23 11:00,DOL,698343,Eathan Bosch,False,True,Right-hand bat; Right-arm fast
+1501263,2025-26,2025-11-23 11:00,DOL,1070754,Andile Simelane,False,True,Right-hand bat; Right-arm fast
+1501263,2025-26,2025-11-23 11:00,DOL,1507202,Aryan Gopalan,False,True,
+1501263,2025-26,2025-11-23 11:00,DOL,481979,Anrich Nortje,False,True,Right-hand bat; Right-arm fast
+1501263,2025-26,2025-11-23 11:00,DOL,1070753,Zedan Mahomed,False,True,Right-hand bat; Right-arm fast
+1501263,2025-26,2025-11-23 11:00,LIONS,337790,Rassie van der Dussen,False,True,Right-hand bat; Legbreak
+1501263,2025-26,2025-11-23 11:00,LIONS,269280,Reeza Hendricks,False,True,Right-hand bat; Right-arm offbreak
+1501263,2025-26,2025-11-23 11:00,LIONS,1070997,Connor Esterhuizen,False,True,Right-hand bat
+1501263,2025-26,2025-11-23 11:00,LIONS,1337362,Onkgomoditse Seletswane,False,True,Right-hand bat; Right-arm offbreak
+1501263,2025-26,2025-11-23 11:00,LIONS,698199,Mitchell Van Buuren,True,True,Right-hand bat; Legbreak googly
+1501263,2025-26,2025-11-23 11:00,LIONS,605681,Evan Jones,False,True,Right-hand bat; Right-arm medium-fast
+1501263,2025-26,2025-11-23 11:00,LIONS,595910,Wandile Makwetu,False,True,Right-hand bat
+1501263,2025-26,2025-11-23 11:00,LIONS,698319,Beyers Swanepoel,False,True,Left-hand bat; Right-arm fast
+1501263,2025-26,2025-11-23 11:00,LIONS,1512183,Zakwan Patel,False,True,Right-hand bat; Legbreak googly
+1501263,2025-26,2025-11-23 11:00,LIONS,1176017,Siya Plaatjie,False,True,Right-hand bat; Right-arm medium
+1501263,2025-26,2025-11-23 11:00,LIONS,1509723,Rafeeq Patel,False,True,Right-hand bat; Right-arm medium
+1501264,2025-26,2025-11-25 16:00,BOL,596137,Clyde Fortuin,True,True,Right-hand bat
+1501264,2025-26,2025-11-25 16:00,BOL,699723,Grant Roelofsen,False,True,Right-hand bat
+1501264,2025-26,2025-11-25 16:00,BOL,594995,Gavin Kaplan,False,True,Right-hand bat; Right-arm offbreak
+1501264,2025-26,2025-11-25 16:00,BOL,1255246,Lehan Botha,False,True,Right-hand bat; Right-arm medium
+1501264,2025-26,2025-11-25 16:00,BOL,948557,Jhedli van Briesies,False,True,Right-hand bat; Right-arm offbreak
+1501264,2025-26,2025-11-25 16:00,BOL,549288,Ferisco Adams,False,True,Right-hand bat; Right-arm fast-medium
+1501264,2025-26,2025-11-25 16:00,BOL,322818,Ayabulela Gqamane,False,True,Right-hand bat; Right-arm fast-medium
+1501264,2025-26,2025-11-25 16:00,BOL,596800,Keith Dudgeon,False,True,Right-hand bat; Right-arm fast-medium
+1501264,2025-26,2025-11-25 16:00,BOL,437506,Imran Manack,False,True,Right-hand bat; Right-arm offbreak
+1501264,2025-26,2025-11-25 16:00,BOL,481803,Glenton Stuurman,False,True,Right-hand bat; Right-arm fast-medium
+1501264,2025-26,2025-11-25 16:00,BOL,596537,Siyabonga Mahima,False,True,Left-hand bat; Slow left-arm orthodox
+1501264,2025-26,2025-11-25 16:00,WAR,946255,Muhammad Manack,False,True,Right-hand bat; Right-arm offbreak
+1501264,2025-26,2025-11-25 16:00,WAR,1255248,Jordan Hermann,False,True,Left-hand bat
+1501264,2025-26,2025-11-25 16:00,WAR,1088085,Matthew de Villiers,True,True,Right-hand bat; Right-arm medium
+1501264,2025-26,2025-11-25 16:00,WAR,1361874,JP King,False,True,Right-hand bat; Right-arm offbreak
+1501264,2025-26,2025-11-25 16:00,WAR,952207,Sinethemba Qeshile,False,True,Right-hand bat
+1501264,2025-26,2025-11-25 16:00,WAR,499560,Patrick Kruger,False,True,Right-hand bat; Right-arm medium
+1501264,2025-26,2025-11-25 16:00,WAR,1427726,Christopher King,False,True,Right-hand bat; Right-arm medium-fast
+1501264,2025-26,2025-11-25 16:00,WAR,381006,Thomas Kaber,False,True,Right-hand bat; Left-arm wrist-spin
+1501264,2025-26,2025-11-25 16:00,WAR,1282002,Aphiwe Mnyanda,False,True,Right-hand bat; Left-arm fast
+1501264,2025-26,2025-11-25 16:00,WAR,1412823,Wesley Bedja,False,True,
+1501264,2025-26,2025-11-25 16:00,WAR,594335,Kerwin Mungroo,False,True,Right-hand bat; Right-arm fast
+1501265,2025-26,2025-11-26 08:00,DOL,1071000,Bryce Parsons,False,True,Left-hand bat; Slow left-arm orthodox
+1501265,2025-26,2025-11-26 08:00,DOL,318842,Khaya Zondo,False,True,Right-hand bat; Right-arm offbreak
+1501265,2025-26,2025-11-26 08:00,DOL,498582,Jason Smith,False,True,Right-hand bat; Right-arm medium-fast
+1501265,2025-26,2025-11-26 08:00,DOL,596436,Marques Ackerman,True,True,Left-hand bat; Right-arm offbreak; Legbreak googly
+1501265,2025-26,2025-11-26 08:00,DOL,488998,Tshepang Dithole,False,True,Left-hand bat; Right-arm offbreak
+1501265,2025-26,2025-11-26 08:00,DOL,1509591,Gomolemo Phiri,False,True,
+1501265,2025-26,2025-11-26 08:00,DOL,698343,Eathan Bosch,False,True,Right-hand bat; Right-arm fast
+1501265,2025-26,2025-11-26 08:00,DOL,1070754,Andile Simelane,False,True,Right-hand bat; Right-arm fast
+1501265,2025-26,2025-11-26 08:00,DOL,1385637,Tristan Luus,False,True,Right-hand bat; Right-arm fast-medium
+1501265,2025-26,2025-11-26 08:00,DOL,1507202,Aryan Gopalan,False,True,
+1501265,2025-26,2025-11-26 08:00,DOL,481979,Anrich Nortje,False,True,Right-hand bat; Right-arm fast
+1501265,2025-26,2025-11-26 08:00,WPR,698333,Jiveshan Pillay,False,True,Left-hand bat
+1501265,2025-26,2025-11-26 08:00,WPR,946351,Valentine Kitime,False,True,Right-hand bat; Right-arm medium
+1501265,2025-26,2025-11-26 08:00,WPR,698311,Joshua van Heerden,False,True,Right-hand bat
+1501265,2025-26,2025-11-26 08:00,WPR,946453,Daniel Smith,True,True,Left-hand bat; Left-arm medium
+1501265,2025-26,2025-11-26 08:00,WPR,481875,George Linde,False,True,Left-hand bat; Slow left-arm orthodox
+1501265,2025-26,2025-11-26 08:00,WPR,550251,Kyle Simmonds,False,True,Left-hand bat; Slow left-arm orthodox
+1501265,2025-26,2025-11-26 08:00,WPR,1088083,Josh Breed,False,True,Right-hand bat; Legbreak
+1501265,2025-26,2025-11-26 08:00,WPR,1337353,Abdullah Bayoumy,False,True,Right-hand bat; Right-arm fast-medium
+1501265,2025-26,2025-11-26 08:00,WPR,1418278,Raeeq Daniels,False,True,Right-hand bat; Right-arm fast-medium
+1501265,2025-26,2025-11-26 08:00,WPR,594235,Tshepo Moreki,False,True,Right-hand bat; Right-arm fast-medium
+1501265,2025-26,2025-11-26 08:00,WPR,1509713,Mbulelo Dube,False,True,
+1501266,2025-26,2025-11-28 08:00,WAR,946255,Muhammad Manack,False,True,Right-hand bat; Right-arm offbreak
+1501266,2025-26,2025-11-28 08:00,WAR,1255248,Jordan Hermann,False,True,Left-hand bat
+1501266,2025-26,2025-11-28 08:00,WAR,1088085,Matthew de Villiers,True,True,Right-hand bat; Right-arm medium
+1501266,2025-26,2025-11-28 08:00,WAR,1361874,JP King,False,True,Right-hand bat; Right-arm offbreak
+1501266,2025-26,2025-11-28 08:00,WAR,952207,Sinethemba Qeshile,False,True,Right-hand bat
+1501266,2025-26,2025-11-28 08:00,WAR,499560,Patrick Kruger,False,True,Right-hand bat; Right-arm medium
+1501266,2025-26,2025-11-28 08:00,WAR,381006,Thomas Kaber,False,True,Right-hand bat; Left-arm wrist-spin
+1501266,2025-26,2025-11-28 08:00,WAR,1427726,Christopher King,False,True,Right-hand bat; Right-arm medium-fast
+1501266,2025-26,2025-11-28 08:00,WAR,1282002,Aphiwe Mnyanda,False,True,Right-hand bat; Left-arm fast
+1501266,2025-26,2025-11-28 08:00,WAR,1412823,Wesley Bedja,False,True,
+1501266,2025-26,2025-11-28 08:00,WAR,594335,Kerwin Mungroo,False,True,Right-hand bat; Right-arm fast
+1501266,2025-26,2025-11-28 08:00,DOL,318842,Khaya Zondo,False,True,Right-hand bat; Right-arm offbreak
+1501266,2025-26,2025-11-28 08:00,DOL,1071000,Bryce Parsons,False,True,Left-hand bat; Slow left-arm orthodox
+1501266,2025-26,2025-11-28 08:00,DOL,498582,Jason Smith,False,True,Right-hand bat; Right-arm medium-fast
+1501266,2025-26,2025-11-28 08:00,DOL,596436,Marques Ackerman,True,True,Left-hand bat; Right-arm offbreak; Legbreak googly
+1501266,2025-26,2025-11-28 08:00,DOL,488998,Tshepang Dithole,False,True,Left-hand bat; Right-arm offbreak
+1501266,2025-26,2025-11-28 08:00,DOL,1509591,Gomolemo Phiri,False,True,
+1501266,2025-26,2025-11-28 08:00,DOL,698343,Eathan Bosch,False,True,Right-hand bat; Right-arm fast
+1501266,2025-26,2025-11-28 08:00,DOL,1070754,Andile Simelane,False,True,Right-hand bat; Right-arm fast
+1501266,2025-26,2025-11-28 08:00,DOL,1385637,Tristan Luus,False,True,Right-hand bat; Right-arm fast-medium
+1501266,2025-26,2025-11-28 08:00,DOL,1507202,Aryan Gopalan,False,True,
+1501266,2025-26,2025-11-28 08:00,DOL,481979,Anrich Nortje,False,True,Right-hand bat; Right-arm fast
+1501267,2025-26,2025-11-30 11:00,BOL,596137,Clyde Fortuin,True,True,Right-hand bat
+1501267,2025-26,2025-11-30 11:00,BOL,699723,Grant Roelofsen,False,True,Right-hand bat
+1501267,2025-26,2025-11-30 11:00,BOL,594995,Gavin Kaplan,False,True,Right-hand bat; Right-arm offbreak
+1501267,2025-26,2025-11-30 11:00,BOL,1255246,Lehan Botha,False,True,Right-hand bat; Right-arm medium
+1501267,2025-26,2025-11-30 11:00,BOL,948557,Jhedli van Briesies,False,True,Right-hand bat; Right-arm offbreak
+1501267,2025-26,2025-11-30 11:00,BOL,549288,Ferisco Adams,False,True,Right-hand bat; Right-arm fast-medium
+1501267,2025-26,2025-11-30 11:00,BOL,1509540,Gysbert Wege,False,True,Right-hand bat
+1501267,2025-26,2025-11-30 11:00,BOL,322818,Ayabulela Gqamane,False,True,Right-hand bat; Right-arm fast-medium
+1501267,2025-26,2025-11-30 11:00,BOL,437506,Imran Manack,False,True,Right-hand bat; Right-arm offbreak
+1501267,2025-26,2025-11-30 11:00,BOL,481803,Glenton Stuurman,False,True,Right-hand bat; Right-arm fast-medium
+1501267,2025-26,2025-11-30 11:00,BOL,596537,Siyabonga Mahima,False,True,Left-hand bat; Slow left-arm orthodox
+1501267,2025-26,2025-11-30 11:00,WAR,1255248,Jordan Hermann,False,True,Left-hand bat
+1501267,2025-26,2025-11-30 11:00,WAR,499560,Patrick Kruger,False,True,Right-hand bat; Right-arm medium
+1501267,2025-26,2025-11-30 11:00,WAR,1088085,Matthew de Villiers,True,True,Right-hand bat; Right-arm medium
+1501267,2025-26,2025-11-30 11:00,WAR,595978,Tristan Stubbs,False,True,Right-hand bat; Right-arm offbreak
+1501267,2025-26,2025-11-30 11:00,WAR,535393,Senuran Muthusamy,False,True,Left-hand bat; Slow left-arm orthodox
+1501267,2025-26,2025-11-30 11:00,WAR,1361874,JP King,False,True,Right-hand bat; Right-arm offbreak
+1501267,2025-26,2025-11-30 11:00,WAR,952207,Sinethemba Qeshile,False,True,Right-hand bat
+1501267,2025-26,2025-11-30 11:00,WAR,381006,Thomas Kaber,False,True,Right-hand bat; Left-arm wrist-spin
+1501267,2025-26,2025-11-30 11:00,WAR,1282002,Aphiwe Mnyanda,False,True,Right-hand bat; Left-arm fast
+1501267,2025-26,2025-11-30 11:00,WAR,1412823,Wesley Bedja,False,True,
+1501267,2025-26,2025-11-30 11:00,WAR,594335,Kerwin Mungroo,False,True,Right-hand bat; Right-arm fast
+1551833,2026,2026-09-25 12:00,WAR,946255,Muhammad Manack,False,True,Right-hand bat; Right-arm offbreak
+1551833,2026,2026-09-25 12:00,WAR,1255248,Jordan Hermann,False,True,Left-hand bat
+1551833,2026,2026-09-25 12:00,WAR,594233,Sibonelo Makhanya,False,True,Right-hand bat; Right-arm medium
+1551833,2026,2026-09-25 12:00,WAR,1088085,Matthew de Villiers,True,True,Right-hand bat; Right-arm medium
+1551833,2026,2026-09-25 12:00,WAR,1361874,JP King,False,True,Right-hand bat; Right-arm offbreak
+1551833,2026,2026-09-25 12:00,WAR,499560,Patrick Kruger,False,True,Right-hand bat; Right-arm medium
+1551833,2026,2026-09-25 12:00,WAR,1072594,Andile Mokgakane,False,True,Right-hand bat; Right-arm medium
+1551833,2026,2026-09-25 12:00,WAR,381006,Thomas Kaber,False,True,Right-hand bat; Left-arm wrist-spin
+1551833,2026,2026-09-25 12:00,WAR,379927,Beuran Hendricks,False,True,Left-hand bat; Left-arm fast-medium
+1551833,2026,2026-09-25 12:00,WAR,1072026,Gideon Peters,False,True,Right-hand bat; Right-arm fast
+1551833,2026,2026-09-25 12:00,WAR,594335,Kerwin Mungroo,False,True,Right-hand bat; Right-arm fast
+1551833,2026,2026-09-25 12:00,NWEST,1455040,Ludwich Schuld,False,True,
+1551833,2026,2026-09-25 12:00,NWEST,429886,Wihan Lubbe,False,True,Left-hand bat; Right-arm offbreak
+1551833,2026,2026-09-25 12:00,NWEST,596097,Rubin Hermann,True,True,Left-hand bat
+1551833,2026,2026-09-25 12:00,NWEST,464702,Diego Rosier,False,True,Right-hand bat; Legbreak
+1551833,2026,2026-09-25 12:00,NWEST,429903,Lesiba Ngoepe,False,True,Left-hand bat; Slow left-arm orthodox
+1551833,2026,2026-09-25 12:00,NWEST,1337357,Meeka-eel Prince,False,True,Right-hand bat
+1551833,2026,2026-09-25 12:00,NWEST,595647,Onke Nyaku,False,True,Right-hand bat; Right-arm medium-fast
+1551833,2026,2026-09-25 12:00,NWEST,698321,Ruan de Swardt,False,True,Left-hand bat; Right-arm medium-fast
+1551833,2026,2026-09-25 12:00,NWEST,501907,Daryn Dupavillon,False,True,Right-hand bat; Right-arm fast
+1551833,2026,2026-09-25 12:00,NWEST,946365,Caleb Seleka,False,True,Right-hand bat; Legbreak
+1551833,2026,2026-09-25 12:00,NWEST,688143,Alfred Mothoa,False,True,Right-hand bat; Right-arm fast-medium
+1551834,2026,2026-09-25 16:00,TIT,952207,Sinethemba Qeshile,False,True,Right-hand bat
+1551834,2026,2026-09-25 16:00,TIT,595739,Leus du Plooy,False,True,Left-hand bat; Slow left-arm orthodox
+1551834,2026,2026-09-25 16:00,TIT,1070665,Dewald Brevis,False,True,Right-hand bat; Legbreak
+1551834,2026,2026-09-25 16:00,TIT,698315,Donovan Ferreira,True,True,Right-hand bat; Right-arm offbreak
+1551834,2026,2026-09-25 16:00,TIT,550189,Dayyaan Galiem,False,True,Right-hand bat; Right-arm medium-fast
+1551834,2026,2026-09-25 16:00,TIT,1451599,Lethabo Phahlamohlaka,False,True,Right-hand bat
+1551834,2026,2026-09-25 16:00,TIT,698343,Eathan Bosch,False,True,Right-hand bat; Right-arm fast
+1551834,2026,2026-09-25 16:00,TIT,698319,Beyers Swanepoel,False,True,Left-hand bat; Right-arm fast
+1551834,2026,2026-09-25 16:00,TIT,1282002,Aphiwe Mnyanda,False,True,Right-hand bat; Left-arm fast
+1551834,2026,2026-09-25 16:00,TIT,545467,Junior Dala,False,True,Right-hand bat; Right-arm medium
+1551834,2026,2026-09-25 16:00,TIT,379145,Tabraiz Shamsi,False,True,Right-hand bat; Left-arm wrist-spin
+1551834,2026,2026-09-25 16:00,WPR,481975,Edward Moore,False,True,Left-hand bat; Right-arm offbreak
+1551834,2026,2026-09-25 16:00,WPR,946351,Valentine Kitime,False,True,Right-hand bat; Right-arm medium
+1551834,2026,2026-09-25 16:00,WPR,698311,Joshua van Heerden,False,True,Right-hand bat
+1551834,2026,2026-09-25 16:00,WPR,948593,Mihlali Mpongwana,False,True,Right-hand bat; Right-arm medium
+1551834,2026,2026-09-25 16:00,WPR,481875,George Linde,True,True,Left-hand bat; Slow left-arm orthodox
+1551834,2026,2026-09-25 16:00,WPR,946453,Daniel Smith,False,True,Left-hand bat; Left-arm medium
+1551834,2026,2026-09-25 16:00,WPR,1469007,Kashief Josephs,False,True,
+1551834,2026,2026-09-25 16:00,WPR,1385642,Oliver Whitehead,False,True,Right-hand bat; Right-arm medium
+1551834,2026,2026-09-25 16:00,WPR,1418278,Raeeq Daniels,False,True,Right-hand bat; Right-arm fast-medium
+1551834,2026,2026-09-25 16:00,WPR,594235,Tshepo Moreki,False,True,Right-hand bat; Right-arm fast-medium
+1551834,2026,2026-09-25 16:00,WPR,825405,Jody Lawrence,False,True,Right-hand bat; Right-arm fast
+1551836,2026,2026-09-27 11:00,DOL,318842,Khaya Zondo,False,True,Right-hand bat; Right-arm offbreak
+1551836,2026,2026-09-27 11:00,DOL,1071000,Bryce Parsons,False,True,Left-hand bat; Slow left-arm orthodox
+1551836,2026,2026-09-27 11:00,DOL,699723,Grant Roelofsen,False,True,Right-hand bat
+1551836,2026,2026-09-27 11:00,DOL,498582,Jason Smith,False,True,Right-hand bat; Right-arm medium-fast
+1551836,2026,2026-09-27 11:00,DOL,596063,Sean Gilson,False,True,Left-hand bat; Legbreak
+1551836,2026,2026-09-27 11:00,DOL,1071045,Hanu Viljoen,False,True,Right-hand bat
+1551836,2026,2026-09-27 11:00,DOL,1509591,Gomolemo Phiri,False,True,
+1551836,2026,2026-09-27 11:00,DOL,437438,Prenelan Subrayen,True,True,Right-hand bat; Right-arm offbreak
+1551836,2026,2026-09-27 11:00,DOL,1385637,Tristan Luus,False,True,Right-hand bat; Right-arm fast-medium
+1551836,2026,2026-09-27 11:00,DOL,1451597,Bayanda Majola,False,True,Left-hand bat; Right-arm medium
+1551836,2026,2026-09-27 11:00,DOL,595618,Okuhle Cele,False,True,Right-hand bat; Right-arm fast
+1551836,2026,2026-09-27 11:00,LIONS,550187,Zubayr Hamza,False,True,Right-hand bat; Legbreak
+1551836,2026,2026-09-27 11:00,LIONS,269280,Reeza Hendricks,False,True,Right-hand bat; Right-arm offbreak
+1551836,2026,2026-09-27 11:00,LIONS,337790,Rassie van der Dussen,False,True,Right-hand bat; Legbreak
+1551836,2026,2026-09-27 11:00,LIONS,698199,Mitchell Van Buuren,True,True,Right-hand bat; Legbreak googly
+1551836,2026,2026-09-27 11:00,LIONS,1070997,Connor Esterhuizen,False,True,Right-hand bat
+1551836,2026,2026-09-27 11:00,LIONS,596442,Delano Potgieter,False,True,Left-hand bat; Right-arm medium
+1551836,2026,2026-09-27 11:00,LIONS,698189,Wiaan Mulder,False,True,Right-hand bat; Right-arm medium
+1551836,2026,2026-09-27 11:00,LIONS,595910,Wandile Makwetu,False,True,Right-hand bat
+1551836,2026,2026-09-27 11:00,LIONS,949461,Codi Yusuf,False,True,Right-hand bat; Right-arm medium
+1551836,2026,2026-09-27 11:00,LIONS,946483,Nqabayomzi Peter,False,True,Right-hand bat; Legbreak
+1551836,2026,2026-09-27 11:00,LIONS,698143,Lutho Sipamla,False,True,Right-hand bat; Right-arm fast-medium
+1551838,2026,2026-09-27 11:00,MPR,696309,Garnett Tarr,False,True,Right-hand bat
+1551838,2026,2026-09-27 11:00,MPR,429012,Zakir Kathrada,False,True,Right-hand bat
+1551838,2026,2026-09-27 11:00,MPR,1509595,Ruben du Toit,False,True,
+1551838,2026,2026-09-27 11:00,MPR,596535,Benjamin van Niekerk,False,True,Right-hand bat; Right-arm offbreak
+1551838,2026,2026-09-27 11:00,MPR,949459,Muhammed Mayet,True,True,Right-hand bat; Right-arm medium
+1551838,2026,2026-09-27 11:00,MPR,1507531,B Brokensha,False,True,Right-hand bat; Right-arm medium
+1551838,2026,2026-09-27 11:00,MPR,594264,Karabo Mogotsi,False,True,Right-hand bat; Right-arm offbreak
+1551838,2026,2026-09-27 11:00,MPR,1349906,Thabile Hlatuka,False,True,
+1551838,2026,2026-09-27 11:00,MPR,1070624,Jon Hinrichsen,False,True,Right-hand bat; Right-arm fast-medium
+1551838,2026,2026-09-27 11:00,MPR,696337,Tetelo Maphaka,False,True,Left-hand bat; Slow left-arm orthodox
+1551838,2026,2026-09-27 11:00,MPR,1189295,Nhlanhla Dlamini,False,True,Right-hand bat; Right-arm offbreak
+1551838,2026,2026-09-27 11:00,TIT,952207,Sinethemba Qeshile,False,True,Right-hand bat
+1551838,2026,2026-09-27 11:00,TIT,595739,Leus du Plooy,False,True,Left-hand bat; Slow left-arm orthodox
+1551838,2026,2026-09-27 11:00,TIT,1425202,Keagan Lion-Cachet,False,True,Right-hand bat
+1551838,2026,2026-09-27 11:00,TIT,698315,Donovan Ferreira,True,True,Right-hand bat; Right-arm offbreak
+1551838,2026,2026-09-27 11:00,TIT,550189,Dayyaan Galiem,False,True,Right-hand bat; Right-arm medium-fast
+1551838,2026,2026-09-27 11:00,TIT,698319,Beyers Swanepoel,False,True,Left-hand bat; Right-arm fast
+1551838,2026,2026-09-27 11:00,TIT,545467,Junior Dala,False,True,Right-hand bat; Right-arm medium
+1551838,2026,2026-09-27 11:00,TIT,1282002,Aphiwe Mnyanda,False,True,Right-hand bat; Left-arm fast
+1551838,2026,2026-09-27 11:00,TIT,379145,Tabraiz Shamsi,False,True,Right-hand bat; Left-arm wrist-spin
+1551838,2026,2026-09-27 11:00,TIT,1451599,Lethabo Phahlamohlaka,False,True,Right-hand bat
+1551838,2026,2026-09-27 11:00,TIT,1479495,Janco Smit,False,True,Right-hand bat; Right-arm medium
+1551837,2026,2026-09-27 16:00,WPR,946351,Valentine Kitime,False,True,Right-hand bat; Right-arm medium
+1551837,2026,2026-09-27 16:00,WPR,481975,Edward Moore,False,True,Left-hand bat; Right-arm offbreak
+1551837,2026,2026-09-27 16:00,WPR,698311,Joshua van Heerden,False,True,Right-hand bat
+1551837,2026,2026-09-27 16:00,WPR,946453,Daniel Smith,False,True,Left-hand bat; Left-arm medium
+1551837,2026,2026-09-27 16:00,WPR,481875,George Linde,True,True,Left-hand bat; Slow left-arm orthodox
+1551837,2026,2026-09-27 16:00,WPR,1469007,Kashief Josephs,False,True,
+1551837,2026,2026-09-27 16:00,WPR,948593,Mihlali Mpongwana,False,True,Right-hand bat; Right-arm medium
+1551837,2026,2026-09-27 16:00,WPR,1088083,Josh Breed,False,True,Right-hand bat; Legbreak
+1551837,2026,2026-09-27 16:00,WPR,1418278,Raeeq Daniels,False,True,Right-hand bat; Right-arm fast-medium
+1551837,2026,2026-09-27 16:00,WPR,594235,Tshepo Moreki,False,True,Right-hand bat; Right-arm fast-medium
+1551837,2026,2026-09-27 16:00,WPR,825405,Jody Lawrence,False,True,Right-hand bat; Right-arm fast
+1551837,2026,2026-09-27 16:00,KNG,594329,Jacques Snyman,False,True,Right-hand bat; Right-arm offbreak
+1551837,2026,2026-09-27 16:00,KNG,696587,Jonathan Bird,False,True,Left-hand bat; Left-arm wrist-spin
+1551837,2026,2026-09-27 16:00,KNG,1255963,Cole Abrahams,False,True,
+1551837,2026,2026-09-27 16:00,KNG,946177,George Van Heerden,False,True,Right-hand bat; Right-arm medium
+1551837,2026,2026-09-27 16:00,KNG,381030,Gihahn Cloete,False,True,Left-hand bat; Right-arm offbreak
+1551837,2026,2026-09-27 16:00,KNG,596084,Ruan Haasbroek,False,True,Right-hand bat; Right-arm offbreak
+1551837,2026,2026-09-27 16:00,KNG,696439,Tiaan van Vuuren,False,True,Right-hand bat; Left-arm medium-fast
+1551837,2026,2026-09-27 16:00,KNG,1071995,Emmanuel Motswiri,False,True,
+1551837,2026,2026-09-27 16:00,KNG,230861,Malusi Siboto,False,True,Left-hand bat; Right-arm medium
+1551837,2026,2026-09-27 16:00,KNG,379926,Dane Piedt,True,True,Right-hand bat; Right-arm offbreak
+1551837,2026,2026-09-27 16:00,KNG,1070783,Mbongiseni Mhlanga,False,True,Left-hand bat; Left-arm medium
+1551839,2026,2026-09-28 11:00,BOR,595043,Jerome Bossr,True,True,Left-hand bat; Left-arm medium
+1551839,2026,2026-09-28 11:00,BOR,698115,Nathan Roux,False,True,Right-hand bat
+1551839,2026,2026-09-28 11:00,BOR,1508864,Christiaan du Toit,False,True,
+1551839,2026,2026-09-28 11:00,BOR,698117,Jason Niemand,False,True,Right-hand bat; Right-arm offbreak
+1551839,2026,2026-09-28 11:00,BOR,946367,Michael Copeland,False,True,Right-hand bat; Right-arm offbreak
+1551839,2026,2026-09-28 11:00,BOR,696161,Mncedisi Malika,False,True,Left-hand bat
+1551839,2026,2026-09-28 11:00,BOR,322818,Ayabulela Gqamane,False,True,Right-hand bat; Right-arm fast-medium
+1551839,2026,2026-09-28 11:00,BOR,1256455,Jan Coetzer,False,True,Right-hand bat; Right-arm medium-fast
+1551839,2026,2026-09-28 11:00,BOR,1203962,Alindile Mhletywa,False,True,
+1551839,2026,2026-09-28 11:00,BOR,596392,Sithembile Langa,False,True,Right-hand bat; Right-arm fast
+1551839,2026,2026-09-28 11:00,BOR,948513,Kgaudisa Molefe,False,True,Right-hand bat; Slow left-arm orthodox
+1551839,2026,2026-09-28 11:00,NWEST,1455040,Ludwich Schuld,False,True,
+1551839,2026,2026-09-28 11:00,NWEST,429886,Wihan Lubbe,False,True,Left-hand bat; Right-arm offbreak
+1551839,2026,2026-09-28 11:00,NWEST,596097,Rubin Hermann,True,True,Left-hand bat
+1551839,2026,2026-09-28 11:00,NWEST,464702,Diego Rosier,False,True,Right-hand bat; Legbreak
+1551839,2026,2026-09-28 11:00,NWEST,429903,Lesiba Ngoepe,False,True,Left-hand bat; Slow left-arm orthodox
+1551839,2026,2026-09-28 11:00,NWEST,1337355,Juan James,False,True,Right-hand bat; Right-arm offbreak
+1551839,2026,2026-09-28 11:00,NWEST,698321,Ruan de Swardt,False,True,Left-hand bat; Right-arm medium-fast
+1551839,2026,2026-09-28 11:00,NWEST,946365,Caleb Seleka,False,True,Right-hand bat; Legbreak
+1551839,2026,2026-09-28 11:00,NWEST,501907,Daryn Dupavillon,False,True,Right-hand bat; Right-arm fast
+1551839,2026,2026-09-28 11:00,NWEST,688143,Alfred Mothoa,False,True,Right-hand bat; Right-arm fast-medium
+1551839,2026,2026-09-28 11:00,NWEST,977991,Mthiwekhaya Nabe,False,True,Right-hand bat; Right-arm medium
+1551841,2026,2026-09-29 12:00,WAR,1255248,Jordan Hermann,False,True,Left-hand bat
+1551841,2026,2026-09-29 12:00,WAR,594233,Sibonelo Makhanya,False,True,Right-hand bat; Right-arm medium
+1551841,2026,2026-09-29 12:00,WAR,1088085,Matthew de Villiers,True,True,Right-hand bat; Right-arm medium
+1551841,2026,2026-09-29 12:00,WAR,1361874,JP King,False,True,Right-hand bat; Right-arm offbreak
+1551841,2026,2026-09-29 12:00,WAR,499560,Patrick Kruger,False,True,Right-hand bat; Right-arm medium
+1551841,2026,2026-09-29 12:00,WAR,595786,Jean du Plessis,False,True,Right-hand bat; Right-arm medium
+1551841,2026,2026-09-29 12:00,WAR,1072594,Andile Mokgakane,False,True,Right-hand bat; Right-arm medium
+1551841,2026,2026-09-29 12:00,WAR,381006,Thomas Kaber,False,True,Right-hand bat; Left-arm wrist-spin
+1551841,2026,2026-09-29 12:00,WAR,379927,Beuran Hendricks,False,True,Left-hand bat; Left-arm fast-medium
+1551841,2026,2026-09-29 12:00,WAR,1412823,Wesley Bedja,False,True,
+1551841,2026,2026-09-29 12:00,WAR,594335,Kerwin Mungroo,False,True,Right-hand bat; Right-arm fast
+1551841,2026,2026-09-29 12:00,LIMPO,595668,Tylor Trenoweth,False,True,Left-hand bat
+1551841,2026,2026-09-29 12:00,LIMPO,297484,Ernest Kemm,True,True,Left-hand bat; Slow left-arm orthodox
+1551841,2026,2026-09-29 12:00,LIMPO,595926,Christoffel Klijnhans,False,True,Left-hand bat; Left-arm medium
+1551841,2026,2026-09-29 12:00,LIMPO,806985,Keenan Vieira,False,True,Right-hand bat
+1551841,2026,2026-09-29 12:00,LIMPO,1337353,Abdullah Bayoumy,False,True,Right-hand bat; Right-arm fast-medium
+1551841,2026,2026-09-29 12:00,LIMPO,427964,Marcello Piedt,False,True,Right-hand bat; Right-arm medium-fast
+1551841,2026,2026-09-29 12:00,LIMPO,1253296,Thomas Mayes,False,True,Right-hand bat; Right-arm medium-fast
+1551841,2026,2026-09-29 12:00,LIMPO,1308589,Shelton Ngobeni,False,True,
+1551841,2026,2026-09-29 12:00,LIMPO,696479,Atwell Mokgoloboto,False,True,Right-hand bat; Right-arm offbreak
+1551841,2026,2026-09-29 12:00,LIMPO,595832,Don Radebe,False,True,Right-hand bat; Right-arm medium-fast
+1551841,2026,2026-09-29 12:00,LIMPO,807039,Irvin Modimokoane,False,True,Right-hand bat; Right-arm medium-fast
+1551840,2026,2026-09-29 16:00,BOL,742489,Neil Brand,False,True,Left-hand bat; Slow left-arm orthodox
+1551840,2026,2026-09-29 16:00,BOL,1548623,Jason Muirhead,False,True,
+1551840,2026,2026-09-29 16:00,BOL,594995,Gavin Kaplan,False,True,Right-hand bat; Right-arm offbreak
+1551840,2026,2026-09-29 16:00,BOL,1255246,Lehan Botha,False,True,Right-hand bat; Right-arm medium
+1551840,2026,2026-09-29 16:00,BOL,1509540,Gysbert Wege,False,True,Right-hand bat
+1551840,2026,2026-09-29 16:00,BOL,948557,Jhedli van Briesies,False,True,Right-hand bat; Right-arm offbreak
+1551840,2026,2026-09-29 16:00,BOL,549288,Ferisco Adams,False,True,Right-hand bat; Right-arm fast-medium
+1551840,2026,2026-09-29 16:00,BOL,437506,Imran Manack,False,True,Right-hand bat; Right-arm offbreak
+1551840,2026,2026-09-29 16:00,BOL,596537,Siyabonga Mahima,False,True,Left-hand bat; Slow left-arm orthodox
+1551840,2026,2026-09-29 16:00,BOL,595882,Akhona Mnyaka,False,True,Right-hand bat; Left-arm fast
+1551840,2026,2026-09-29 16:00,BOL,481803,Glenton Stuurman,True,True,Right-hand bat; Right-arm fast-medium
+1551840,2026,2026-09-29 16:00,KNG,594329,Jacques Snyman,False,True,Right-hand bat; Right-arm offbreak
+1551840,2026,2026-09-29 16:00,KNG,1255963,Cole Abrahams,False,True,
+1551840,2026,2026-09-29 16:00,KNG,946177,George Van Heerden,False,True,Right-hand bat; Right-arm medium
+1551840,2026,2026-09-29 16:00,KNG,596084,Ruan Haasbroek,False,True,Right-hand bat; Right-arm offbreak
+1551840,2026,2026-09-29 16:00,KNG,381030,Gihahn Cloete,False,True,Left-hand bat; Right-arm offbreak
+1551840,2026,2026-09-29 16:00,KNG,696439,Tiaan van Vuuren,False,True,Right-hand bat; Left-arm medium-fast
+1551840,2026,2026-09-29 16:00,KNG,1071995,Emmanuel Motswiri,False,True,
+1551840,2026,2026-09-29 16:00,KNG,230861,Malusi Siboto,False,True,Left-hand bat; Right-arm medium
+1551840,2026,2026-09-29 16:00,KNG,379926,Dane Piedt,True,True,Right-hand bat; Right-arm offbreak
+1551840,2026,2026-09-29 16:00,KNG,1070783,Mbongiseni Mhlanga,False,True,Left-hand bat; Left-arm medium
+1551840,2026,2026-09-29 16:00,KNG,605640,Junaid Dawood,False,True,Right-hand bat; Legbreak
+1551843,2026,2026-09-30 16:00,DOL,318842,Khaya Zondo,False,True,Right-hand bat; Right-arm offbreak
+1551843,2026,2026-09-30 16:00,DOL,1071000,Bryce Parsons,False,True,Left-hand bat; Slow left-arm orthodox
+1551843,2026,2026-09-30 16:00,DOL,699723,Grant Roelofsen,False,True,Right-hand bat
+1551843,2026,2026-09-30 16:00,DOL,498582,Jason Smith,False,True,Right-hand bat; Right-arm medium-fast
+1551843,2026,2026-09-30 16:00,DOL,596063,Sean Gilson,False,True,Left-hand bat; Legbreak
+1551843,2026,2026-09-30 16:00,DOL,1071045,Hanu Viljoen,False,True,Right-hand bat
+1551843,2026,2026-09-30 16:00,DOL,1509591,Gomolemo Phiri,False,True,
+1551843,2026,2026-09-30 16:00,DOL,437438,Prenelan Subrayen,True,True,Right-hand bat; Right-arm offbreak
+1551843,2026,2026-09-30 16:00,DOL,1385637,Tristan Luus,False,True,Right-hand bat; Right-arm fast-medium
+1551843,2026,2026-09-30 16:00,DOL,1451597,Bayanda Majola,False,True,Left-hand bat; Right-arm medium
+1551843,2026,2026-09-30 16:00,DOL,595618,Okuhle Cele,False,True,Right-hand bat; Right-arm fast
+1551843,2026,2026-09-30 16:00,NCAPE,1070722,Gerhardus Maree,False,True,Left-hand bat
+1551843,2026,2026-09-30 16:00,NCAPE,1088122,Nonelela Yikha,False,True,Right-hand bat
+1551843,2026,2026-09-30 16:00,NCAPE,952211,Kyle Jacobs,False,True,Right-hand bat; Legbreak
+1551843,2026,2026-09-30 16:00,NCAPE,946375,Tahir Isaacs,False,True,Left-hand bat; Right-arm medium
+1551843,2026,2026-09-30 16:00,NCAPE,1510223,Blake Simpson,False,True,
+1551843,2026,2026-09-30 16:00,NCAPE,280267,Romano Terblanche,False,True,Left-hand bat; Left-arm fast-medium
+1551843,2026,2026-09-30 16:00,NCAPE,1320869,Jordan Neil,False,True,Right-hand bat; Right-arm medium
+1551843,2026,2026-09-30 16:00,NCAPE,1508580,Ruan van Rooyen,False,True,Left-hand bat; Slow left-arm orthodox
+1551843,2026,2026-09-30 16:00,NCAPE,550226,Tshepo Ntuli,True,True,Right-hand bat; Right-arm offbreak
+1551843,2026,2026-09-30 16:00,NCAPE,543187,Johannes van Dyk,False,True,Right-hand bat; Right-arm fast-medium
+1551843,2026,2026-09-30 16:00,NCAPE,948523,Odirile Modimokoane,False,True,Right-hand bat; Slow left-arm orthodox
+1551844,2026,2026-09-30 16:00,ESTORM,595056,Kabelo Sekhukhune,False,True,Left-hand bat; Right-arm offbreak
+1551844,2026,2026-09-30 16:00,ESTORM,1294456,Ronan Herrmann,False,True,Right-hand bat
+1551844,2026,2026-09-30 16:00,ESTORM,807033,Christopher Britz,True,True,Right-hand bat
+1551844,2026,2026-09-30 16:00,ESTORM,543324,Jurie Snyman,False,True,Left-hand bat; Right-arm offbreak
+1551844,2026,2026-09-30 16:00,ESTORM,1337356,Dewan Marais,False,True,Right-hand bat
+1551844,2026,2026-09-30 16:00,ESTORM,1507202,Aryan Gopalan,False,True,
+1551844,2026,2026-09-30 16:00,ESTORM,1070976,Juan Lubbe,False,True,Right-hand bat; Right-arm offbreak
+1551844,2026,2026-09-30 16:00,ESTORM,1070696,Amaan Khan,False,True,Right-hand bat
+1551844,2026,2026-09-30 16:00,ESTORM,595408,Chad Classen,False,True,Right-hand bat; Right-arm fast
+1551844,2026,2026-09-30 16:00,ESTORM,596409,Tumelo Simelane,False,True,Left-hand bat; Slow left-arm orthodox
+1551844,2026,2026-09-30 16:00,ESTORM,1399519,Martin Khumalo,False,True,Right-hand bat; Right-arm medium
+1551844,2026,2026-09-30 16:00,MPR,429012,Zakir Kathrada,False,True,Right-hand bat
+1551844,2026,2026-09-30 16:00,MPR,696309,Garnett Tarr,False,True,Right-hand bat
+1551844,2026,2026-09-30 16:00,MPR,1509595,Ruben du Toit,False,True,
+1551844,2026,2026-09-30 16:00,MPR,949459,Muhammed Mayet,True,True,Right-hand bat; Right-arm medium
+1551844,2026,2026-09-30 16:00,MPR,596535,Benjamin van Niekerk,False,True,Right-hand bat; Right-arm offbreak
+1551844,2026,2026-09-30 16:00,MPR,1507531,B Brokensha,False,True,Right-hand bat; Right-arm medium
+1551844,2026,2026-09-30 16:00,MPR,594264,Karabo Mogotsi,False,True,Right-hand bat; Right-arm offbreak
+1551844,2026,2026-09-30 16:00,MPR,1349906,Thabile Hlatuka,False,True,
+1551844,2026,2026-09-30 16:00,MPR,1070624,Jon Hinrichsen,False,True,Right-hand bat; Right-arm fast-medium
+1551844,2026,2026-09-30 16:00,MPR,696337,Tetelo Maphaka,False,True,Left-hand bat; Slow left-arm orthodox
+1551844,2026,2026-09-30 16:00,MPR,1189295,Nhlanhla Dlamini,False,True,Right-hand bat; Right-arm offbreak

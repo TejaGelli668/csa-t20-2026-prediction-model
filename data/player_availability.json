@@ -1,0 +1,48 @@
+{
+  "as_of": "2026-09-30",
+  "notes": "Hand-curated from news reports because Cricbuzz/ESPNcricinfo squad pages do not list availability. Each window says how likely a player is to play for their domestic side on a match date. Players not listed default to the rules in model.py (seen in a 2026 XI = 0.95, otherwise 0.5).",
+  "sources": [
+    {"title": "South Africa name 16-man ODI squad for Australia series 2026 (CricTracker)", "url": "https://www.crictracker.com/cricket-news/south-africa-names-16-man-squad-for-odi-series-against-australia-2521/"},
+    {"title": "South Africa v Australia ODIs: series guide (cricket.com.au)", "url": "https://www.cricket.com.au/news/4578082/south-africa-australia-odis-one-day-internationals-2026-preview-guide-tv-television-stream-broadcast-details-how-to-watch-team-squad-news-session-start-times-durban-johannesburg-potchefstroom"},
+    {"title": "CSA announces 2026/27 home season for the Proteas men", "url": "https://cricket.co.za/csa-announces-unmissable-2026-27-home-season-for-the-proteas-men/"}
+  ],
+  "groups": [
+    {
+      "label": "ODI squad, white-ball regulars (return after 30 Sep ODI)",
+      "confidence": "reported",
+      "players": ["David Miller", "Bjorn Fortuin", "Gerald Coetzee", "Kwena Maphaka", "Duan Jansen", "Nqobani Mokoena", "Quinton de Kock"],
+      "windows": [
+        {"from": "2026-09-24", "to": "2026-09-30", "p": 0.0, "reason": "SA v Australia ODI series"},
+        {"from": "2026-10-01", "to": "2026-11-30", "p": 0.7, "reason": "Released after ODIs; franchises may still rest them"}
+      ]
+    },
+    {
+      "label": "ODI squad, probable Test squad (SA v Australia Tests 9-31 Oct)",
+      "confidence": "assumed",
+      "players": ["Temba Bavuma", "Aiden Markram", "Ryan Rickelton", "Tony de Zorzi", "Tristan Stubbs", "Marco Jansen", "Keshav Maharaj", "Corbin Bosch", "Matthew Breetzke"],
+      "windows": [
+        {"from": "2026-09-24", "to": "2026-10-31", "p": 0.05, "reason": "ODIs then Test camp and series vs Australia"},
+        {"from": "2026-11-01", "to": "2026-11-12", "p": 0.6, "reason": "Window before Bangladesh Tests start 15 Nov"},
+        {"from": "2026-11-13", "to": "2026-11-30", "p": 0.3, "reason": "Bangladesh Test prep"}
+      ]
+    },
+    {
+      "label": "Probable Test squad (not in ODI squad)",
+      "confidence": "assumed",
+      "players": ["Wiaan Mulder", "Kyle Verreynne", "Senuran Muthusamy", "Simon Harmer", "David Bedingham"],
+      "windows": [
+        {"from": "2026-10-03", "to": "2026-10-31", "p": 0.1, "reason": "Likely Test squad vs Australia"},
+        {"from": "2026-11-01", "to": "2026-11-30", "p": 0.6, "reason": "Between Test series"}
+      ]
+    },
+    {
+      "label": "Injured",
+      "confidence": "reported",
+      "players": ["Kagiso Rabada", "Lungi Ngidi", "Ottneil Baartman", "Nandre Burger"],
+      "windows": [
+        {"from": "2026-09-01", "to": "2026-10-20", "p": 0.0, "reason": "Hamstring (Rabada, Ngidi, Baartman) / back (Burger) injuries reported before ODIs"},
+        {"from": "2026-10-21", "to": "2026-11-30", "p": 0.35, "reason": "Possible return, likely managed for Tests"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+espn_id,season,date,stage,team1,team2,venue,state,score1,score2,winner,toss_winner,toss_decision,points1,points2,result_note
+1501236,2025-26,2025-10-29 10:00,1st Match,TIT,KZNIN,"City Oval, Pietermaritzburg",post,151/7,"142 (19.3/20 ov, target 152)",TIT,TIT,bat,4,0,Titans won by 9 runs
+1501237,2025-26,2025-10-29 11:30,2nd Match,NWEST,WAR,"Senwes Park, Potchefstroom",post,,,,,,2,2,Match abandoned without a ball bowled
+1501238,2025-26,2025-10-31 16:00,3rd Match,BOL,NWEST,"Boland Park, Paarl",post,148/9,"139/9 (20 ov, target 149)",BOL,NWEST,field,4,0,Boland won by 9 runs
+1501239,2025-26,2025-11-01 10:00,4th Match,DOL,KZNIN,"Kingsmead, Durban",post,178/5,"164/7 (20 ov, target 179)",DOL,,,,,
+1501240,2025-26,2025-11-01 11:30,5th Match,WAR,TIT,"SuperSport Park, Centurion",post,193/3,"107 (17.1/20 ov, target 194)",WAR,TIT,field,5,0,Warriors won by 86 runs
+1501241,2025-26,2025-11-02 10:00,6th Match,NWEST,WPR,"Newlands, Cape Town",post,186/5,"188/6 (16.5/20 ov, target 187)",WPR,WPR,field,0,4,W Province won by 4 wkts (19b rem)
+1501242,2025-26,2025-11-02 11:30,7th Match,BOL,LIONS,"The Wanderers Stadium, Johannesburg",post,138,"130/6 (20 ov, target 139)",BOL,LIONS,field,4,0,Boland won by 8 runs
+1501243,2025-26,2025-11-04 16:00,8th Match,BOL,WPR,"Boland Park, Paarl",post,173/5,"108 (16/20 ov, target 174)",BOL,,,,,
+1501244,2025-26,2025-11-06 16:00,9th Match,TIT,BOL,"Boland Park, Paarl",post,128/8,"129/3 (13.4/20 ov, target 129)",BOL,TIT,bat,0,5,Boland won by 7 wkts (38b rem)
+1501245,2025-26,2025-11-07 15:00,10th Match,WPR,WAR,"St George's Park, Gqeberha",post,134/9,"135/4 (15.3/20 ov, target 135)",WAR,WPR,bat,0,5,Warriors won by 6 wkts (27b rem)
+1501246,2025-26,2025-11-07 16:00,11th Match,DOL,NWEST,"Senwes Park, Potchefstroom",post,155/9 (17/17 ov),"124 (17 ov, target 156)",DOL,NWEST,field,4,0,Dolphins won by 31 runs
+1501247,2025-26,2025-11-08 11:00,12th Match,KZNIN,LIONS,"The Wanderers Stadium, Johannesburg",post,161/5,"159/5 (20 ov, target 162)",KZNIN,LIONS,field,4,0,KZN-Inland won by 2 runs
+1501249,2025-26,2025-11-09 10:00,14th Match,WAR,DOL,"Kingsmead, Durban",post,94,"100/3 (14.2/20 ov, target 95)",DOL,DOL,field,0,6,Dolphins won by 7 wkts (34b rem)
+1501248,2025-26,2025-11-09 11:30,13th Match,WPR,TIT,"Newlands, Cape Town",post,225/6,"141 (17.4/20 ov, target 226)",WPR,TIT,field,5,0,W Province won by 84 runs
+1501251,2025-26,2025-11-11 15:00,16th Match,NWEST,KZNIN,"Senwes Park, Potchefstroom",post,173/5,"148/8 (20 ov, target 174)",NWEST,KZNIN,field,4,0,North West won by 25 runs
+1501250,2025-26,2025-11-11 16:00,15th Match,LIONS,WAR,"St George's Park, Gqeberha",post,146/7,"151/2 (17.4/20 ov, target 147)",WAR,WAR,field,0,4,Warriors won by 8 wkts (14b rem)
+1501252,2025-26,2025-11-13 11:00,17th Match,KZNIN,WPR,"City Oval, Pietermaritzburg",post,107,"109/1 (15.3/20 ov, target 108)",WPR,KZNIN,bat,0,5,W Province won by 9 wkts (27b rem)
+1501253,2025-26,2025-11-14 15:00,18th Match,BOL,DOL,"Boland Park, Paarl",post,134/8,134 (20 ov),,BOL,bat,4,0,Match tied (Boland won the Super Over)
+1501254,2025-26,2025-11-14 16:00,19th Match,TIT,NWEST,"Senwes Park, Potchefstroom",post,196/6,"189/6 (20 ov, target 197)",TIT,NWEST,field,4,0,Titans won by 7 runs
+1501255,2025-26,2025-11-15 11:00,20th Match,WAR,KZNIN,"City Oval, Pietermaritzburg",post,181/7,"127 (18/20 ov, target 182)",WAR,KZNIN,field,5,0,Warriors won by 54 runs
+1501257,2025-26,2025-11-16 10:00,22nd Match,TIT,LIONS,"SuperSport Park, Centurion",post,,,,,,2,2,Match abandoned without a ball bowled
+1501256,2025-26,2025-11-16 11:30,21st Match,DOL,WPR,"Newlands, Cape Town",post,138/7,"139/5 (18.1/20 ov, target 139)",WPR,,,,,
+1501259,2025-26,2025-11-19 11:00,24th Match,NWEST,LIONS,"The Wanderers Stadium, Johannesburg",post,181/6,181/7 (20 ov),,LIONS,field,4,0,Match tied (North West won the Super Over)
+1501258,2025-26,2025-11-19 16:00,23rd Match,WAR,BOL,"St George's Park, Gqeberha",post,209/5,"111 (15.5/20 ov, target 210)",WAR,BOL,field,5,0,Warriors won by 98 runs
+1501260,2025-26,2025-11-21 10:00,25th Match,LIONS,WPR,"Newlands, Cape Town",post,201/2,"183/6 (20 ov, target 202)",LIONS,LIONS,bat,4,0,LIONS won by 18 runs
+1501261,2025-26,2025-11-21 11:30,26th Match,TIT,DOL,"SuperSport Park, Centurion",post,248/3 (20 ov),"104/3 (7 ov, target 104)",DOL,TIT,bat,0,4,Dolphins won by 7 wkts (0b rem) (D/L)
+1501262,2025-26,2025-11-22 11:00,27th Match,BOL,KZNIN,"City Oval, Pietermaritzburg",post,168/6,"121 (20 ov, target 169)",BOL,BOL,bat,5,0,Boland won by 47 runs
+1501263,2025-26,2025-11-23 11:00,28th Match,LIONS,DOL,"Kingsmead, Durban",post,194/2,"195/8 (19.4/20 ov, target 195)",DOL,DOL,field,0,4,Dolphins won by 2 wkts (2b rem)
+1501264,2025-26,2025-11-25 16:00,Qualifier 1,BOL,WAR,"Boland Park, Paarl",post,176/3,"171/6 (20 ov, target 177)",BOL,BOL,bat,,,Boland won by 5 runs
+1501265,2025-26,2025-11-26 08:00,Eliminator,DOL,WPR,"Kingsmead, Durban",post,141/8,"126/9 (20 ov, target 142)",DOL,WPR,field,,,Dolphins won by 15 runs
+1501266,2025-26,2025-11-28 08:00,Qualifier 2,DOL,WAR,"St George's Park, Gqeberha",post,64/0,,,WAR,field,,,No result
+1501267,2025-26,2025-11-30 11:00,Final,BOL,WAR,"Boland Park, Paarl",post,142/6,142/5 (20 ov),,BOL,bat,,,Match tied (Warriors won the Super Over)
+1551833,2026,2026-09-25 12:00,Pool A,WAR,NWEST,"SuperSport Park, Centurion",post,128/6,"131/3 (15.3/20 ov, target 129)",NWEST,NWEST,field,0,5,North West won by 7 wkts (27b rem)
+1551834,2026,2026-09-25 16:00,Pool B,WPR,TIT,"SuperSport Park, Centurion",post,186/4,"190/5 (14.5/20 ov, target 187)",TIT,TIT,field,0,5,Titans won by 5 wkts (31b rem)
+1551835,2026,2026-09-26 11:00,Pool A,NCAPE,BOR,"Diamond Oval, Kimberley",post,,,,,,2,2,Match abandoned without a ball bowled
+1551836,2026,2026-09-27 11:00,Pool A,LIONS,DOL,"Kingsmead, Durban",post,202/4,"194/6 (20 ov, target 203)",LIONS,LIONS,bat,4,0,LIONS won by 8 runs
+1551838,2026,2026-09-27 11:00,Pool B,MPR,TIT,"Uplands College, White River",post,75/2 (6/6 ov),"79/1 (5/6 ov, target 76)",TIT,MPR,bat,0,4,Titans won by 9 wkts (6b rem)
+1551837,2026,2026-09-27 16:00,Pool B,KNG,WPR,"Newlands, Cape Town",post,168/7,"169/5 (19.4/20 ov, target 169)",WPR,WPR,field,0,4,W Province won by 5 wkts (2b rem)
+1551839,2026,2026-09-28 11:00,Pool A,BOR,NWEST,"Buffalo Park, KuGumpo City",post,151/4,"138/9 (20 ov, target 152)",BOR,NWEST,field,4,0,Border won by 13 runs
+1551842,2026,2026-09-29 11:00,Pool B,SAEP,KZNIN,"LC de Villiers Oval, Pretoria",post,,,,,,2,2,Match abandoned without a ball bowled
+1551841,2026,2026-09-29 12:00,Pool A,WAR,LIMPO,"St George's Park, Gqeberha",post,175/4,"140/8 (20 ov, target 176)",WAR,WAR,bat,4,0,Warriors won by 35 runs
+1551840,2026,2026-09-29 16:00,Pool B,KNG,BOL,"Boland Park, Paarl",post,160/5,"161/5 (20 ov, target 161)",BOL,BOL,field,0,4,Boland won by 5 wkts (0b rem)
+1551843,2026,2026-09-30 16:00,Pool A,DOL,NCAPE,"Kingsmead, Durban",post,239/5,"135 (16.4/20 ov, target 240)",DOL,DOL,bat,5,0,Dolphins won by 104 runs
+1551844,2026,2026-09-30 16:00,Pool B,ESTORM,MPR,"Willowmoore Park, Benoni",post,,,,MPR,field,2,2,No result (abandoned with a toss)
+1551845,2026,2026-10-01 11:00,Pool A,SWD,BOR,"Recreation Ground, Oudtshoorn",pre,,,,,,,,
+1551847,2026,2026-10-02 11:00,Pool B,MPR,KZNIN,"Uplands College, White River",pre,,,,,,,,
+1551846,2026,2026-10-02 16:00,Pool B,KNG,TIT,"Mangaung Oval, Bloemfontein",pre,,,,,,,,
+1551848,2026,2026-10-02 16:00,Pool A,LIONS,NWEST,"The Wanderers Stadium, Johannesburg",pre,,,,,,,,
+1551852,2026,2026-10-04 11:00,Pool B,KZNIN,BOL,"City Oval, Pietermaritzburg",pre,,,,,,,,
+1551849,2026,2026-10-04 11:00,Pool A,LIMPO,DOL,"Cricket Club Ground, Polokwane",pre,,,,,,,,
+1551851,2026,2026-10-04 16:00,Pool A,WAR,LIONS,"St George's Park, Gqeberha",pre,,,,,,,,
+1551850,2026,2026-10-04 16:00,Pool B,WPR,SAEP,"Newlands, Cape Town",pre,,,,,,,,
+1551853,2026,2026-10-05 11:00,Pool A,LIMPO,SWD,"Cricket Club Ground, Polokwane",pre,,,,,,,,
+1551854,2026,2026-10-06 16:00,Pool B,WPR,ESTORM,"Newlands, Cape Town",pre,,,,,,,,
+1551857,2026,2026-10-07 11:00,Pool A,SWD,LIONS,"Recreation Ground, Oudtshoorn",pre,,,,,,,,
+1551855,2026,2026-10-07 16:00,Pool B,KNG,KZNIN,"Mangaung Oval, Bloemfontein",pre,,,,,,,,
+1551856,2026,2026-10-07 16:00,Pool B,TIT,SAEP,"SuperSport Park, Centurion",pre,,,,,,,,
+1551858,2026,2026-10-08 16:00,Pool B,BOL,ESTORM,"Boland Park, Paarl",pre,,,,,,,,
+1551859,2026,2026-10-08 16:00,Pool A,WAR,NCAPE,"St George's Park, Gqeberha",pre,,,,,,,,
+1551860,2026,2026-10-09 11:00,Pool A,BOR,DOL,"Buffalo Park, KuGumpo City",pre,,,,,,,,
+1551862,2026,2026-10-10 11:00,Pool B,MPR,WPR,"Uplands College, White River",pre,,,,,,,,
+1551861,2026,2026-10-10 16:00,Pool A,NWEST,SWD,"Senwes Park, Potchefstroom",pre,,,,,,,,
+1551863,2026,2026-10-11 11:00,Pool B,SAEP,BOL,"SuperSport Park, Centurion",pre,,,,,,,,
+1551864,2026,2026-10-11 16:00,Pool B,TIT,ESTORM,"SuperSport Park, Centurion",pre,,,,,,,,
+1551867,2026,2026-10-13 11:00,Pool B,KZNIN,TIT,"City Oval, Pietermaritzburg",pre,,,,,,,,
+1551832,2026,2026-10-13 11:00,Pool A,NCAPE,LIMPO,"Diamond Oval, Kimberley",pre,,,,,,,,
+1551865,2026,2026-10-13 16:00,Pool A,LIONS,BOR,"The Wanderers Stadium, Johannesburg",pre,,,,,,,,
+1551866,2026,2026-10-13 16:00,Pool A,NWEST,DOL,"Senwes Park, Potchefstroom",pre,,,,,,,,
+1551869,2026,2026-10-14 16:00,Pool B,KNG,ESTORM,"Mangaung Oval, Bloemfontein",pre,,,,,,,,
+1551868,2026,2026-10-14 16:00,Pool B,WPR,BOL,"Newlands, Cape Town",pre,,,,,,,,
+1551871,2026,2026-10-16 11:00,Pool A,LIMPO,BOR,"Cricket Club Ground, Polokwane",pre,,,,,,,,
+1551870,2026,2026-10-16 11:00,Pool A,SWD,WAR,"Recreation Ground, Oudtshoorn",pre,,,,,,,,
+1551872,2026,2026-10-17 16:00,Pool B,BOL,MPR,"Boland Park, Paarl",pre,,,,,,,,
+1551873,2026,2026-10-18 11:00,Pool A,LIONS,NCAPE,"The Wanderers Stadium, Johannesburg",pre,,,,,,,,
+1551874,2026,2026-10-18 11:00,Pool B,SAEP,KNG,"LC de Villiers Oval, Pretoria",pre,,,,,,,,
+1551875,2026,2026-10-20 16:00,Pool A,DOL,WAR,"Kingsmead, Durban",pre,,,,,,,,
+1551877,2026,2026-10-21 11:00,Pool A,NCAPE,SWD,"Diamond Oval, Kimberley",pre,,,,,,,,
+1551876,2026,2026-10-21 16:00,Pool A,NWEST,LIMPO,"Senwes Park, Potchefstroom",pre,,,,,,,,
+1551879,2026,2026-10-22 11:00,Pool B,MPR,SAEP,"Uplands College, White River",pre,,,,,,,,
+1551878,2026,2026-10-22 16:00,Pool B,ESTORM,KZNIN,"Willowmoore Park, Benoni",pre,,,,,,,,
+1551880,2026,2026-10-23 16:00,Pool A,DOL,SWD,"Kingsmead, Durban",pre,,,,,,,,
+1551883,2026,2026-10-24 11:00,Pool A,BOR,WAR,"Buffalo Park, KuGumpo City",pre,,,,,,,,
+1551882,2026,2026-10-24 11:00,Pool A,LIONS,LIMPO,"The Wanderers Stadium, Johannesburg",pre,,,,,,,,
+1551881,2026,2026-10-24 16:00,Pool B,KNG,MPR,"Mangaung Oval, Bloemfontein",pre,,,,,,,,
+1551884,2026,2026-10-25 11:00,Pool B,BOL,TIT,"Boland Park, Paarl",pre,,,,,,,,
+1551887,2026,2026-10-25 11:00,Pool B,ESTORM,SAEP,"Willowmoore Park, Benoni",pre,,,,,,,,
+1551886,2026,2026-10-25 11:00,Pool B,KZNIN,WPR,"City Oval, Pietermaritzburg",pre,,,,,,,,
+1551885,2026,2026-10-25 11:00,Pool A,NWEST,NCAPE,"Senwes Park, Potchefstroom",pre,,,,,,,,
+1551888,2026,2026-10-26 08:00,Super Eights,TBA,TBA,,pre,,,,,,,,
+1551889,2026,2026-10-27 08:00,Super Eights,TBA,TBA,,pre,,,,,,,,
+1551890,2026,2026-10-28 08:00,Super Eights,TBA,TBA,,pre,,,,,,,,
+1551891,2026,2026-10-29 08:00,Super Eights,TBA,TBA,,pre,,,,,,,,
+1551892,2026,2026-10-30 08:00,Super Eights,TBA,TBA,,pre,,,,,,,,
+1551893,2026,2026-10-31 08:00,Super Eights,TBA,TBA,,pre,,,,,,,,
+1551894,2026,2026-11-01 08:00,Super Eights,TBA,TBA,,pre,,,,,,,,
+1551895,2026,2026-11-02 08:00,Super Eights,TBA,TBA,,pre,,,,,,,,
+1551896,2026,2026-11-03 08:00,Super Eights,TBA,TBA,,pre,,,,,,,,
+1551897,2026,2026-11-03 08:00,Super Eights,TBA,TBA,,pre,,,,,,,,
+1551898,2026,2026-11-05 08:00,Super Eights,TBA,TBA,,pre,,,,,,,,
+1555480,2026,2026-11-06 08:00,Super Eights,TBA,TBA,,pre,,,,,,,,
+1555481,2026,2026-11-13 08:00,1st Semi-Final,TBA,TBA,,pre,,,,,,,,
+1555482,2026,2026-11-13 08:00,2nd Semi-Final,TBA,TBA,,pre,,,,,,,,
+1555483,2026,2026-11-14 08:00,Final,TBA,TBA,,pre,,,,,,,,

@@ -1,0 +1,555 @@
+player_key,name,cricinfo_id,cricbuzz_id,role,bat_style,bowl_style,dob
+ci:321757,Rudi Second,321757,,Allrounder,Right-hand bat,Right-arm offbreak,1989-07-17
+ci:499560,Patrick Kruger,499560,11902,Batting allrounder,Right-hand bat,Right-arm medium,1995-02-03
+ci:321777,David Miller,321777,6349,Middle-order batter,Left-hand bat,Right-arm offbreak,1989-06-10
+ci:266268,Pite van Biljon,266268,9710,Wicketkeeper batter,Right-hand bat,Right-arm medium,1986-04-15
+ci:464702,Diego Rosier,464702,8528,Middle-order batter,Right-hand bat,Legbreak,1994-05-02
+ci:44408,Tumelo Bodibe,44408,,Unknown,Right-hand bat,,1987-11-22
+ci:393279,Marchant de Lange,393279,,Bowler,Right-hand bat,Right-arm fast,1990-10-13
+ci:44938,Dillon du Preez,44938,,Unknown,Right-hand bat,Right-arm fast-medium,1981-11-08
+ci:334621,Shadley van Schalkwyk,334621,,Allrounder,Left-hand bat,Right-arm medium,1988-08-05
+ci:550226,Ntuli,550226,10798,Unknown,Right-hand bat,Right-arm offbreak,1995-11-15
+ci:594336,Lwandiswa Zuma,594336,11903,Bowler,Right-hand bat,Right-arm fast,1996-07-11
+ci:46148,Richard Levi,46148,,Opening batter,Right-hand bat,Right-arm medium,1988-01-14
+ci:429708,Cebo Tshiki,429708,,Unknown,Left-hand bat,Left-arm medium,1990-03-21
+ci:498582,Jason Smith,498582,9587,Top-order batter,Right-hand bat,Right-arm medium-fast,1994-10-11
+ci:46681,Justin Ontong,46681,,Allrounder,Right-hand bat,Right-arm offbreak,1980-01-04
+ci:485676,Keegan Petersen,485676,10178,Top-order batter,Right-hand bat,Legbreak,1993-08-08
+ci:230559,Kieron Pollard,230559,,Batting allrounder,Right-hand bat,Right-arm medium,1987-05-12
+ci:314991,Aviwe Mgijima,314991,9766,Allrounder,Right-hand bat,Right-arm offbreak,1988-08-10
+ci:481875,George Linde,481875,10187,Allrounder,Left-hand bat,Slow left-arm orthodox,1991-12-04
+ci:45949,Rory Kleinveldt,45949,,Bowler,Right-hand bat,Right-arm fast-medium,1983-03-15
+ci:327947,Dane Paterson,327947,9702,Bowler,Right-hand bat,Right-arm fast-medium,1989-04-04
+ci:594235,Tshepo Lebohang Moreki,594235,10679,Bowler,Right-hand bat,Right-arm fast-medium,1993-10-07
+ci:44752,Henry Davids,44752,,Top-order batter,Right-hand bat,Right-arm medium-fast,1980-01-19
+ci:230856,Mokoena,230856,9731,Middle-order batter,Right-hand bat,Left-arm fast-medium,1987-08-02
+ci:45955,Heino Kuhn,45955,1666,Wicketkeeper batter,Right-hand bat,,1984-04-01
+ci:225676,Qaasim Adams,225676,,Unknown,Left-hand bat,Right-arm medium,1984-04-29
+ci:46248,Albie Morkel,46248,,Bowling allrounder,Left-hand bat,Right-arm medium-fast,1981-06-10
+ci:44410,Farhaan Behardien,44410,8283,Batting allrounder,Right-hand bat,Right-arm fast-medium,1983-10-09
+ci:436757,Klaasen,436757,10209,Wicketkeeper batter,Right-hand bat,Right-arm offbreak,1991-07-30
+ci:221140,David Wiese,221140,8589,Allrounder,Right-hand bat,Right-arm medium-fast,1985-05-18
+ci:230861,Malusi Siboto,230861,,Bowler,Left-hand bat,Right-arm medium,1987-08-20
+ci:393289,Shaun von Berg,393289,9736,Bowling allrounder,Right-hand bat,Legbreak,1986-09-16
+ci:542023,Lungi Ngidi,542023,9603,Bowler,Right-hand bat,Right-arm fast-medium,1996-03-29
+ci:269280,Reeza Hendricks,269280,9491,Opening batter,Right-hand bat,Right-arm offbreak,1989-08-14
+ci:337790,Rassie van der Dussen,337790,,Top-order batter,Right-hand bat,Legbreak,1989-02-07
+ci:379147,Dominic Hendricks,379147,9730,Top-order batter,Left-hand bat,Right-arm offbreak,1990-11-07
+ci:553249,Bjorn Fortuin,553249,10676,Bowler,Right-hand bat,Slow left-arm orthodox,1994-10-21
+ci:698189,Wiaan Mulder,698189,,Allrounder,Right-hand bat,Right-arm medium,1998-02-19
+ci:440554,Nicky van den Bergh,440554,,Unknown,Right-hand bat,,1989-06-20
+ci:327832,Mangaliso Mosehle,327832,,Wicketkeeper batter,Right-hand bat,,1990-04-24
+ci:486490,Matt McGillivray,486490,,Unknown,Right-hand bat,Right-arm medium-fast,1990-08-28
+ci:375126,Viljoen,375126,9493,Bowler,Right-hand bat,Right-arm fast,1989-03-06
+ci:46942,Aaron Phangiso,46942,,Bowler,Right-hand bat,Slow left-arm orthodox,1984-01-21
+ci:46149,Eddie Leie,46149,,Bowler,Right-hand bat,Legbreak,1986-11-16
+ci:47711,Morne van Wyk,47711,,Wicketkeeper batter,Right-hand bat,Slow left-arm orthodox,1979-03-20
+ci:322810,Cameron Delport,322810,,Top-order batter,Left-hand bat,Right-arm medium,1989-05-12
+ci:318842,Khaya Zondo,318842,9724,Batter,Right-hand bat,Right-arm offbreak,1990-03-07
+ci:47846,Vaughn van Jaarsveld,47846,,Opening batter,Left-hand bat,Right-arm medium,1985-02-02
+ci:277797,Nipper,277797,9779,Unknown,Left-hand bat,Slow left-arm orthodox,1987-11-25
+ci:322815,Cody Chetty,322815,,Batter,Right-hand bat,Right-arm offbreak,1991-06-28
+ci:540316,Phehlukwayo,540316,9601,Bowling allrounder,Left-hand bat,Right-arm medium-fast,1996-03-03
+ci:45204,Robbie Frylinck,45204,,Allrounder,Right-hand bat,Right-arm medium,1984-09-27
+ci:44019,Craig Alexander,44019,,Unknown,Right-hand bat,Right-arm fast-medium,1987-01-05
+ci:40618,Imran Tahir,40618,,Bowler,Right-hand bat,Legbreak googly,1979-03-27
+ci:230860,Mthokozisi Shezi,230860,,Bowler,Left-hand bat,Left-arm medium,1987-09-09
+ci:280490,Smuts,280490,7668,Batting allrounder,Right-hand bat,Slow left-arm orthodox,1988-09-21
+ci:373321,Somila Seyibokwe,373321,,Unknown,Right-hand bat,Right-arm medium,1987-10-31
+ci:45705,Colin Ingram,45705,,Top-order batter,Left-hand bat,Legbreak,1985-07-03
+ci:379774,Colin Ackermann,379774,,Batting allrounder,Right-hand bat,Right-arm offbreak,1991-04-04
+ci:222320,Christiaan Jonker,222320,9764,Middle-order batter,Right-hand bat,Right-arm medium-fast,1986-09-24
+ci:429903,Lesiba Ngoepe,429903,,Allrounder,Left-hand bat,Slow left-arm orthodox,1993-04-14
+ci:596137,Fortuin,596137,9580,Wicketkeeper batter,Right-hand bat,,1995-08-18
+ci:437691,Solo Nqweni,437691,,Unknown,Right-hand bat,Right-arm fast-medium,1993-10-20
+ci:44413,Andrew Birch,44413,,Unknown,Right-hand bat,Right-arm medium-fast,1985-06-07
+ci:379776,Sisanda Magala,379776,,Bowler,Right-hand bat,Right-arm fast-medium,1991-01-07
+ci:316909,Walters,316909,9729,Bowler,Right-hand bat,Right-arm medium-fast,1986-09-16
+ci:234064,Nkululeko Serame,234064,,Unknown,Right-hand bat,Right-arm offbreak,1987-01-26
+ci:545467,Junior Dala,545467,10175,Bowler,Right-hand bat,Right-arm medium,1989-12-29
+ci:281226,Letlotlo Sesele,281226,,Unknown,Right-hand bat,,1988-03-23
+ci:486679,Duanne Olivier,486679,,Bowler,Right-hand bat,Right-arm fast-medium,1992-05-09
+ci:285687,Vandiar,285687,7651,Batter,Left-hand bat,Legbreak,1990-04-25
+ci:19296,Kevin Pietersen,19296,,Top-order batter,Right-hand bat,Right-arm offbreak,1980-06-27
+ci:437438,Prenelan Subrayen,437438,8530,Allrounder,Right-hand bat,Right-arm offbreak,1993-09-23
+ci:262159,Mbasa Gqadushe,262159,,Middle-order batter,Left-hand bat,,1986-03-24
+ci:381033,Patrick Botha,381033,10197,Unknown,Left-hand bat,Right-arm offbreak,1990-01-23
+ci:543041,Budaza,543041,10993,Bowler,Right-hand bat,Left-arm fast,1993-09-06
+ci:315062,Omphile Ramela,315062,,Unknown,Left-hand bat,Slow left-arm orthodox,1988-03-14
+ci:379140,Devon Conway,379140,,Wicketkeeper batter,Left-hand bat,Right-arm medium,1991-07-08
+ci:785673,Nono Pongolo,785673,,Unknown,Right-hand bat,Right-arm medium,1989-08-18
+ci:265564,Parnell,265564,1692,Bowler,Left-hand bat,Left-arm medium-fast,1989-07-30
+ci:322812,David White,322812,,Top-order batter,Right-hand bat,Right-arm medium-fast,1991-05-22
+ci:485379,Andries Gous,485379,,Wicketkeeper batter,Right-hand bat,,1993-11-24
+ci:486672,Theunis de Bruyn,486672,8519,Middle-order batter,Right-hand bat,Right-arm medium-fast,1992-10-08
+ci:379088,Rabian Engelbrecht,379088,,Unknown,Right-hand bat,Right-arm medium-fast,1992-11-04
+ci:379927,Beuran Hendricks,379927,9490,Bowler,Left-hand bat,Left-arm fast-medium,1990-06-08
+ci:600498,Aiden Markram,600498,,Middle-order batter,Right-hand bat,Right-arm offbreak,1994-10-04
+ci:379926,Dane Piedt,379926,9530,Bowler,Right-hand bat,Right-arm offbreak,1990-03-06
+ci:379879,Ayavuya Myoli,379879,,Bowler,Right-hand bat,Right-arm fast,1990-06-08
+ci:276843,Swanepoel,276843,10797,Batting allrounder,Right-hand bat,Right-arm offbreak,1989-06-18
+ci:322818,Ayabulela Gqamane,322818,,Bowling allrounder,Right-hand bat,Right-arm fast-medium,1989-08-30
+ci:327830,Dwaine Pretorius,327830,,Bowling allrounder,Right-hand bat,Right-arm medium-fast,1989-03-29
+ci:333879,Erlank,333879,9703,Unknown,Left-hand bat,Right-arm offbreak,1990-07-04
+ci:595739,Leus du Plooy,595739,11398,Middle-order batter,Left-hand bat,Slow left-arm orthodox,1995-01-12
+ci:321758,Luthando Mnyanda,321758,,Unknown,Right-hand bat,Right-arm offbreak,1989-10-22
+ci:379145,Tabraiz Shamsi,379145,,Bowler,Right-hand bat,Left-arm wrist-spin,1990-02-18
+ci:381030,Gihahn Cloete,381030,8517,Wicketkeeper batter,Left-hand bat,Right-arm offbreak,1992-10-04
+ci:267724,Maharaj,267724,9720,Bowler,Right-hand bat,Slow left-arm orthodox,1990-02-07
+ci:262456,Dane Vilas,262456,,Wicketkeeper batter,Right-hand bat,,1985-06-10
+ci:429927,Corné Dry,429927,,Allrounder,Right-hand bat,Right-arm medium-fast,1993-02-04
+ci:44932,Jean-Paul Duminy,44932,,Batting allrounder,Left-hand bat,Right-arm offbreak,1984-04-14
+ci:594233,Sibonelo Makhanya,594233,,Middle-order batter,Right-hand bat,Right-arm medium,1996-03-07
+ci:372116,Temba Bavuma,372116,,Middle-order batter,Right-hand bat,Right-arm medium,1990-05-17
+ci:297583,Kyle Abbott,297583,,Bowler,Right-hand bat,Right-arm fast-medium,1987-06-18
+ci:379873,Jerry Nqolo,379873,,Unknown,Right-hand bat,Right-arm medium,1991-07-23
+ci:46393,Ryan McLaren,46393,,Allrounder,Left-hand bat,Right-arm medium-fast,1983-02-09
+ci:324260,Sarel Erwee,324260,,Opening batter,Left-hand bat,Right-arm offbreak,1989-11-10
+ci:698343,Eathan Bosch,698343,13098,Bowler,Right-hand bat,Right-arm fast,1998-04-27
+ci:699719,Smangaliso Nhlebela,699719,13099,Unknown,Right-hand bat,Slow left-arm orthodox,1994-06-02
+ci:43906,Hashim Amla,43906,,Top-order batter,Right-hand bat,Right-arm medium,1983-03-31
+ci:46945,Vernon Philander,46945,,Allrounder,Right-hand bat,Right-arm fast-medium,1985-06-24
+ci:977991,Mthiwekhaya Nabe,977991,,Bowler,Right-hand bat,Right-arm medium,1995-10-31
+ci:379143,Quinton de Kock,379143,,Wicketkeeper batter,Left-hand bat,,1992-12-17
+ci:44936,AB de Villiers,44936,,Wicketkeeper batter,Right-hand bat,Right-arm medium,1984-02-17
+ci:47492,Dale Steyn,47492,,Bowler,Right-hand bat,Right-arm fast,1983-06-27
+ci:230852,Dean Elgar,230852,,Opening batter,Left-hand bat,Slow left-arm orthodox,1987-06-11
+ci:327829,Kelly Smuts,327829,8096,Unknown,Left-hand bat,Right-arm medium,1990-01-22
+ci:550215,Kagiso Rabada,550215,,Bowler,Left-hand bat,Right-arm fast,1995-05-25
+ci:549288,Ferisco Adams,549288,10194,Bowling allrounder,Right-hand bat,Right-arm fast-medium,1989-07-12
+ci:595004,Kyle Verreynne,595004,,Wicketkeeper batter,Right-hand bat,Right-arm offbreak,1997-05-12
+ci:605661,Ryan Rickelton,605661,,Wicketkeeper batter,Left-hand bat,,1996-07-11
+ci:596436,MJ Ackerman,596436,12188,Middle-order batter,Left-hand bat,Right-arm offbreak,1996-03-01
+ci:439952,Chris Morris,439952,,Bowling allrounder,Right-hand bat,Right-arm fast-medium,1987-04-30
+ci:327831,Yaseen Vallie,327831,,Unknown,Right-hand bat,Right-arm offbreak,1989-07-30
+ci:697183,Tony de Zorzi,697183,11196,Top-order batter,Left-hand bat,Right-arm offbreak,1997-08-28
+ci:986641,Carlos Koyana,986641,,Wicketkeeper,Right-hand bat,,1993-01-19
+ci:596489,Rivaldo Moonsamy,596489,11206,Batter,Right-hand bat,Right-arm offbreak,1996-09-13
+ci:46538,Morne Morkel,46538,,Bowler,Left-hand bat,Right-arm fast,1984-10-06
+ci:688143,Shimane Alfred Mothoa,688143,12587,Bowler,Right-hand bat,Right-arm fast-medium,1989-12-16
+ci:450142,Grant Thomson,450142,,Unknown,Right-hand bat,Right-arm medium-fast,1988-03-18
+ci:596097,Rubin Hermann,596097,24066,Wicketkeeper,Left-hand bat,,1997-01-26
+ci:601150,Eldred Hawken,601150,10992,Bowler,Right-hand bat,Right-arm fast,1989-05-02
+ci:595267,Matthew Breetzke,595267,,Batter,Right-hand bat,,1998-11-03
+ci:485216,Marco Marais,485216,13515,Unknown,Right-hand bat,Right-arm medium-fast,1993-10-17
+ci:952207,Sinethemba Qeshile,952207,,Top-order batter,Right-hand bat,,1999-02-10
+ci:595647,Onke Nyaku,595647,,Unknown,Right-hand bat,Right-arm medium-fast,1994-09-26
+ci:595907,Jade de Klerk,595907,13321,Bowler,Right-hand bat,Slow left-arm orthodox,1999-02-24
+ci:698143,Lutho Sipamla,698143,,Bowler,Right-hand bat,Right-arm fast-medium,1998-05-12
+ci:485228,Thandolwethu Mnyaka,485228,,Unknown,Right-hand bat,Right-arm medium-fast,1993-01-15
+ci:501907,Daryn Dupavillon,501907,,Bowler,Right-hand bat,Right-arm fast,1994-07-15
+ci:605680,Janneman Malan,605680,13067,Top-order batter,Right-hand bat,Legbreak,1996-04-18
+ci:498585,David Bedingham,498585,,Middle-order batter,Right-hand bat,,1994-04-22
+ci:380990,Simon Khomari,380990,,Unknown,Left-hand bat,Slow left-arm orthodox,1991-10-10
+ci:488620,Tladi Bokako,488620,11872,Bowler,Right-hand bat,Right-arm fast,1993-04-21
+ci:429886,Wihan Lubbe,429886,11497,Top-order batter,Left-hand bat,Right-arm offbreak,1992-11-22
+ci:543195,Gregory Mahlokwana,543195,,Unknown,Left-hand bat,Slow left-arm orthodox,1994-12-14
+ci:381006,Thomas Kaber,381006,13068,Allrounder,Right-hand bat,Left-arm wrist-spin,1992-06-14
+ci:595380,van Tonder,595380,13317,Middle-order batter,Right-hand bat,,1998-09-26
+ci:596010,Gerald Coetzee,596010,13320,Bowler,Right-hand bat,Right-arm fast,2000-10-02
+ci:535353,Ottneil Baartman,535353,13100,Bowler,Right-hand bat,Right-arm medium-fast,1993-03-18
+ci:605683,Migael Pretorius,605683,13069,Bowler,Right-hand bat,Right-arm fast-medium,1995-03-24
+ci:596392,Sithembile Langa,596392,13523,Unknown,Right-hand bat,Right-arm fast,1995-10-09
+ci:379887,Lizaad Williams,379887,,Bowler,Left-hand bat,Right-arm medium-fast,1993-10-01
+ci:535393,Senuran Muthusamy,535393,11432,Batting allrounder,Left-hand bat,Slow left-arm orthodox,1994-02-22
+ci:396880,Luvuyo Adam,396880,,Unknown,Left-hand bat,Slow left-arm orthodox,1992-12-16
+ci:271165,Matthew Arnold,271165,,Unknown,Left-hand bat,Right-arm fast-medium,1988-10-16
+ci:595978,Tristan Stubbs,595978,19243,Wicketkeeper batter,Right-hand bat,Right-arm offbreak,2000-08-14
+ci:696401,Marco Jansen,696401,14565,Bowling allrounder,Right-hand bat,Left-arm fast,2000-05-01
+ci:481979,Anrich Nortje,481979,,Bowler,Right-hand bat,Right-arm fast,1993-11-16
+ci:595643,Lizo Makhosi,595643,,Unknown,Left-hand bat,Left-arm wrist-spin,1994-11-11
+ci:432960,Simon Harmer,432960,,Bowler,Right-hand bat,Right-arm offbreak,1989-02-10
+ci:595618,Okuhle Cele,595618,12191,Bowler,Right-hand bat,Right-arm fast,1997-07-09
+ci:550187,Zubayr Hamza,550187,10973,Batter,Right-hand bat,Legbreak,1995-06-19
+ci:594322,Corbin Bosch,594322,13386,Allrounder,Right-hand bat,Right-arm fast-medium,1994-09-10
+ci:450881,Calvin Savage,450881,,Allrounder,Right-hand bat,Right-arm fast-medium,1993-01-04
+ci:437506,Imran Manack,437506,14687,Bowler,Right-hand bat,Right-arm offbreak,1991-12-23
+ci:596537,Siyabonga Mahima,596537,19058,Unknown,Left-hand bat,Slow left-arm orthodox,1996-05-09
+ci:696297,Ziyaad Abrahams,696297,,Bowler,Right-hand bat,Right-arm fast,1997-03-27
+ci:594329,Jacques Snyman,594329,14552,Batting allrounder,Right-hand bat,Right-arm offbreak,1994-05-10
+ci:595910,Wandile Makwetu,595910,11205,Middle-order batter,Right-hand bat,,1999-01-07
+ci:698321,Ruan de Swardt,698321,15852,Unknown,Left-hand bat,Right-arm medium-fast,1998-01-21
+ci:594335,Kerwin Mungroo,594335,13150,Bowler,Right-hand bat,Right-arm fast,1994-07-31
+ci:596442,Delano Potgieter,596442,14566,Middle-order batter,Left-hand bat,Right-arm medium,1996-08-05
+ci:699723,Grant Roelofsen,699723,14187,Wicketkeeper batter,Right-hand bat,,1996-07-26
+ci:550189,Dayyaan Galiem,550189,9581,Bowling allrounder,Right-hand bat,Right-arm medium-fast,1997-01-02
+ci:297477,Matthew Kleinveldt,297477,11270,Unknown,Left-hand bat,Right-arm offbreak,1989-08-10
+ci:596084,Haasbroek,596084,19238,Unknown,Right-hand bat,Right-arm offbreak,1997-04-18
+ci:277390,Pieter Malan,277390,11891,Opening batter,Right-hand bat,Right-arm medium-fast,1989-08-12
+ci:948449,Hlomla Hanabe,948449,,Unknown,Right-hand bat,,2001-06-12
+ci:696587,Jonathan Bird,696587,14582,Opening batter,Left-hand bat,Left-arm wrist-spin,2001-04-11
+ci:594995,Gavin Kaplan,594995,22051,Wicketkeeper,Right-hand bat,Right-arm offbreak,1998-02-07
+ci:948593,Mihlali Mpongwana,948593,,Bowling allrounder,Right-hand bat,Right-arm medium,2000-05-15
+ci:605640,Junaid Dawood,605640,,Bowler,Right-hand bat,Legbreak,1996-10-02
+ci:696439,Tiaan van Vuuren,696439,15127,Allrounder,Right-hand bat,Left-arm medium-fast,2001-07-31
+ci:973815,Tsepo Ndwandwa,973815,14428,Bowler,Right-hand bat,Slow left-arm orthodox,1995-04-16
+ci:698315,Donovan Ferreira,698315,14798,Allrounder,Right-hand bat,Right-arm offbreak,1998-07-21
+ci:550209,Wesley Marshall,550209,15654,Opening batter,Right-hand bat,Right-arm medium,1994-01-04
+ci:596073,Lesego Senokwane,596073,18142,Top-order batter,Right-hand bat,Right-arm offbreak,1997-05-24
+ci:595954,Duan Jansen,595954,18523,Bowler,Right-hand bat,Left-arm fast,2000-05-01
+ci:379239,Johannes Diseko,379239,,Unknown,Right-hand bat,Slow left-arm orthodox,1990-10-02
+ci:595408,Chad Classen,595408,11340,Unknown,Right-hand bat,Right-arm fast,1997-01-17
+ci:946365,Caleb Seleka,946365,20526,Bowler,Right-hand bat,Legbreak,2002-11-22
+ci:982593,Joshua Richards,982593,14430,Top-order batter,Right-hand bat,Legbreak,1998-12-20
+ci:698199,Mitchell Van Buuren,698199,,Middle-order batter,Right-hand bat,Legbreak googly,1998-01-21
+ci:595406,Dadswell,595406,20257,Middle-order batter,Right-hand bat,Right-arm medium-fast,1997-11-18
+ci:949461,Codi Yusuf,949461,24546,Allrounder,Right-hand bat,Right-arm medium,1998-04-10
+ci:595439,Nealan van Heerden,595439,,Bowler,Left-hand bat,Right-arm fast,1997-01-27
+ci:1071000,Bryce Parsons,1071000,14586,Batting allrounder,Left-hand bat,Slow left-arm orthodox,2001-02-13
+ci:948523,Odirile Modimokoane,948523,15921,Unknown,Right-hand bat,Slow left-arm orthodox,2001-07-10
+ci:946367,Michael Copeland,946367,15123,Middle-order batter,Right-hand bat,Right-arm offbreak,2002-04-10
+ci:606231,Zakhele Qwabe,606231,10080,Unknown,Right-hand bat,Right-arm medium-fast,1988-05-25
+ci:595881,Jason Raubenheimer,595881,,Unknown,Right-hand bat,Right-arm medium,1999-01-04
+ci:695245,Thando Ntini,695245,13324,Bowler,Left-hand bat,Right-arm fast,2000-07-07
+ci:1203962,Alindile Mhletywa,1203962,22061,Unknown,,,
+ci:596426,Stefan Tait,596426,,Unknown,Left-hand bat,Left-arm fast,1996-03-14
+ci:1070665,Dewald Brevis,1070665,20538,Middle-order batter,Right-hand bat,Legbreak,2003-04-29
+ci:379139,Kagiso Rapulana,379139,11435,Unknown,Right-hand bat,Right-arm medium,1991-07-06
+ci:952211,Kyle Jacobs,952211,20448,Unknown,Right-hand bat,Legbreak,1998-04-20
+ci:595882,Akhona Mnyaka,595882,13066,Bowler,Right-hand bat,Left-arm fast,1999-06-22
+ci:595926,Klijnhans,595926,24071,Unknown,Left-hand bat,Left-arm medium,2000-02-09
+ci:946375,Tahir Isaacs,946375,20536,Unknown,Left-hand bat,Right-arm medium,2002-01-03
+ci:498838,Ndumiso Mvelase,498838,,Unknown,Right-hand bat,Right-arm offbreak,1996-08-23
+ci:550251,Kyle Simmonds,550251,12223,Bowling allrounder,Left-hand bat,Slow left-arm orthodox,1994-01-06
+ci:605664,Juan Landsberg,605664,,Unknown,Left-hand bat,Legbreak,1996-02-15
+ci:946351,Valentine Kitime,946351,50976,Middle-order batter,Right-hand bat,Right-arm medium,2003-04-19
+ci:946453,Daniel Smith,946453,20267,Wicketkeeper batter,Left-hand bat,Left-arm medium,2002-03-19
+ci:1255248,Jordan Hermann,1255248,21386,Middle-order batter,Left-hand bat,,2001-12-04
+ci:698319,Beyers Swanepoel,698319,16433,Allrounder,Left-hand bat,Right-arm fast,1998-05-06
+ci:481803,Glenton Stuurman,481803,14516,Bowler,Right-hand bat,Right-arm fast-medium,1992-08-10
+ci:948513,Kgaudisa Molefe,948513,13394,Bowler,Right-hand bat,Slow left-arm orthodox,2000-02-09
+ci:948545,Motlhoaring,948545,20312,Allrounder,Right-hand bat,Right-arm medium,2001-08-23
+ci:698115,Nathan Roux,698115,23936,Wicketkeeper batter,Right-hand bat,,1998-04-09
+ci:1070783,Mbongiseni Mhlanga,1070783,24574,Bowler,Left-hand bat,Left-arm medium,2003-09-12
+ci:46797,Andrew Puttick,46797,,Unknown,Left-hand bat,,1980-12-11
+ci:267479,Stiaan van Zyl,267479,,Batting allrounder,Left-hand bat,Right-arm medium,1987-09-19
+ci:20123,Owais Shah,20123,,Batter,Right-hand bat,Right-arm offbreak,1978-10-22
+ci:44111,Mark Boucher,44111,,Wicketkeeper batter,Right-hand bat,Right-arm medium,1976-12-03
+ci:46075,Johann Louw,46075,,Bowler,Right-hand bat,Right-arm medium-fast,1979-04-12
+ci:45387,Alistair Gray,45387,,Unknown,Right-hand bat,Legbreak,1982-07-08
+ci:46788,Ashwell Prince,46788,,Top-order batter,Left-hand bat,Right-arm offbreak,1977-05-28
+ci:44091,Nicky Boje,44091,,Bowler,Left-hand bat,Slow left-arm orthodox,1973-03-20
+ci:45842,Justin Kreusch,45842,,Unknown,Right-hand bat,Right-arm medium,1979-09-27
+ci:47662,Craig Thyssen,47662,,Unknown,Right-hand bat,Right-arm medium-fast,1984-03-25
+ci:45712,Arno Jacobs,45712,,Unknown,Left-hand bat,Right-arm offbreak,1977-03-13
+ci:46512,Lyall Meyer,46512,,Unknown,Left-hand bat,Right-arm fast,1982-03-23
+ci:46592,Makhaya Ntini,46592,,Bowler,Right-hand bat,Right-arm fast,1977-07-06
+ci:318845,Rossouw,318845,2244,Top-order batter,Left-hand bat,Right-arm offbreak,1989-10-09
+ci:328160,Obus Pienaar,328160,,Allrounder,Right-hand bat,Slow left-arm orthodox,1989-12-12
+ci:44400,Ryan Bailey,44400,,Unknown,Right-hand bat,Right-arm medium,1982-09-07
+ci:44660,Werner Coetsee,44660,,Unknown,Right-hand bat,Right-arm offbreak,1983-03-16
+ci:47693,Johan van der Wath,47693,,Allrounder,Right-hand bat,Right-arm medium-fast,1978-01-10
+ci:280267,Terblanche,280267,14588,Unknown,Left-hand bat,Left-arm fast-medium,1986-06-10
+ci:46934,Alviro Petersen,46934,,Batter,Right-hand bat,Right-arm offbreak,1980-11-25
+ci:46208,Neil McKenzie,46208,,Opening batter,Right-hand bat,Right-arm medium,1975-11-24
+ci:222159,Jean Symes,222159,,Unknown,Left-hand bat,Slow left-arm orthodox,1986-11-13
+ci:47630,Thami Tsolekile,47630,,Unknown,Right-hand bat,Right-arm offbreak,1980-10-09
+ci:44396,Shane Burger,44396,,Unknown,Right-hand bat,Right-arm fast-medium,1982-08-31
+ci:370961,Ethan O'Reilly,370961,,Unknown,Right-hand bat,Right-arm fast,1985-12-27
+ci:46211,Adrian McLaren,46211,,Unknown,Right-hand bat,,1980-04-21
+ci:47660,Ryan ten Doeschate,47660,,Allrounder,Right-hand bat,Right-arm medium-fast,1980-06-30
+ci:10772,Paul Collingwood,10772,,Allrounder,Right-hand bat,Right-arm medium,1976-05-26
+ci:46950,Cobus Pienaar,46950,,Unknown,Left-hand bat,Right-arm medium-fast,1985-10-23
+ci:281764,Richard Cameron,281764,,Unknown,Right-hand bat,Right-arm bowler,1986-06-17
+ci:44666,Ryan Canning,44666,,Unknown,Right-hand bat,,1984-02-22
+ci:46931,Charl Pietersen,46931,,Unknown,Left-hand bat,Left-arm medium-fast,1983-01-06
+ci:429014,Siya Simetu,429014,,Unknown,Right-hand bat,Slow left-arm orthodox,1991-08-22
+ci:282357,Pumelela Matshikwe,282357,,Unknown,Right-hand bat,Right-arm medium,1984-06-19
+ci:44098,Loots Bosman,44098,,Opening batter,Right-hand bat,Right-arm medium,1977-04-14
+ci:45932,Imraan Khan,45932,,Batter,Left-hand bat,Right-arm offbreak,1984-04-27
+ci:47490,Daryn Smit,47490,,Unknown,Right-hand bat,Legbreak,1984-01-28
+ci:47015,Jacques Rudolph,47015,,Top-order batter,Left-hand bat,Legbreak googly,1981-05-04
+ci:47850,Roelof van der Merwe,47850,,Bowling allrounder,Right-hand bat,Slow left-arm orthodox,1984-12-31
+ci:47700,Martin van Jaarsveld,47700,,Top-order batter,Right-hand bat,Right-arm medium,1974-06-18
+ci:266766,Cornelius de Villiers,266766,,Unknown,Right-hand bat,Right-arm medium-fast,1986-03-16
+ci:47569,Alfonso Thomas,47569,,Bowler,Right-hand bat,Right-arm fast-medium,1977-02-09
+ci:45568,Paul Harris,45568,,Bowler,Right-hand bat,Slow left-arm orthodox,1978-11-02
+ci:221324,Rowan Richards,221324,,Unknown,Left-hand bat,Left-arm fast-medium,1984-07-08
+ci:45963,Charl Langeveldt,45963,,Bowler,Right-hand bat,Right-arm fast-medium,1974-12-17
+ci:23460,Luke Wright,23460,,Top-order batter,Right-hand bat,Right-arm medium,1985-03-07
+ci:5197,Ben Edmondson,5197,,Bowler,Left-hand bat,Right-arm fast-medium,1978-09-28
+ci:44937,Athenkosi Dyili,44937,,Unknown,Left-hand bat,,1984-07-17
+ci:393273,Eden Links,393273,,Unknown,Right-hand bat,Right-arm offbreak,1989-03-25
+ci:223642,Rusty Theron,223642,,Bowler,Right-hand bat,Right-arm medium-fast,1985-07-24
+ci:45197,Quinton Friend,45197,,Unknown,Right-hand bat,Right-arm fast-medium,1982-02-16
+ci:51782,Fidel Edwards,51782,,Bowler,Right-hand bat,Right-arm fast,1982-02-06
+ci:46526,Ethy Mbhalati,46526,,Unknown,Right-hand bat,Right-arm medium-fast,1981-11-18
+ci:44089,Gulam Bodi,44089,,Opening batter,Left-hand bat,Left-arm wrist-spin,1979-01-04
+ci:6981,Dirk Nannes,6981,,Bowler,Right-hand bat,Left-arm fast,1976-05-16
+ci:45224,Herschelle Gibbs,45224,,Opening batter,Right-hand bat,Right-arm bowler,1974-02-23
+ci:5681,Brad Hogg,5681,,Allrounder,Left-hand bat,Left-arm wrist-spin,1971-02-06
+ci:44667,Jandre Coetzee,44667,,Unknown,Left-hand bat,Left-arm medium,1984-01-15
+ci:43265,Sohail Tanvir,43265,,Bowler,Left-hand bat,Left-arm medium-fast,1984-12-12
+ci:45797,Justin Kemp,45797,,Bowling allrounder,Right-hand bat,Right-arm fast-medium,1977-10-02
+ci:44828,Faf du Plessis,44828,,Middle-order batter,Right-hand bat,Legbreak,1984-07-13
+ci:44149,Johan Botha,44149,,Allrounder,Right-hand bat,Right-arm offbreak,1982-05-02
+ci:45782,Davy Jacobs,45782,,Wicketkeeper batter,Right-hand bat,Right-arm medium,1982-11-04
+ci:316103,Brett Pelser,316103,,Unknown,Right-hand bat,Right-arm medium-fast,1985-04-23
+ci:39024,Azhar Mahmood,39024,,Bowling allrounder,Right-hand bat,Right-arm fast-medium,1975-02-28
+ci:10582,Ravi Bopara,10582,,Batting allrounder,Right-hand bat,Right-arm medium,1985-05-04
+ci:18632,Samit Patel,18632,,Allrounder,Right-hand bat,Slow left-arm orthodox,1984-11-30
+ci:47851,Divan van Wyk,47851,,Unknown,Left-hand bat,Right-arm offbreak,1985-02-25
+ci:224367,Yusuf Abdulla,224367,,Bowler,Left-hand bat,Left-arm fast-medium,1983-01-17
+ci:38407,Scott Styris,38407,,Allrounder,Right-hand bat,Right-arm medium,1975-07-10
+ci:46159,Lundi Mbane,46159,,Unknown,Right-hand bat,Right-arm medium,1982-10-10
+ci:277798,Francois Plaatjies,277798,,Unknown,Right-hand bat,Right-arm fast-medium,1986-08-26
+ci:221293,Lefa Mosena,221293,,Unknown,Right-hand bat,,1987-03-18
+ci:481975,Edward Moore,481975,,Unknown,Left-hand bat,Right-arm offbreak,1993-03-17
+ci:47270,Graeme Smith,47270,,Opening batter,Left-hand bat,Right-arm offbreak,1981-02-01
+ci:46750,Russell Peterson,46750,1431611,Bowler,Left-hand bat,Slow left-arm orthodox,1979-08-04
+ci:315035,Sybrand Engelbrecht,315035,,Allrounder,Right-hand bat,Right-arm offbreak,1988-09-15
+ci:230558,Sunil Narine,230558,,Bowling allrounder,Left-hand bat,Right-arm offbreak,1988-05-26
+ci:381002,Graeme van Buuren,381002,,Bowling allrounder,Right-hand bat,Slow left-arm orthodox,1990-08-22
+ci:42699,Saeed Ajmal,42699,,Bowler,Right-hand bat,Right-arm offbreak,1977-10-14
+ci:44656,Stephen Cook,44656,,Opening batter,Right-hand bat,Right-arm medium,1982-11-29
+ci:261756,Tumi Masekela,261756,,Unknown,Right-hand bat,Right-arm medium-fast,1987-07-21
+ci:45789,Jacques Kallis,45789,,Allrounder,Right-hand bat,Right-arm fast-medium,1975-10-16
+ci:330519,Gerhardt Abrahams,330519,,Unknown,Right-hand bat,,1990-08-09
+ci:276298,Andre Russell,276298,,Allrounder,Right-hand bat,Right-arm fast,1988-04-29
+ci:230855,Craig Kieswetter,230855,,Opening batter,Right-hand bat,Right-arm offbreak,1987-11-28
+ci:53115,Daren Sammy,53115,,Allrounder,Right-hand bat,Right-arm medium,1983-12-20
+ci:559190,Juan de Villiers,559190,,Unknown,Right-hand bat,Right-arm fast-medium,1989-04-05
+ci:51880,Chris Gayle,51880,,Allrounder,Left-hand bat,Right-arm offbreak,1979-09-21
+ci:47666,Lonwabo Tsotsobe,47666,,Bowler,Right-hand bat,Left-arm fast-medium,1984-03-07
+ci:51439,Dwayne Bravo,51439,,Allrounder,Right-hand bat,Right-arm medium,1983-10-07
+ci:381023,Sammy Mofokeng,381023,,Unknown,Right-hand bat,Right-arm fast-medium,1991-08-05
+ci:535378,Kagiso Mohale,535378,,Unknown,Right-hand bat,Right-arm medium,1994-01-01
+ci:501884,Ruben Claassen,501884,,Unknown,Right-hand bat,Right-arm offbreak,1993-08-12
+ci:429894,Andre Malan,429894,,Unknown,Right-hand bat,Right-arm fast-medium,1991-07-29
+ci:466090,Shaylen Pillay,466090,8526,Middle-order batter,Right-hand bat,Right-arm medium,1994-04-12
+ci:379871,Brad Dolley,379871,,Unknown,Right-hand bat,Legbreak,1992-07-07
+ci:605681,Evan Jones,605681,20308,Batting allrounder,Right-hand bat,Right-arm medium-fast,1996-08-05
+ci:696337,Tetelo Maphaka,696337,33113,Bowler,Left-hand bat,Slow left-arm orthodox,2000-09-21
+ci:742489,Neil Brand,742489,14308,Batting allrounder,Left-hand bat,Slow left-arm orthodox,1996-04-12
+cb:9801,Sibonelo Makhanya,,9801,,,,
+cb:9489,Ayabulela Gqamane,,9489,,,,
+ci:698333,Jiveshan Pillay,698333,13101,Opening batter,Left-hand bat,,1999-01-18
+cb:7649,Aaron Phangiso,,7649,,,,
+ci:1070754,Andile Simelane,1070754,18687,Allrounder,Right-hand bat,Right-arm fast,2003-06-03
+cb:13070,Ryan Rickelton,,13070,,,,
+cb:9719,Delport,,9719,,,,
+cb:19057,Mitchell Van Buuren,,19057,,,,
+cb:11200,Wiaan Mulder,,11200,,,,
+cb:9708,Malusi Siboto,,9708,,,,
+cb:11208,Lutho Sipamla,,11208,,,,
+ci:948435,Khanya Cotani,948435,15122,Wicketkeeper batter,Right-hand bat,,2000-09-13
+cb:11209,Kyle Verreynne,,11209,,,,
+cb:20541,Cunningham,,20541,,,,
+cb:17026,Mihlali Mpongwana,,17026,,,,
+ci:1337353,Abdullah Bayoumy,1337353,1464100,Allrounder,Right-hand bat,Right-arm fast-medium,
+cb:13629,Junaid Dawood,,13629,,,,
+ci:595036,Bamanye Xenxe,595036,20417,Bowler,Right-hand bat,Right-arm fast,1997-05-25
+ci:949545,Khwezi Gumede,949545,15564,Bowler,Right-hand bat,Left-arm medium,1999-06-19
+cb:9540,Harmer,,9540,,,,
+ci:946255,Muhammad Manack,946255,33183,Allrounder,Right-hand bat,Right-arm offbreak,2002-06-06
+cb:9735,Ngoepe,,9735,,,,
+cb:9707,Rudi Second,,9707,,,,
+cb:13089,Breetzke,,13089,,,,
+cb:13667,Sinethemba Qeshile,,13667,,,,
+cb:11204,Abrahams,,11204,,,,
+cb:2239,Elgar,,2239,,,,
+ci:971349,Nandre Burger,971349,13630,Bowler,Left-hand bat,Left-arm fast-medium,1995-08-11
+cb:10687,Dithole,,10687,,,,
+cb:10079,Daryn Dupavillon,,10079,,,,
+ci:1341104,Jan Hardus Coetzer,1341104,20551,Allrounder,Right-hand bat,Right-arm medium-fast,
+ci:1124737,Renaldo Meyer,1124737,20287,Bowler,Left-hand bat,Right-arm fast-medium,1994-06-30
+ci:695283,Musawenkosi Twala,695283,34107,Wicketkeeper batter,Right-hand bat,Right-arm medium,2000-07-12
+ci:1070739,Matthew Boast,1070739,23341,Allrounder,Left-hand bat,Right-arm fast,2003-02-04
+cb:10763,Ayavuya Myoli,,10763,,,,
+ci:1256315,Lwando Tywaku,1256315,24610,Unknown,Right-hand bat,,2000-02-22
+ci:594274,Isaac Dikgale,594274,13091,Top-order batter,Right-hand bat,Right-arm medium,1995-05-14
+ci:596437,Glen Adams,596437,21728,Unknown,Right-hand bat,Right-arm offbreak,1995-02-16
+cb:53450,Andile Mogakane,,53450,,,,
+cb:11427,Anrich Nortje,,11427,,,,
+cb:20372,Nealan van Heerden,,20372,,,,
+cb:9714,Siya Simetu,,9714,,,,
+ci:596069,Thamsanqa Kumalo,596069,51711,Unknown,Left-hand bat,Right-arm offbreak,1999-09-23
+ci:379860,Nofal,379860,9822,Opening batter,Left-hand bat,Slow left-arm orthodox,1991-09-18
+ci:696351,Cameron Shekleton,696351,20357,Unknown,Right-hand bat,,2000-01-21
+ci:596800,Keith Dudgeon,596800,12592,Bowler,Right-hand bat,Right-arm fast-medium,1995-11-07
+ci:595386,Dilivio Ridgaard,595386,20368,Unknown,Left-hand bat,,1997-11-16
+ci:948605,Mondli Khumalo,948605,15919,Unknown,Right-hand bat,Right-arm fast,2001-07-16
+cb:14265,David Bedingham,,14265,,,,
+cb:14429,Onke Nyaku,,14429,,,,
+cb:13151,Mthiwekhaya Nabe,,13151,,,,
+ci:949549,Bradley Porteous,949549,20518,Unknown,Right-hand bat,Right-arm medium,1998-07-28
+cb:8583,Temba Bavuma,,8583,,,,
+cb:9554,Rassie van der Dussen,,9554,,,,
+cb:9585,Kagiso Rabada,,9585,,,,
+ci:1294342,Kwena Maphaka,1294342,23346,Bowler,Left-hand bat,Left-arm fast,2006-04-08
+cb:9582,Markram,,9582,,,,
+ci:1210507,Jack Lees,1210507,15920,Allrounder,Left-hand bat,Right-arm offbreak,2001-08-06
+cb:8531,Lizaad Williams,,8531,,,,
+cb:10173,Tabraiz Shamsi,,10173,,,,
+ci:1337357,Meeka eel Prince,1337357,31951,Wicketkeeper batter,Right-hand bat,,2004-04-05
+ci:807039,Irvin Modimokoane,807039,51046,Unknown,Right-hand bat,Right-arm medium-fast,1998-10-03
+cb:20348,Kurtlyn Mannikam,,20348,,,,
+ci:946483,Nqabayomzi Peter,946483,20428,Bowler,Right-hand bat,Legbreak,2001-12-09
+cb:9575,Yaseen Valli,,9575,,,,
+ci:1414821,Ntando Zuma,1414821,53419,Wicketkeeper batter,Right-hand bat,,2004-12-15
+cb:14431,Trumpelmann,,14431,,,,
+ci:1385640,Lhuan-dre Pretorius,1385640,50545,Wicketkeeper batter,Left-hand bat,,2006-03-27
+ci:698311,Joshua van Heerden,698311,20437,Unknown,Right-hand bat,,1998-06-26
+cb:9763,Edward Moore,,9763,,,,
+ci:1361874,JP King,1361874,41704,Allrounder,Right-hand bat,Right-arm offbreak,2003-08-26
+cb:1423931,Adrian du Toit,,1423931,,,,
+ci:1070997,Connor Esterhuizen,1070997,24622,Top-order batter,Right-hand bat,,2001-05-31
+cb:16631,Tian Koekemoer,,16631,,,,
+ci:1337355,Juan James,1337355,31972,Allrounder,Right-hand bat,Right-arm offbreak,2004-10-07
+ci:1385637,Tristan Luus,1385637,50972,Bowler,Right-hand bat,Right-arm fast-medium,2005-06-26
+ci:1406542,Steve Stolk,1406542,53415,Batter,Right-hand bat,,2006-02-10
+ci:1072026,Gideon Peters,1072026,20432,Bowler,Right-hand bat,Right-arm fast,1999-08-06
+ci:1412823,Wesley Bedja,1412823,53454,Unknown,,,
+ci:1070726,Liam Alder,1070726,20566,Bowler,Right-hand bat,Slow left-arm orthodox,2003-10-07
+ci:595283,Sean Whitehead,595283,11203,Unknown,Right-hand bat,Slow left-arm orthodox,1997-03-07
+cb:55748,Jevano Baron,,55748,,,,
+cb:1669,Roelof van der Merwe,,1669,,,,
+ci:1070953,Achille Cloete,1070953,14583,Bowler,Right-hand bat,Right-arm fast,2001-07-13
+ci:696471,Dian Forrester,696471,50444,Batting allrounder,Left-hand bat,Right-arm fast,2000-06-07
+ci:543187,Johan van Dyk,543187,20317,Unknown,Right-hand bat,Right-arm fast-medium,1994-01-23
+ci:1070762,Slade van Staden,1070762,24041,Unknown,Right-hand bat,Legbreak,2003-04-30
+ci:1385638,Romashan Pillay,1385638,50549,Allrounder,Right-hand bat,Right-arm medium,2005-01-05
+ci:1414819,Nqobani Mokoena,1414819,53408,Bowler,Right-hand bat,Right-arm fast-medium,2006-05-05
+ci:1072594,Andile Mokgakane,1072594,13323,Top-order batter,Right-hand bat,Right-arm medium,1999-12-25
+ci:595786,Jean du Plessis,595786,13318,Middle-order batter,Right-hand bat,Right-arm medium,1998-11-24
+ci:1427726,Christopher King,1427726,1431435,Bowler,Right-hand bat,Right-arm medium-fast,2004-07-24
+ci:1176017,Siya Plaatjie,1176017,14587,Unknown,Right-hand bat,Right-arm medium,
+ci:696309,Garnett Tarr,696309,16821,Unknown,Right-hand bat,,2000-07-02
+ci:1255246,Lehan Botha,1255246,1423887,Unknown,Right-hand bat,Right-arm medium,2001-08-02
+cb:9823,Duanne Olivier,,9823,,,,
+ci:1455040,Ludwich Schuld,1455040,1432803,Unknown,,,
+ci:1071045,Hanu Viljoen,1071045,20327,Unknown,Right-hand bat,,2001-06-05
+ci:1455133,Letsholo Selemela,1455133,1432889,Unknown,,,
+cb:51098,Seth Flerdermaus,,51098,,,,
+ci:1062364,Blayde Capell,1062364,20283,Wicketkeeper,Left-hand bat,,1997-06-03
+ci:1070763,Banele Cele,1070763,1431313,Unknown,Right-hand bat,,2003-02-02
+ci:1385642,Oliver Whitehead,1385642,50815,Allrounder,Right-hand bat,Right-arm medium,2005-01-18
+ci:807033,Christopher Britz,807033,20528,Unknown,Right-hand bat,,1998-12-01
+ci:595056,Kabelo Sekhukhune,595056,14768,Unknown,Left-hand bat,Right-arm offbreak,1997-07-16
+cb:20611,Danie Rossouw,,20611,,,,
+cb:10685,Thomson,,10685,,,,
+ci:1070976,Juan Lubbe,1070976,31925,Unknown,Right-hand bat,Right-arm offbreak,2001-09-10
+ci:1337356,Dewan Marais,1337356,53401,Batter,Right-hand bat,,2004-10-15
+cb:1431059,Shaveer Khan,,1431059,,,,
+ci:596409,Tumelo Simelane,596409,20623,Unknown,Left-hand bat,Slow left-arm orthodox,1995-07-10
+cb:18582,Andrew Rasemene,,18582,,,,
+ci:1070696,Amaan Khan,1070696,24351,Unknown,Right-hand bat,,2003-11-26
+ci:297484,Ernest Kemm,297484,20303,Allrounder,Left-hand bat,Slow left-arm orthodox,1990-11-18
+ci:696517,Modiri Litheko,696517,15948,Unknown,Right-hand bat,Right-arm medium,2000-06-02
+ci:1071995,Emmanuel Motswiri,1071995,50997,Unknown,,,
+ci:596063,Sean Gilson,596063,51686,Unknown,Left-hand bat,Legbreak,1999-04-16
+ci:1452090,Chad Laycock,1452090,1431075,Unknown,,,
+cb:1431051,James Ritchie,,1431051,,,,
+ci:1452091,Thabiso Ndlela,1452091,1431073,Unknown,,,
+cb:14315,Sizwe Masondo,,14315,,,,
+cb:20503,Morne Venter,,20503,,,,
+cb:20262,Louren Steenkamp,,20262,,,,
+cb:15194,Heinrich Pieterse,,15194,,,,
+cb:50552,Daniel van der Merwe,,50552,,,,
+cb:20412,Liam Peters,,20412,,,,
+ci:595832,Don Radebe,595832,20497,Unknown,Right-hand bat,Right-arm medium-fast,1997-02-09
+ci:696479,Atwell Mokgoloboto,696479,24629,Unknown,Right-hand bat,Right-arm offbreak,2000-04-06
+cb:20458,Ludwig Kaestner,,20458,,,,
+ci:595043,Jerome Bossr,595043,20418,Wicketkeeper,Left-hand bat,Left-arm medium,1998-09-22
+ci:698117,Jason Niemand,698117,13319,Allrounder,Right-hand bat,Right-arm offbreak,1998-11-30
+ci:696161,Mncedisi Malika,696161,13514,Unknown,Left-hand bat,,1997-06-12
+cb:1431099,Christopher Gleaves,,1431099,,,,
+ci:1282002,Aphiwe Mnyanda,1282002,20578,Bowler,Right-hand bat,Left-arm fast,2004-05-03
+cb:31923,Nico van Zyl,,31923,,,,
+ci:806985,Keenan Vieira,806985,34968,Unknown,Right-hand bat,,1997-11-01
+cb:20293,Heath Richards,,20293,,,,
+ci:946177,George Van Heerden,946177,20546,Unknown,Right-hand bat,Right-arm medium,2003-09-11
+cb:15918,Tyrese Karelse,,15918,,,,
+cb:50808,Liyabona Malife,,50808,,,,
+cb:14611,Jarred Jardine,,14611,,,,
+cb:14585,Lifa Ntanzi,,14585,,,,
+cb:22106,Hlompo Modimokwane,,22106,,,,
+ci:949459,Muhammed Mayet,949459,21396,Unknown,Right-hand bat,Right-arm medium,1998-02-19
+cb:11009,Yassar Cook,,11009,,,,
+ci:1088122,Nonelela Yikha,1088122,14589,Unknown,Right-hand bat,,2001-08-13
+ci:543324,Jurie Snyman,543324,20591,Unknown,Left-hand bat,Right-arm offbreak,1995-02-20
+ci:596535,Benjamin van Niekerk,596535,23916,Unknown,Right-hand bat,Right-arm offbreak,1996-01-04
+cb:20362,Gareth Dukes,,20362,,,,
+ci:1070624,Jon Hinrichsen,1070624,20392,Unknown,Right-hand bat,Right-arm fast-medium,1999-03-17
+cb:20407,Akhulile Mkhatu,,20407,,,,
+cb:1431091,Themba Maupa,,1431091,,,,
+cb:15922,Pheko Moletsane,,15922,,,,
+cb:20288,Sintu Majeza,,20288,,,,
+cb:22086,Jesse Albanie,,22086,,,,
+cb:31930,Mark Pearse,,31930,,,,
+cb:13325,Hermann Rolfes,,13325,,,,
+ci:1255963,Cole Abrahams,1255963,1431467,Unknown,,,
+cb:20322,Benjamin Van Rensburg,,20322,,,,
+ci:1349906,Thabile Hlatuka,1349906,36398,Unknown,,,
+cb:23931,Aron Visser,,23931,,,,
+cb:1431507,Ayabonga Tongo,,1431507,,,,
+ci:594264,Karabo Mogotsi,594264,21393,Unknown,Right-hand bat,Right-arm offbreak,1995-04-24
+cb:1409130,Junior Makua,,1409130,,,,
+cb:14581,Luke Beaufort,,14581,,,,
+cb:1423859,Olwakhe Goqoza,,1423859,,,,
+ci:429012,Zakir Kathrada,429012,1431603,Unknown,Right-hand bat,,1991-08-17
+cb:34116,Mathew Fourie,,34116,,,,
+cb:55739,Daelen Fynn,,55739,,,,
+cb:1432745,Gerald Pike,,1432745,,,,
+cb:22046,Divan Posthumus,,22046,,,,
+ci:1399519,Martin Khumalo,1399519,50580,Bowler,Right-hand bat,Right-arm medium,2005-10-15
+ci:427964,Marcello Piedt,427964,14767,Unknown,Right-hand bat,Right-arm medium-fast,1992-09-23
+ci:1451599,Lethabo Phahlamohlaka,1451599,1450366,Wicketkeeper batter,Right-hand bat,,2006-10-07
+ci:1425202,Keagan Lion-Cachet,1425202,1423888,Wicketkeeper batter,Right-hand bat,,2002-03-19
+ci:1509540,Gysbert Wege,1509540,1464213,Middle-order batter,Right-hand bat,,2004-06-08
+cb:20297,Jhedli van Briesies,,20297,,,,
+cb:1451029,Kamo Phiri,,1451029,,,,
+ci:1507202,Aryan Gopalan,1507202,1463617,Unknown,,,
+ci:1088085,Matthew de Villiers,1088085,1431305,Batter,Right-hand bat,Right-arm medium,2000-11-21
+ci:1509598,Josh Jordaan,1509598,1464299,Unknown,Right-hand bat,,
+ci:1070722,Gerhardus Maree,1070722,20571,Unknown,Left-hand bat,,2004-12-01
+ci:1088083,Josh Breed,1088083,1451224,Unknown,Right-hand bat,Legbreak,1999-03-20
+ci:1509713,Mbulelo Dube,1509713,1464101,Unknown,,,
+cb:31958,Richard Seletswane,,31958,,,,
+ci:946329,Khaya Fakude,946329,1431297,Unknown,Right-hand bat,Right-arm medium,2002-04-14
+ci:1509723,Rafeeq Patel,1509723,1464307,Unknown,Right-hand bat,Right-arm medium,
+ci:1255250,Asakhe Tsaka,1255250,20583,Bowler,Left-hand bat,Slow left-arm orthodox,2003-07-15
+ci:1479495,Janco Smit,1479495,1462705,Bowler,Right-hand bat,Right-arm medium,
+ci:1418278,Raeeq Daniels,1418278,55284,Bowler,Right-hand bat,Right-arm fast-medium,2006-04-29
+ci:1509904,Morteza Manack,1509904,1464626,Unknown,Left-hand bat,Right-arm offbreak,2007-02-23
+ci:1509591,Gomolemo Phiri,1509591,1464650,Unknown,,,
+ci:1510750,Neil Timmers,1510750,1464670,Wicketkeeper batter,Left-hand bat,,2004-04-04
+ci:1510751,Wilco de Bruin,1510751,1464673,Unknown,Right-hand bat,Right-arm medium,
+ci:1290969,Liyema Waqu,1290969,22111,Unknown,,,
+ci:1469372,Semal pillay,1469372,1450402,Top-order batter,Left-hand bat,,2007-02-19
+ci:1512183,Zakwan Patel,1512183,1465473,Unknown,Right-hand bat,Legbreak googly,
+ci:1070753,Zeden Mahomed,1070753,1450305,Unknown,Right-hand bat,Right-arm fast,2003-05-29
+cb:10172,Sisanda Magala,,10172,,,,
+cb:1463927,Liam Doherty,,1463927,,,,
+cb:1451053,Abel Mokwena,,1451053,,,,
+ci:1508580,Ruan Van Rooyen,1508580,1463916,Unknown,Left-hand bat,Slow left-arm orthodox,2001-02-21
+cb:1423883,Ethan Frosler,,1423883,,,,
+ci:1308589,Shelton Ngobeni,1308589,24645,Unknown,,,
+cb:1463980,Richard Williams,,1463980,,,,
+cb:1463082,Matthew Hollard,,1463082,,,,
+cb:33204,Maphekgola Pootona,,33204,,,,
+cb:55620,Nathan Engelbrecht,,55620,,,,
+cb:1431291,Zack Momberg,,1431291,,,,
+ci:1508864,Christiaan du Toit,1508864,1464015,Unknown,,,
+cb:1464059,Ross Boast,,1464059,,,,
+cb:1451017,Thabo Mosefowa,,1451017,,,,
+ci:1507531,Bryn Brokensha,1507531,1463716,Unknown,Right-hand bat,Right-arm medium,
+cb:1463229,Ricus Kramm,,1463229,,,,
+cb:41652,Brayden Hicks,,41652,,,,
+ci:1509595,Ruben du Toit,1509595,1464296,Unknown,,,
+cb:1464298,Wian Ruthven,,1464298,,,,
+cb:50454,Thozama Totana,,50454,,,,
+cb:33197,Mekyle Pillay,,33197,,,,
+cb:1463694,Ruben Maree,,1463694,,,,
+ci:1402469,Seth Fledermaus,1402469,1451116,Unknown,Right-hand bat,Right-arm offbreak,1999-04-23
+ci:595668,Tylor Trenoweth,595668,1464629,Unknown,Left-hand bat,,1994-01-20
+cb:55638,Kyle Landsberg,,55638,,,,
+cb:51644,Lihle Sizani,,51644,,,,
+cb:1464659,Kaylan Archary,,1464659,,,,
+cb:1463245,Jade Richter,,1463245,,,,
+cb:1464111,Kashief Joseph,,1464111,,,,
+ci:825405,Jody Lawrence,825405,23906,Unknown,Right-hand bat,Right-arm fast,1990-05-26
+ci:1451597,Bayanda Majola,1451597,1451245,Bowler,Left-hand bat,Right-arm medium,2007-01-08
+ci:1189295,Nhlanhla Dlamini,1189295,31993,Unknown,Right-hand bat,Right-arm offbreak,1998-01-04
+ci:1253296,Thomas Mayes,1253296,41928,Bowler,Right-hand bat,Right-arm medium-fast,2001-01-04
+ci:1548623,Jason Muirhead,1548623,1480043,Unknown,,,

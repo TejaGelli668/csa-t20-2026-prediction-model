@@ -1,0 +1,98 @@
+[
+ {
+  "team": "NCAPE",
+  "name": "Northern Cape",
+  "squad_id": 132627,
+  "team_id": 923
+ },
+ {
+  "team": "LIMPO",
+  "name": "Limpopo",
+  "squad_id": 132637,
+  "team_id": 912
+ },
+ {
+  "team": "WAR",
+  "name": "Warriors",
+  "squad_id": 132647,
+  "team_id": 155
+ },
+ {
+  "team": "NWEST",
+  "name": "North West - Eastvaal Renault Dragons",
+  "squad_id": 132657,
+  "team_id": 922
+ },
+ {
+  "team": "TIT",
+  "name": "Titans",
+  "squad_id": 132667,
+  "team_id": 89
+ },
+ {
+  "team": "WPR",
+  "name": "Western Province",
+  "squad_id": 132677,
+  "team_id": 917
+ },
+ {
+  "team": "BOR",
+  "name": "Border",
+  "squad_id": 132687,
+  "team_id": 1775
+ },
+ {
+  "team": "LIONS",
+  "name": "Lions",
+  "squad_id": 132697,
+  "team_id": 157
+ },
+ {
+  "team": "DOL",
+  "name": "Dolphins",
+  "squad_id": 132707,
+  "team_id": 90
+ },
+ {
+  "team": "KNG",
+  "name": "Knights",
+  "squad_id": 132717,
+  "team_id": 281
+ },
+ {
+  "team": "MPR",
+  "name": "Mpumalanga Rhinos",
+  "squad_id": 132727,
+  "team_id": 903
+ },
+ {
+  "team": "SAEP",
+  "name": "South Africa Emerging Players",
+  "squad_id": 132737,
+  "team_id": 1782
+ },
+ {
+  "team": "KZNIN",
+  "name": "KwaZulu-Natal Inland Tuskers",
+  "squad_id": 132747,
+  "team_id": 1766
+ },
+ {
+  "team": "ESTORM",
+  "name": "Eastern Storm",
+  "squad_id": 132757,
+  "team_id": 933
+ },
+ {
+  "team": "SWD",
+  "name": "South Western Districts",
+  "squad_id": 132767,
+  "team_id": 1768
+ },
+ {
+  "team": "BOL",
+  "name": "Boland",
+  "squad_id": 132777,
+  "team_id": 1759
+ }
+]
